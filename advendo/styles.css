@@ -22,6 +22,10 @@ button {
 .mediabutton {
 }
 
+.volume_slider {
+  width: 80px !important;
+}
+
 .music_progress {
   height: 20px;
   width: 13em;
@@ -42,8 +46,12 @@ table table {
 }
 
 /* zebra-stripes */
-tr:nth-child(even) {
+#tbl_allparts tr:nth-child(even) {
   background-color: #f2f2f2;
+}
+
+#tbl_allparts table tr:nth-child(even) {
+  background-color: transparent;
 }
 
 input[type=range][orient=vertical] {
