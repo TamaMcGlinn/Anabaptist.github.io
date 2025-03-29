@@ -185,6 +185,18 @@ const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_do
     <th></th>
     <th></th>
     <th></th>
+    <th><input type="range" min="0" max="100" orient="vertical" onchange="volume_change()" id="sld_volume" /></th>
+    <th><input type="range" min="0" max="100" orient="vertical" onchange="slider_change('Soprano')" id="sld_Soprano" /></th>
+    <th><input type="range" min="0" max="100" orient="vertical" onchange="slider_change('Alto')" id="sld_Alto" /></th>
+    <th><input type="range" min="0" max="100" orient="vertical" onchange="slider_change('Tenor')" id="sld_Tenor" /></th>
+    <th><input type="range" min="0" max="100" orient="vertical" onchange="slider_change('Bass')" id="sld_Bass" /></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
     <th><button onclick="all_voice('All')">All</button></th>
     <th><button onclick="all_voice('Soprano')">S</button></th>
     <th><button onclick="all_voice('Alto')">A</button></th>
@@ -413,7 +425,6 @@ const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_do
     <td><a href='/advendo/2558_groot_is_Uw_trouw/2558_groot_is_Uw_trouw_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
     <td><a href='/advendo/2558_groot_is_Uw_trouw/2558_groot_is_Uw_trouw.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
-
 </table>
 
 </body>

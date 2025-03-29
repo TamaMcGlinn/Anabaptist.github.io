@@ -112,6 +112,33 @@ function resetSong(song) {
   song_playing.audioElements.forEach(x => x.currentTime = 0)
 }
 
+function volume_change() {
+  var master_volume_slider = document.getElementById("sld_volume")
+  voices.forEach((v) => {
+    var voice_volume_slider = document.getElementById("sld_" + v)
+    voice_volume_slider.value = master_volume_slider.value
+    slider_change(v)
+  })
+}
+
+function slider_change(voice) {
+  if (song_playing === undefined) {
+    return
+  }
+  var index = voices.indexOf(voice);
+  var slider = document.getElementById("sld_" + voice)
+  song_playing.audioElements[index].volume = slider.value / 100
+}
+
+function get_volumes() {
+  var volumes = []
+  voices.forEach((v) => {
+    var voice_volume_slider = document.getElementById("sld_" + v)
+    volumes.push(voice_volume_slider.value / 100)
+  })
+  return volumes
+}
+
 function play_song(song) {
   var selected_audio = getSelectedAudio(song.name)
   if (selected_audio.length === 0) {
@@ -120,21 +147,23 @@ function play_song(song) {
   }
   song_playing = {song_name: song.name, audioElements: getSelectedAudio(song.name)}
   song_playing.audioElements.forEach(x => x.play());
+  var volumes = get_volumes()
+  for (let i = 0; i < song_playing.audioElements.length; i++) {
+    var audioEl = song_playing.audioElements[i];
+    audioEl.volume = volumes[i]
+  }
 }
 
 function playPause(song) {
   var song_name = song.name
   if (song_playing === undefined) {
-    console.log("play")
     play_song(song)
   } else {
     if (song_playing.song_name !== song.name) {
       // switch song
-      console.log("switch")
       pauseAudio()
       play_song(song)
     } else {
-      console.log("pause")
       pauseAudio()
     }
   }
