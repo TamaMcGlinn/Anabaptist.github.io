@@ -2,6 +2,10 @@
 /*   border-style: solid; */
 /* } */
 
+* {
+  font-size: 22px;
+}
+
 input[type="checkbox"] {
     width: 2.8em;
     height: 2.8em;
@@ -12,11 +16,20 @@ button {
     font-size: 18px;
 }
 
+#tbl_allparts {
+}
+
 .mediabutton {
 }
 
 .music_progress {
   height: 20px;
+  width: 13em;
+}
+
+.music_open {
+  width: 2.2em;
+  height: 2.2em;
 }
 
 table {

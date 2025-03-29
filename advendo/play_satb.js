@@ -112,17 +112,6 @@ function resetSong(song) {
   song_playing.audioElements.forEach(x => x.currentTime = 0)
 }
 
-function set_pdf_viewer(song) {
-  if (last_displayed_song === song) {
-    return
-  }
-  last_displayed_song = song
-  const pdf_file="./" + song.number + "_" + song.name + 
-                  "/" + song.number + "_" + song.name + ".pdf#toolbar=0&navpanes=0&scrollbar=0"
-  var pdf_element = document.getElementById("embed_song")
-  pdf_element.data = pdf_file
-}
-
 function play_song(song) {
   var selected_audio = getSelectedAudio(song.name)
   if (selected_audio.length === 0) {
@@ -131,7 +120,6 @@ function play_song(song) {
   }
   song_playing = {song_name: song.name, audioElements: getSelectedAudio(song.name)}
   song_playing.audioElements.forEach(x => x.play());
-  set_pdf_viewer(song)
 }
 
 function playPause(song) {

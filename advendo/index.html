@@ -180,10 +180,6 @@ const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_do
   Your browser does not support the audio element.
 </audio>
 
-
-<table>
-  <tr><td>
-
 <table id="tbl_allparts">
   <tr>
     <th></th>
@@ -194,217 +190,229 @@ const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_do
     <th><button onclick="all_voice('Alto')">A</button></th>
     <th><button onclick="all_voice('Tenor')">T</button></th>
     <th><button onclick="all_voice('Bass')">B</button></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td><button onclick="resetSong(wees_stil_en_weet)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(wees_stil_en_weet)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2557 wees_stil_en_weet</span>
+          <span>2557 Wees Stil En Weet</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_wees_stil_en_weet" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_wees_stil_en_weet" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(wees_stil_en_weet)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_wees_stil_en_weet-All" onclick="change_all('wees_stil_en_weet')"></td>
-    <td><input type="checkbox" id="cb_wees_stil_en_weet-Soprano" onclick="cb_change('wees_stil_en_weet', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_wees_stil_en_weet-Alto" onclick="cb_change('wees_stil_en_weet', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_wees_stil_en_weet-Tenor" onclick="cb_change('wees_stil_en_weet', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_wees_stil_en_weet-Bass" onclick="cb_change('wees_stil_en_weet', 'Bass')"></td>
+    <td><button onclick="playPause(wees_stil_en_weet)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_wees_stil_en_weet-All"onclick="change_all('wees_stil_en_weet')" checked></td>
+    <td><input type="checkbox" id="cb_wees_stil_en_weet-Soprano"onclick="cb_change('wees_stil_en_weet', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_wees_stil_en_weet-Alto"onclick="cb_change('wees_stil_en_weet', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_wees_stil_en_weet-Tenor"onclick="cb_change('wees_stil_en_weet', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_wees_stil_en_weet-Bass"onclick="cb_change('wees_stil_en_weet', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2557_wees_stil_en_weet/2557_wees_stil_en_weet_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2557_wees_stil_en_weet/2557_wees_stil_en_weet.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(blijf_mij_nabij)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(blijf_mij_nabij)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2550 blijf_mij_nabij</span>
+          <span>2550 Blijf Mij Nabij</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_blijf_mij_nabij" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_blijf_mij_nabij" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(blijf_mij_nabij)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_blijf_mij_nabij-All" onclick="change_all('blijf_mij_nabij')"></td>
-    <td><input type="checkbox" id="cb_blijf_mij_nabij-Soprano" onclick="cb_change('blijf_mij_nabij', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_blijf_mij_nabij-Alto" onclick="cb_change('blijf_mij_nabij', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_blijf_mij_nabij-Tenor" onclick="cb_change('blijf_mij_nabij', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_blijf_mij_nabij-Bass" onclick="cb_change('blijf_mij_nabij', 'Bass')"></td>
+    <td><button onclick="playPause(blijf_mij_nabij)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_blijf_mij_nabij-All"onclick="change_all('blijf_mij_nabij')" checked></td>
+    <td><input type="checkbox" id="cb_blijf_mij_nabij-Soprano"onclick="cb_change('blijf_mij_nabij', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_blijf_mij_nabij-Alto"onclick="cb_change('blijf_mij_nabij', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_blijf_mij_nabij-Tenor"onclick="cb_change('blijf_mij_nabij', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_blijf_mij_nabij-Bass"onclick="cb_change('blijf_mij_nabij', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2550_blijf_mij_nabij/2550_blijf_mij_nabij_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2550_blijf_mij_nabij/2550_blijf_mij_nabij.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(waar_de_mensen_dwalen_in_het_donker)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(waar_de_mensen_dwalen_in_het_donker)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2467 waar_de_mensen_dwalen_in_het_donker</span>
+          <span>2467 Waar De Mensen Dwal…</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_waar_de_mensen_dwalen_in_het_donker" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_waar_de_mensen_dwalen_in_het_donker" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(waar_de_mensen_dwalen_in_het_donker)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-All" onclick="change_all('waar_de_mensen_dwalen_in_het_donker')"></td>
-    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Soprano" onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Alto" onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Tenor" onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Bass" onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Bass')"></td>
+    <td><button onclick="playPause(waar_de_mensen_dwalen_in_het_donker)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-All"onclick="change_all('waar_de_mensen_dwalen_in_het_donker')" checked></td>
+    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Soprano"onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Alto"onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Tenor"onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_waar_de_mensen_dwalen_in_het_donker-Bass"onclick="cb_change('waar_de_mensen_dwalen_in_het_donker', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2467_waar_de_mensen_dwalen_in_het_donker/2467_waar_de_mensen_dwalen_in_het_donker_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2467_waar_de_mensen_dwalen_in_het_donker/2467_waar_de_mensen_dwalen_in_het_donker.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(be_still_and_know)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(be_still_and_know)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2361 be_still_and_know</span>
+          <span>2361 Be Still And Know</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_be_still_and_know" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_be_still_and_know" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(be_still_and_know)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_be_still_and_know-All" onclick="change_all('be_still_and_know')"></td>
-    <td><input type="checkbox" id="cb_be_still_and_know-Soprano" onclick="cb_change('be_still_and_know', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_be_still_and_know-Alto" onclick="cb_change('be_still_and_know', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_be_still_and_know-Tenor" onclick="cb_change('be_still_and_know', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_be_still_and_know-Bass" onclick="cb_change('be_still_and_know', 'Bass')"></td>
+    <td><button onclick="playPause(be_still_and_know)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_be_still_and_know-All"onclick="change_all('be_still_and_know')" checked></td>
+    <td><input type="checkbox" id="cb_be_still_and_know-Soprano"onclick="cb_change('be_still_and_know', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_be_still_and_know-Alto"onclick="cb_change('be_still_and_know', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_be_still_and_know-Tenor"onclick="cb_change('be_still_and_know', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_be_still_and_know-Bass"onclick="cb_change('be_still_and_know', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2361_be_still_and_know/2361_be_still_and_know_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2361_be_still_and_know/2361_be_still_and_know.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(welk_een_vriend_is_onze_jezus)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(welk_een_vriend_is_onze_jezus)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>46 welk_een_vriend_is_onze_jezus</span>
+          <span>46 Welk Een Vriend Is …</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_welk_een_vriend_is_onze_jezus" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_welk_een_vriend_is_onze_jezus" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(welk_een_vriend_is_onze_jezus)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-All" onclick="change_all('welk_een_vriend_is_onze_jezus')"></td>
-    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Soprano" onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Alto" onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Tenor" onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Bass" onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Bass')"></td>
+    <td><button onclick="playPause(welk_een_vriend_is_onze_jezus)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-All"onclick="change_all('welk_een_vriend_is_onze_jezus')" checked></td>
+    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Soprano"onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Alto"onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Tenor"onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_welk_een_vriend_is_onze_jezus-Bass"onclick="cb_change('welk_een_vriend_is_onze_jezus', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/46_welk_een_vriend_is_onze_jezus/46_welk_een_vriend_is_onze_jezus_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/46_welk_een_vriend_is_onze_jezus/46_welk_een_vriend_is_onze_jezus.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(op_U_alleen)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(op_U_alleen)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2559 op_U_alleen</span>
+          <span>2559 Op U Alleen</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_op_U_alleen" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_op_U_alleen" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(op_U_alleen)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_op_U_alleen-All" onclick="change_all('op_U_alleen')"></td>
-    <td><input type="checkbox" id="cb_op_U_alleen-Soprano" onclick="cb_change('op_U_alleen', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_op_U_alleen-Alto" onclick="cb_change('op_U_alleen', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_op_U_alleen-Tenor" onclick="cb_change('op_U_alleen', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_op_U_alleen-Bass" onclick="cb_change('op_U_alleen', 'Bass')"></td>
+    <td><button onclick="playPause(op_U_alleen)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_op_U_alleen-All"onclick="change_all('op_U_alleen')" checked></td>
+    <td><input type="checkbox" id="cb_op_U_alleen-Soprano"onclick="cb_change('op_U_alleen', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_op_U_alleen-Alto"onclick="cb_change('op_U_alleen', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_op_U_alleen-Tenor"onclick="cb_change('op_U_alleen', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_op_U_alleen-Bass"onclick="cb_change('op_U_alleen', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2559_op_U_alleen/2559_op_U_alleen_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2559_op_U_alleen/2559_op_U_alleen.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(deep_harmony)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(deep_harmony)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2358 deep_harmony</span>
+          <span>2358 Deep Harmony</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_deep_harmony" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_deep_harmony" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(deep_harmony)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_deep_harmony-All" onclick="change_all('deep_harmony')"></td>
-    <td><input type="checkbox" id="cb_deep_harmony-Soprano" onclick="cb_change('deep_harmony', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_deep_harmony-Alto" onclick="cb_change('deep_harmony', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_deep_harmony-Tenor" onclick="cb_change('deep_harmony', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_deep_harmony-Bass" onclick="cb_change('deep_harmony', 'Bass')"></td>
+    <td><button onclick="playPause(deep_harmony)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_deep_harmony-All"onclick="change_all('deep_harmony')" checked></td>
+    <td><input type="checkbox" id="cb_deep_harmony-Soprano"onclick="cb_change('deep_harmony', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_deep_harmony-Alto"onclick="cb_change('deep_harmony', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_deep_harmony-Tenor"onclick="cb_change('deep_harmony', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_deep_harmony-Bass"onclick="cb_change('deep_harmony', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2358_deep_harmony/2358_deep_harmony_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2358_deep_harmony/2358_deep_harmony.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(wes_stil_en_wit)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(wes_stil_en_wit)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2455 wes_stil_en_wit</span>
+          <span>2455 Wes Stil En Wit</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_wes_stil_en_wit" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_wes_stil_en_wit" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(wes_stil_en_wit)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_wes_stil_en_wit-All" onclick="change_all('wes_stil_en_wit')"></td>
-    <td><input type="checkbox" id="cb_wes_stil_en_wit-Soprano" onclick="cb_change('wes_stil_en_wit', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_wes_stil_en_wit-Alto" onclick="cb_change('wes_stil_en_wit', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_wes_stil_en_wit-Tenor" onclick="cb_change('wes_stil_en_wit', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_wes_stil_en_wit-Bass" onclick="cb_change('wes_stil_en_wit', 'Bass')"></td>
+    <td><button onclick="playPause(wes_stil_en_wit)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_wes_stil_en_wit-All"onclick="change_all('wes_stil_en_wit')" checked></td>
+    <td><input type="checkbox" id="cb_wes_stil_en_wit-Soprano"onclick="cb_change('wes_stil_en_wit', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_wes_stil_en_wit-Alto"onclick="cb_change('wes_stil_en_wit', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_wes_stil_en_wit-Tenor"onclick="cb_change('wes_stil_en_wit', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_wes_stil_en_wit-Bass"onclick="cb_change('wes_stil_en_wit', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2455_wes_stil_en_wit/2455_wes_stil_en_wit_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2455_wes_stil_en_wit/2455_wes_stil_en_wit.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(vrede_zij_u)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(vrede_zij_u)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>753 vrede_zij_u</span>
+          <span>753 Vrede Zij U</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_vrede_zij_u" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_vrede_zij_u" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(vrede_zij_u)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_vrede_zij_u-All" onclick="change_all('vrede_zij_u')"></td>
-    <td><input type="checkbox" id="cb_vrede_zij_u-Soprano" onclick="cb_change('vrede_zij_u', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_vrede_zij_u-Alto" onclick="cb_change('vrede_zij_u', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_vrede_zij_u-Tenor" onclick="cb_change('vrede_zij_u', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_vrede_zij_u-Bass" onclick="cb_change('vrede_zij_u', 'Bass')"></td>
+    <td><button onclick="playPause(vrede_zij_u)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_vrede_zij_u-All"onclick="change_all('vrede_zij_u')" checked></td>
+    <td><input type="checkbox" id="cb_vrede_zij_u-Soprano"onclick="cb_change('vrede_zij_u', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_vrede_zij_u-Alto"onclick="cb_change('vrede_zij_u', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_vrede_zij_u-Tenor"onclick="cb_change('vrede_zij_u', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_vrede_zij_u-Bass"onclick="cb_change('vrede_zij_u', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/753_vrede_zij_u/753_vrede_zij_u_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/753_vrede_zij_u/753_vrede_zij_u.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
-    <td><button onclick="resetSong(groot_is_Uw_trouw)" type="button" class="mediabutton">⏮</button></td>
+    <td><button onclick="resetSong(groot_is_Uw_trouw)" type="button"class="mediabutton">⏮</button></td>
     <td>
       <table>
         <tr><td>
-          <span>2558 groot_is_Uw_trouw</span>
+          <span>2558 Groot Is Uw Trouw</span>
         </td></tr>
         <tr><td>
-          <progress id="pgb_groot_is_Uw_trouw" value="0" max="100" class="music_progress"></progress>
+          <progress id="pgb_groot_is_Uw_trouw" value="0" max="100"class="music_progress"></progress>
         </td></tr>
       </table>
     </td>
-    <td><button onclick="playPause(groot_is_Uw_trouw)" type="button" class="mediabutton">⏯ </button></td>
-    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-All" onclick="change_all('groot_is_Uw_trouw')"></td>
-    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Soprano" onclick="cb_change('groot_is_Uw_trouw', 'Soprano')"></td>
-    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Alto" onclick="cb_change('groot_is_Uw_trouw', 'Alto')"></td>
-    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Tenor" onclick="cb_change('groot_is_Uw_trouw', 'Tenor')"></td>
-    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Bass" onclick="cb_change('groot_is_Uw_trouw', 'Bass')"></td>
+    <td><button onclick="playPause(groot_is_Uw_trouw)"type="button" class="mediabutton">⏯ </button></td>
+    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-All"onclick="change_all('groot_is_Uw_trouw')" checked></td>
+    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Soprano"onclick="cb_change('groot_is_Uw_trouw', 'Soprano')" checked></td>
+    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Alto"onclick="cb_change('groot_is_Uw_trouw', 'Alto')" checked></td>
+    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Tenor"onclick="cb_change('groot_is_Uw_trouw', 'Tenor')" checked></td>
+    <td><input type="checkbox" id="cb_groot_is_Uw_trouw-Bass"onclick="cb_change('groot_is_Uw_trouw', 'Bass')" checked></td>
     <td></td>
+    <td><a href='/advendo/2558_groot_is_Uw_trouw/2558_groot_is_Uw_trouw_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2558_groot_is_Uw_trouw/2558_groot_is_Uw_trouw.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
-
-</table>
-
-</td>
-<td>
-
-<!-- <object id="embed_song" data="./46_welk_een_vriend_is_onze_jezus/46_welk_een_vriend_is_onze_jezus.pdf#toolbar=0&#38;navpanes=0&#38;scrollbar=0" width="800px" height="1110px" /> -->
-<embed id="embed_song" src="./46_welk_een_vriend_is_onze_jezus/46_welk_een_vriend_is_onze_jezus.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800px" height="1110px" />
-
-</td></tr>
 
 </table>
 
