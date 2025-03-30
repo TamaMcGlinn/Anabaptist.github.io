@@ -12,11 +12,12 @@ const be_still_and_know = {name: "be_still_and_know", number: 2361}
 const welk_een_vriend_is_onze_jezus = {name: "welk_een_vriend_is_onze_jezus", number: 46}
 const op_U_alleen = {name: "op_U_alleen", number: 2559}
 const deep_harmony = {name: "deep_harmony", number: 2358}
+const O_God_ik_hear_Jo_winen_hjoed = {name: "O_God_ik_hear_Jo_winen_hjoed", number: 2451}
 const wes_stil_en_wit = {name: "wes_stil_en_wit", number: 2455}
 const vrede_zij_u = {name: "vrede_zij_u", number: 753}
 const vervuld_van_Uw_zegen = {name: "vervuld_van_Uw_zegen", number: 2556}
 const groot_is_Uw_trouw = {name: "groot_is_Uw_trouw", number: 2558}
-const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_donker,be_still_and_know,welk_een_vriend_is_onze_jezus,op_U_alleen,deep_harmony,wes_stil_en_wit,vrede_zij_u,vervuld_van_Uw_zegen,groot_is_Uw_trouw]
+const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_donker,be_still_and_know,welk_een_vriend_is_onze_jezus,op_U_alleen,deep_harmony,O_God_ik_hear_Jo_winen_hjoed,wes_stil_en_wit,vrede_zij_u,vervuld_van_Uw_zegen,groot_is_Uw_trouw]
     </script>
   </head>
 <body>
@@ -130,6 +131,22 @@ const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_do
 </audio>
 <audio id="deep_harmony-Bass" loop=true>
   <source src="/advendo/2358_deep_harmony/deep_harmony-Bass.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="O_God_ik_hear_Jo_winen_hjoed-Soprano" loop=true>
+  <source src="/advendo/2451_O_God_ik_hear_Jo_winen_hjoed/O_God_ik_hear_Jo_winen_hjoed-Soprano.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="O_God_ik_hear_Jo_winen_hjoed-Alto" loop=true>
+  <source src="/advendo/2451_O_God_ik_hear_Jo_winen_hjoed/O_God_ik_hear_Jo_winen_hjoed-Alto.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="O_God_ik_hear_Jo_winen_hjoed-Tenor" loop=true>
+  <source src="/advendo/2451_O_God_ik_hear_Jo_winen_hjoed/O_God_ik_hear_Jo_winen_hjoed-Tenor.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="O_God_ik_hear_Jo_winen_hjoed-Bass" loop=true>
+  <source src="/advendo/2451_O_God_ik_hear_Jo_winen_hjoed/O_God_ik_hear_Jo_winen_hjoed-Bass.mp3"" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <audio id="wes_stil_en_wit-Soprano" loop=true>
@@ -326,6 +343,22 @@ const songs = [wees_stil_en_weet,blijf_mij_nabij,waar_de_mensen_dwalen_in_het_do
     <td><button onclick="playPause(deep_harmony)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/advendo/2358_deep_harmony/2358_deep_harmony_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
     <td><a href='/advendo/2358_deep_harmony/2358_deep_harmony.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(O_God_ik_hear_Jo_winen_hjoed)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>2451 O God Ik Hear Jo Wi…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_O_God_ik_hear_Jo_winen_hjoed" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(O_God_ik_hear_Jo_winen_hjoed)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/advendo/2451_O_God_ik_hear_Jo_winen_hjoed/2451_O_God_ik_hear_Jo_winen_hjoed_rond.pdf'target='_blank'><img src='/advendo/roundnote.png' class='music_open'></a></td>
+    <td><a href='/advendo/2451_O_God_ik_hear_Jo_winen_hjoed/2451_O_God_ik_hear_Jo_winen_hjoed.pdf'target='_blank'><img src='/advendo/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
     <td><button onclick="resetSong(wes_stil_en_wit)" type="button"class="mediabutton">⏮</button></td>
