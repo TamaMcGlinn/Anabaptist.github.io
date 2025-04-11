@@ -26,6 +26,14 @@ button {
   width: 80px !important;
 }
 
+.speed_slider {
+  width: 330px !important;
+  accent-color: rgb(104, 238, 104);
+  progress::-moz-progress-bar { background: green; }
+  progress::-webkit-progress-value { background: green; }
+  progress { color: green; }
+}
+
 .music_progress {
   height: 20px;
   width: 13em;

@@ -39,6 +39,15 @@ function resetSong(song) {
   song_playing.audioElements.forEach(x => x.currentTime = 0)
 }
 
+function speed_slider_change() {
+  var speed = get_playback_speed()
+  if (song_playing !== undefined) {
+    song_playing.audioElements.forEach(x => x.playbackRate = speed);
+  }
+  var speed_label = document.getElementById("lbl_speed")
+  speed_label.textContent = speed + "x"
+}
+
 function volume_change() {
   var master_volume_slider = document.getElementById("sld_volume")
   voices.forEach((v) => {
@@ -57,6 +66,11 @@ function slider_change(voice) {
   song_playing.audioElements[index].volume = slider.value / 100
 }
 
+function get_playback_speed() {
+  var speed_slider = document.getElementById("sld_speed")
+  return speed_slider.value / 100
+}
+
 function get_volumes() {
   var volumes = []
   voices.forEach((v) => {
@@ -70,6 +84,8 @@ function play_song(song) {
   var audioElements = getAudioElements(song.name)
   song_playing = {song_name: song.name, audioElements: audioElements}
   audioElements.forEach(x => x.play());
+  var speed = get_playback_speed()
+  audioElements.forEach(x => x.playbackRate = speed);
   var volumes = get_volumes()
   for (let i = 0; i < audioElements.length; i++) {
     var audioEl = audioElements[i];
