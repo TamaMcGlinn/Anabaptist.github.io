@@ -31,7 +31,8 @@ const Heer_diep_in_mij_aanwezig = {name: "Heer_diep_in_mij_aanwezig", number: 23
 const waar_de_mensen_dwalen_in_het_donker = {name: "waar_de_mensen_dwalen_in_het_donker", number: 24}
 const vervuld_van_Uw_zegen = {name: "vervuld_van_Uw_zegen", number: 25}
 const wees_stil_en_weet = {name: "wees_stil_en_weet", number: 26}
-const songs = [groot_is_Uw_trouw,hij_die_rustig_en_stil,ik_voel_de_winden_Gods_vandaag,zoals_gij_zijt,de_Heer_is_mijn_hulp,Jezus_Losser_van_mijn_ziel,k_zie_het_land,psalm23,neem_mijn_leven_laat_het_heer,rots_der_eeuwen,in_christus_is_noch_west_noch_oost,t_hijgend_hert_der_jacht_ontkomen,t_zij_vreugde_mijn_deel_is,op_U_alleen,hoe_groot_zijt_Gij,Hij_wordt_in_t_graf_gelegd,blijf_mij_nabij,welk_een_vriend_is_onze_jezus,spreek_mij_van_Jezus,schoonste_Heer_Jezus,veilig_in_Jezus_armen,vrede_zij_u,Heer_diep_in_mij_aanwezig,waar_de_mensen_dwalen_in_het_donker,vervuld_van_Uw_zegen,wees_stil_en_weet]
+const daar_juicht_een_toon = {name: "daar_juicht_een_toon", number: 27}
+const songs = [groot_is_Uw_trouw,hij_die_rustig_en_stil,ik_voel_de_winden_Gods_vandaag,zoals_gij_zijt,de_Heer_is_mijn_hulp,Jezus_Losser_van_mijn_ziel,k_zie_het_land,psalm23,neem_mijn_leven_laat_het_heer,rots_der_eeuwen,in_christus_is_noch_west_noch_oost,t_hijgend_hert_der_jacht_ontkomen,t_zij_vreugde_mijn_deel_is,op_U_alleen,hoe_groot_zijt_Gij,Hij_wordt_in_t_graf_gelegd,blijf_mij_nabij,welk_een_vriend_is_onze_jezus,spreek_mij_van_Jezus,schoonste_Heer_Jezus,veilig_in_Jezus_armen,vrede_zij_u,Heer_diep_in_mij_aanwezig,waar_de_mensen_dwalen_in_het_donker,vervuld_van_Uw_zegen,wees_stil_en_weet,daar_juicht_een_toon]
     </script>
   </head>
 <body>
@@ -449,6 +450,22 @@ const songs = [groot_is_Uw_trouw,hij_die_rustig_en_stil,ik_voel_de_winden_Gods_v
 </audio>
 <audio id="wees_stil_en_weet-Bass" loop=true>
   <source src="/songs/wes_stil_en_wit/wes_stil_en_wit-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="daar_juicht_een_toon-Soprano" loop=true>
+  <source src="/songs/daar_juicht_een_toon/daar_juicht_een_toon-Soprano.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="daar_juicht_een_toon-Alto" loop=true>
+  <source src="/songs/daar_juicht_een_toon/daar_juicht_een_toon-Alto.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="daar_juicht_een_toon-Tenor" loop=true>
+  <source src="/songs/daar_juicht_een_toon/daar_juicht_een_toon-Tenor.mp3"" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="daar_juicht_een_toon-Bass" loop=true>
+  <source src="/songs/daar_juicht_een_toon/daar_juicht_een_toon-Bass.mp3"" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -888,6 +905,22 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><button onclick="playPause(wees_stil_en_weet)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/songs/wees_stil_en_weet/26_wees_stil_en_weet_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/wees_stil_en_weet/26_wees_stil_en_weet.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(daar_juicht_een_toon)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>27 Daar Juicht Een Toon</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_daar_juicht_een_toon" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(daar_juicht_een_toon)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/daar_juicht_een_toon/27_daar_juicht_een_toon_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/daar_juicht_een_toon/27_daar_juicht_een_toon.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
   </tr>
 
 </table>
