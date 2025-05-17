@@ -7,6 +7,7 @@
     <script>
 const Heer_diep_in_mij_aanwezig = {name: "Heer_diep_in_mij_aanwezig", number: 34}
 const welk_een_vriend_is_onze_jezus = {name: "welk_een_vriend_is_onze_jezus", number: 46}
+const U_zij_de_glorie = {name: "U_zij_de_glorie", number: 89}
 const vrede_zij_u = {name: "vrede_zij_u", number: 753}
 const hoe_groot_zijt_Gij = {name: "hoe_groot_zijt_Gij", number: 905}
 const mijn_Jezus_ik_hou_van_U = {name: "mijn_Jezus_ik_hou_van_U", number: 997}
@@ -21,7 +22,7 @@ const vervuld_van_Uw_zegen = {name: "vervuld_van_Uw_zegen", number: 2556}
 const wees_stil_en_weet = {name: "wees_stil_en_weet", number: 2557}
 const groot_is_Uw_trouw = {name: "groot_is_Uw_trouw", number: 2558}
 const op_U_alleen = {name: "op_U_alleen", number: 2559}
-const songs = [Heer_diep_in_mij_aanwezig,welk_een_vriend_is_onze_jezus,vrede_zij_u,hoe_groot_zijt_Gij,mijn_Jezus_ik_hou_van_U,deep_harmony,be_still_and_know,Abba_Vader,o_God_ik_hear_Jo_winen_hjoed,wes_stil_en_wit,waar_de_mensen_dwalen_in_het_donker,blijf_mij_nabij,vervuld_van_Uw_zegen,wees_stil_en_weet,groot_is_Uw_trouw,op_U_alleen]
+const songs = [Heer_diep_in_mij_aanwezig,welk_een_vriend_is_onze_jezus,U_zij_de_glorie,vrede_zij_u,hoe_groot_zijt_Gij,mijn_Jezus_ik_hou_van_U,deep_harmony,be_still_and_know,Abba_Vader,o_God_ik_hear_Jo_winen_hjoed,wes_stil_en_wit,waar_de_mensen_dwalen_in_het_donker,blijf_mij_nabij,vervuld_van_Uw_zegen,wees_stil_en_weet,groot_is_Uw_trouw,op_U_alleen]
     </script>
   </head>
 <body>
@@ -55,6 +56,22 @@ const songs = [Heer_diep_in_mij_aanwezig,welk_een_vriend_is_onze_jezus,vrede_zij
 </audio>
 <audio id="welk_een_vriend_is_onze_jezus-Bass" loop=true>
   <source src="/songs/welk_een_vriend_is_onze_jezus/welk_een_vriend_is_onze_jezus-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie-Soprano" loop=true>
+  <source src="/songs/U_zij_de_glorie/U_zij_de_glorie-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie-Alto" loop=true>
+  <source src="/songs/U_zij_de_glorie/U_zij_de_glorie-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie-Tenor" loop=true>
+  <source src="/songs/U_zij_de_glorie/U_zij_de_glorie-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie-Bass" loop=true>
+  <source src="/songs/U_zij_de_glorie/U_zij_de_glorie-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <audio id="vrede_zij_u-Soprano" loop=true>
@@ -334,6 +351,22 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><button onclick="playPause(welk_een_vriend_is_onze_jezus)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/songs/welk_een_vriend_is_onze_jezus/46_welk_een_vriend_is_onze_jezus_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/welk_een_vriend_is_onze_jezus/46_welk_een_vriend_is_onze_jezus.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(U_zij_de_glorie)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>89 U Zij De Glorie</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_U_zij_de_glorie" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(U_zij_de_glorie)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/U_zij_de_glorie/89_U_zij_de_glorie_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie/89_U_zij_de_glorie.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
     <td><button onclick="resetSong(vrede_zij_u)" type="button"class="mediabutton">⏮</button></td>
