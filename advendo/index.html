@@ -11,6 +11,7 @@ const Jowes_bin_ik_Abba_Heit = {name: "Jowes_bin_ik_Abba_Heit", number: 274}
 const vrede_zij_u = {name: "vrede_zij_u", number: 753}
 const hoe_groot_zijt_Gij = {name: "hoe_groot_zijt_Gij", number: 905}
 const mijn_Jezus_ik_hou_van_U = {name: "mijn_Jezus_ik_hou_van_U", number: 997}
+const nieuw_jerusalem = {name: "nieuw_jerusalem", number: 1702}
 const deep_harmony = {name: "deep_harmony", number: 2358}
 const be_still_and_know = {name: "be_still_and_know", number: 2361}
 const Abba_Vader = {name: "Abba_Vader", number: 2365}
@@ -22,10 +23,10 @@ const vervuld_van_Uw_zegen = {name: "vervuld_van_Uw_zegen", number: 2556}
 const wees_stil_en_weet = {name: "wees_stil_en_weet", number: 2557}
 const groot_is_Uw_trouw = {name: "groot_is_Uw_trouw", number: 2558}
 const op_U_alleen = {name: "op_U_alleen", number: 2559}
-const U_zij_de_glorie_a = {name: "U_zij_de_glorie_a", number: 2589}
-const U_zij_de_glorie_b = {name: "U_zij_de_glorie_b", number: 2589}
-const U_zij_de_glorie_c = {name: "U_zij_de_glorie_c", number: 2589}
-const songs = [Heer_diep_in_mij_aanwezig,welk_een_vriend_is_onze_jezus,Jowes_bin_ik_Abba_Heit,vrede_zij_u,hoe_groot_zijt_Gij,mijn_Jezus_ik_hou_van_U,deep_harmony,be_still_and_know,Abba_Vader,o_God_ik_hear_Jo_winen_hjoed,wes_stil_en_wit,waar_de_mensen_dwalen_in_het_donker,blijf_mij_nabij,vervuld_van_Uw_zegen,wees_stil_en_weet,groot_is_Uw_trouw,op_U_alleen,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c]
+const U_zij_de_glorie_a = {name: "U_zij_de_glorie_a", number: 2589a}
+const U_zij_de_glorie_b = {name: "U_zij_de_glorie_b", number: 2589b}
+const U_zij_de_glorie_c = {name: "U_zij_de_glorie_c", number: 2589c}
+const songs = [Heer_diep_in_mij_aanwezig,welk_een_vriend_is_onze_jezus,Jowes_bin_ik_Abba_Heit,vrede_zij_u,hoe_groot_zijt_Gij,mijn_Jezus_ik_hou_van_U,nieuw_jerusalem,deep_harmony,be_still_and_know,Abba_Vader,o_God_ik_hear_Jo_winen_hjoed,wes_stil_en_wit,waar_de_mensen_dwalen_in_het_donker,blijf_mij_nabij,vervuld_van_Uw_zegen,wees_stil_en_weet,groot_is_Uw_trouw,op_U_alleen,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c]
     </script>
   </head>
 <body>
@@ -123,6 +124,22 @@ const songs = [Heer_diep_in_mij_aanwezig,welk_een_vriend_is_onze_jezus,Jowes_bin
 </audio>
 <audio id="mijn_Jezus_ik_hou_van_U-Bass" loop=true>
   <source src="/songs/mijn_Jezus_ik_hou_van_U/mijn_Jezus_ik_hou_van_U-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="nieuw_jerusalem-Soprano" loop=true>
+  <source src="/songs/nieuw_jerusalem/nieuw_jerusalem-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="nieuw_jerusalem-Alto" loop=true>
+  <source src="/songs/nieuw_jerusalem/nieuw_jerusalem-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="nieuw_jerusalem-Tenor" loop=true>
+  <source src="/songs/nieuw_jerusalem/nieuw_jerusalem-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="nieuw_jerusalem-Bass" loop=true>
+  <source src="/songs/nieuw_jerusalem/nieuw_jerusalem-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <audio id="deep_harmony-Soprano" loop=true>
@@ -466,6 +483,22 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><button onclick="playPause(mijn_Jezus_ik_hou_van_U)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/songs/mijn_Jezus_ik_hou_van_U/997_mijn_Jezus_ik_hou_van_U_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/mijn_Jezus_ik_hou_van_U/997_mijn_Jezus_ik_hou_van_U.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(nieuw_jerusalem)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>1702 Nieuw Jerusalem</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_nieuw_jerusalem" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(nieuw_jerusalem)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/nieuw_jerusalem/1702_nieuw_jerusalem_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/nieuw_jerusalem/1702_nieuw_jerusalem.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
     <td><button onclick="resetSong(deep_harmony)" type="button"class="mediabutton">⏮</button></td>
