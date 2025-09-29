@@ -36,7 +36,9 @@ const how_great_Thou_art = {name: "how_great_Thou_art"}
 const faith_is_the_victory = {name: "faith_is_the_victory"}
 const God_be_with_you = {name: "God_be_with_you"}
 const in_the_sweet_by_and_by = {name: "in_the_sweet_by_and_by"}
-const songs = [great_is_thy_faithfulness,trust_and_obey,come_thou_fount,just_as_i_am,i_need_thee_every_hour,jesus_saviour_pilot_me,take_my_life_and_let_it_be,rock_of_ages,abide_with_me,joy_to_the_world,the_lily_of_the_valley,will_Jesus_find_us_watching,we_ll_work_till_Jesus_comes,blessed_assurance,sweet_hour_of_prayer,safe_in_the_arms_of_Jesus,anywhere_with_Jesus,sweetly_resting,what_a_friend_we_have_in_Jesus,does_Jesus_care,i_ll_praise_my_Maker,i_heard_the_voice_of_Jesus_say,let_the_lower_lights_be_burning,all_to_Jesus_i_surrender,my_hope_is_built_on_nothing_less,what_a_fellowship_what_a_joy_divine,tis_so_sweet_to_trust_in_Jesus,how_great_Thou_art,faith_is_the_victory,God_be_with_you,in_the_sweet_by_and_by]
+const spirit_of_the_living_God = {name: "spirit_of_the_living_God"}
+const be_still_and_know = {name: "be_still_and_know"}
+const songs = [great_is_thy_faithfulness,trust_and_obey,come_thou_fount,just_as_i_am,i_need_thee_every_hour,jesus_saviour_pilot_me,take_my_life_and_let_it_be,rock_of_ages,abide_with_me,joy_to_the_world,the_lily_of_the_valley,will_Jesus_find_us_watching,we_ll_work_till_Jesus_comes,blessed_assurance,sweet_hour_of_prayer,safe_in_the_arms_of_Jesus,anywhere_with_Jesus,sweetly_resting,what_a_friend_we_have_in_Jesus,does_Jesus_care,i_ll_praise_my_Maker,i_heard_the_voice_of_Jesus_say,let_the_lower_lights_be_burning,all_to_Jesus_i_surrender,my_hope_is_built_on_nothing_less,what_a_fellowship_what_a_joy_divine,tis_so_sweet_to_trust_in_Jesus,how_great_Thou_art,faith_is_the_victory,God_be_with_you,in_the_sweet_by_and_by,spirit_of_the_living_God,be_still_and_know]
     </script>
   </head>
 <body>
@@ -534,6 +536,38 @@ const songs = [great_is_thy_faithfulness,trust_and_obey,come_thou_fount,just_as_
 </audio>
 <audio id="in_the_sweet_by_and_by-Bass" loop=true>
   <source src="/songs/in_the_sweet_by_and_by/in_the_sweet_by_and_by-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="spirit_of_the_living_God-Soprano" loop=true>
+  <source src="/songs/spirit_of_the_living_God/spirit_of_the_living_God-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="spirit_of_the_living_God-Alto" loop=true>
+  <source src="/songs/spirit_of_the_living_God/spirit_of_the_living_God-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="spirit_of_the_living_God-Tenor" loop=true>
+  <source src="/songs/spirit_of_the_living_God/spirit_of_the_living_God-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="spirit_of_the_living_God-Bass" loop=true>
+  <source src="/songs/spirit_of_the_living_God/spirit_of_the_living_God-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="be_still_and_know-Soprano" loop=true>
+  <source src="/songs/wes_stil_en_wit/wes_stil_en_wit-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="be_still_and_know-Alto" loop=true>
+  <source src="/songs/wes_stil_en_wit/wes_stil_en_wit-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="be_still_and_know-Tenor" loop=true>
+  <source src="/songs/wes_stil_en_wit/wes_stil_en_wit-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="be_still_and_know-Bass" loop=true>
+  <source src="/songs/wes_stil_en_wit/wes_stil_en_wit-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -1053,6 +1087,38 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><button onclick="playPause(in_the_sweet_by_and_by)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/songs/in_the_sweet_by_and_by/31_in_the_sweet_by_and_by_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/in_the_sweet_by_and_by/31_in_the_sweet_by_and_by.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(spirit_of_the_living_God)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>32 Spirit Of The Livin…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_spirit_of_the_living_God" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(spirit_of_the_living_God)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/spirit_of_the_living_God/32_spirit_of_the_living_God_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/spirit_of_the_living_God/32_spirit_of_the_living_God.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(be_still_and_know)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>33 Be Still And Know</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_be_still_and_know" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(be_still_and_know)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/be_still_and_know/33_be_still_and_know_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/be_still_and_know/33_be_still_and_know.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
   </tr>
 
 </table>
