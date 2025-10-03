@@ -11,7 +11,9 @@ const Abba_Heit_ik_bin_fan_Jo = {name: "Abba_Heit_ik_bin_fan_Jo"}
 const U_zij_de_glorie_a = {name: "U_zij_de_glorie_a"}
 const U_zij_de_glorie_b = {name: "U_zij_de_glorie_b"}
 const U_zij_de_glorie_c = {name: "U_zij_de_glorie_c"}
-const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c]
+const Vader_ik_aanbid_U = {name: "Vader_ik_aanbid_U"}
+const k_stel_mijn_vertrouwen = {name: "k_stel_mijn_vertrouwen"}
+const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c,Vader_ik_aanbid_U,k_stel_mijn_vertrouwen]
     </script>
   </head>
 <body>
@@ -109,6 +111,38 @@ const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,U_zij_
 </audio>
 <audio id="U_zij_de_glorie_c-Bass" loop=true>
   <source src="/songs/U_zij_de_glorie_c/U_zij_de_glorie_c-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Soprano" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Alto" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Tenor" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Bass" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Soprano" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Alto" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Tenor" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Bass" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -228,6 +262,38 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><button onclick="playPause(U_zij_de_glorie_c)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/songs/U_zij_de_glorie_c/89c_U_zij_de_glorie_c_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/U_zij_de_glorie_c/89c_U_zij_de_glorie_c.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(Vader_ik_aanbid_U)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>2565 Vader Ik Aanbid U</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_Vader_ik_aanbid_U" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(Vader_ik_aanbid_U)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/Vader_ik_aanbid_U/2565_Vader_ik_aanbid_U_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/Vader_ik_aanbid_U/2565_Vader_ik_aanbid_U.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(k_stel_mijn_vertrouwen)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>2566 K Stel Mijn Vertrou…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_k_stel_mijn_vertrouwen" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(k_stel_mijn_vertrouwen)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/k_stel_mijn_vertrouwen/2566_k_stel_mijn_vertrouwen_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/k_stel_mijn_vertrouwen/2566_k_stel_mijn_vertrouwen.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
   </tr>
 
 </table>
