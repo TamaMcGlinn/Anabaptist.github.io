@@ -8,12 +8,13 @@
 const rots_der_eeuwen = {name: "rots_der_eeuwen"}
 const weest_niet_bezorgd = {name: "weest_niet_bezorgd"}
 const Abba_Heit_ik_bin_fan_Jo = {name: "Abba_Heit_ik_bin_fan_Jo"}
+const onze_Vader_die_ten_hemel_zijt = {name: "onze_Vader_die_ten_hemel_zijt"}
 const U_zij_de_glorie_a = {name: "U_zij_de_glorie_a"}
 const U_zij_de_glorie_b = {name: "U_zij_de_glorie_b"}
 const U_zij_de_glorie_c = {name: "U_zij_de_glorie_c"}
 const Vader_ik_aanbid_U = {name: "Vader_ik_aanbid_U"}
 const k_stel_mijn_vertrouwen = {name: "k_stel_mijn_vertrouwen"}
-const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c,Vader_ik_aanbid_U,k_stel_mijn_vertrouwen]
+const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,onze_Vader_die_ten_hemel_zijt,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c,Vader_ik_aanbid_U,k_stel_mijn_vertrouwen]
     </script>
   </head>
 <body>
@@ -63,6 +64,22 @@ const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,U_zij_
 </audio>
 <audio id="Abba_Heit_ik_bin_fan_Jo-Bass" loop=true>
   <source src="/songs/Abba_Heit_ik_bin_fan_Jo/Abba_Heit_ik_bin_fan_Jo-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Soprano" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Alto" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Tenor" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Bass" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <audio id="U_zij_de_glorie_a-Soprano" loop=true>
@@ -214,6 +231,22 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><button onclick="playPause(Abba_Heit_ik_bin_fan_Jo)"type="button" class="mediabutton">⏯ </button></td>
     <td><a href='/songs/Abba_Heit_ik_bin_fan_Jo/v3_Abba_Heit_ik_bin_fan_Jo_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/Abba_Heit_ik_bin_fan_Jo/v3_Abba_Heit_ik_bin_fan_Jo.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(onze_Vader_die_ten_hemel_zijt)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>v4 Onze Vader Die Ten …</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_onze_Vader_die_ten_hemel_zijt" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(onze_Vader_die_ten_hemel_zijt)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/v4_onze_Vader_die_ten_hemel_zijt_rond.pdf'target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/v4_onze_Vader_die_ten_hemel_zijt.pdf'target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
   </tr>
   <tr>
     <td><button onclick="resetSong(U_zij_de_glorie_a)" type="button"class="mediabutton">⏮</button></td>
