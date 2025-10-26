@@ -21,3 +21,33 @@ function getCookie(cname) {
   }
   return "";
 }
+
+document.addEventListener("speed_change", (e) => {
+  var speed = get_playback_speed()
+  setCookie("speed", speed)
+})
+
+document.addEventListener("voice_volume_change", (e) => {
+  if (song_playing === undefined) {
+    return
+  }
+  var voice = e.detail
+  var index = voices.indexOf(voice);
+  var slider = document.getElementById("sld_" + voice);
+  setCookie(voice + "_volume", slider.value)
+});
+
+function readSettingsFromCookies() {
+  voices.forEach((v) => {
+    var voice_volume_slider = document.getElementById("sld_" + v)
+    voice_volume_slider.value = getCookie(v + "_volume")
+    slider_change(v)
+  })
+  var speed_slider = document.getElementById("sld_speed")
+  speed_slider.value = getCookie("speed") * 100
+  speed_slider_change()
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  readSettingsFromCookies()
+});
