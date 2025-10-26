@@ -21,3 +21,28 @@ function getCookie(cname) {
   }
   return "";
 }
+
+document.addEventListener("voice_volume_change", (e) => {
+  voices.forEach((v) => {
+    var voice_volume_slider = document.getElementById("sld_" + v)
+    setCookie(v + "_volume", voice_volume_slider.value)
+  })
+})
+
+document.addEventListener("speed_change", (e) => {
+  setCookie("speed", get_playback_speed())
+})
+
+function readSettingsFromCookies() {
+  voices.forEach((v) => {
+    var voice_volume_slider = document.getElementById("sld_" + v)
+    voice_volume_slider.value = getCookie(v + "_volume")
+  })
+  var speed_slider = document.getElementById("sld_speed")
+  speed_slider.value = getCookie("speed") * 100
+  speed_slider_change()
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    readSettingsFromCookies();
+});
