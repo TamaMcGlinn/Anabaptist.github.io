@@ -1,0 +1,345 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="/js/play_satb.js"></script>
+    <script src="/js/remember_settings.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/songpage.css">
+    <script>
+const rots_der_eeuwen = {name: "rots_der_eeuwen"}
+const weest_niet_bezorgd = {name: "weest_niet_bezorgd"}
+const Abba_Heit_ik_bin_fan_Jo = {name: "Abba_Heit_ik_bin_fan_Jo"}
+const onze_Vader_die_ten_hemel_zijt = {name: "onze_Vader_die_ten_hemel_zijt"}
+const U_zij_de_glorie_a = {name: "U_zij_de_glorie_a"}
+const U_zij_de_glorie_b = {name: "U_zij_de_glorie_b"}
+const U_zij_de_glorie_c = {name: "U_zij_de_glorie_c"}
+const Vader_ik_aanbid_U = {name: "Vader_ik_aanbid_U"}
+const k_stel_mijn_vertrouwen = {name: "k_stel_mijn_vertrouwen"}
+const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,onze_Vader_die_ten_hemel_zijt,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c,Vader_ik_aanbid_U,k_stel_mijn_vertrouwen]
+    </script>
+  </head>
+<body>
+<audio id="rots_der_eeuwen-Soprano" loop=true>
+  <source src="/songs/rock_of_ages/rock_of_ages-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="rots_der_eeuwen-Alto" loop=true>
+  <source src="/songs/rock_of_ages/rock_of_ages-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="rots_der_eeuwen-Tenor" loop=true>
+  <source src="/songs/rock_of_ages/rock_of_ages-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="rots_der_eeuwen-Bass" loop=true>
+  <source src="/songs/rock_of_ages/rock_of_ages-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="weest_niet_bezorgd-Soprano" loop=true>
+  <source src="/songs/weest_niet_bezorgd/weest_niet_bezorgd-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="weest_niet_bezorgd-Alto" loop=true>
+  <source src="/songs/weest_niet_bezorgd/weest_niet_bezorgd-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="weest_niet_bezorgd-Tenor" loop=true>
+  <source src="/songs/weest_niet_bezorgd/weest_niet_bezorgd-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="weest_niet_bezorgd-Bass" loop=true>
+  <source src="/songs/weest_niet_bezorgd/weest_niet_bezorgd-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Abba_Heit_ik_bin_fan_Jo-Soprano" loop=true>
+  <source src="/songs/Abba_Heit_ik_bin_fan_Jo/Abba_Heit_ik_bin_fan_Jo-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Abba_Heit_ik_bin_fan_Jo-Alto" loop=true>
+  <source src="/songs/Abba_Heit_ik_bin_fan_Jo/Abba_Heit_ik_bin_fan_Jo-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Abba_Heit_ik_bin_fan_Jo-Tenor" loop=true>
+  <source src="/songs/Abba_Heit_ik_bin_fan_Jo/Abba_Heit_ik_bin_fan_Jo-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Abba_Heit_ik_bin_fan_Jo-Bass" loop=true>
+  <source src="/songs/Abba_Heit_ik_bin_fan_Jo/Abba_Heit_ik_bin_fan_Jo-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Soprano" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Alto" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Tenor" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="onze_Vader_die_ten_hemel_zijt-Bass" loop=true>
+  <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_a-Soprano" loop=true>
+  <source src="/songs/U_zij_de_glorie_a/U_zij_de_glorie_a-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_a-Alto" loop=true>
+  <source src="/songs/U_zij_de_glorie_a/U_zij_de_glorie_a-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_a-Tenor" loop=true>
+  <source src="/songs/U_zij_de_glorie_a/U_zij_de_glorie_a-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_a-Bass" loop=true>
+  <source src="/songs/U_zij_de_glorie_a/U_zij_de_glorie_a-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_b-Soprano" loop=true>
+  <source src="/songs/U_zij_de_glorie_b/U_zij_de_glorie_b-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_b-Alto" loop=true>
+  <source src="/songs/U_zij_de_glorie_b/U_zij_de_glorie_b-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_b-Tenor" loop=true>
+  <source src="/songs/U_zij_de_glorie_b/U_zij_de_glorie_b-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_b-Bass" loop=true>
+  <source src="/songs/U_zij_de_glorie_b/U_zij_de_glorie_b-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_c-Soprano" loop=true>
+  <source src="/songs/U_zij_de_glorie_c/U_zij_de_glorie_c-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_c-Alto" loop=true>
+  <source src="/songs/U_zij_de_glorie_c/U_zij_de_glorie_c-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_c-Tenor" loop=true>
+  <source src="/songs/U_zij_de_glorie_c/U_zij_de_glorie_c-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="U_zij_de_glorie_c-Bass" loop=true>
+  <source src="/songs/U_zij_de_glorie_c/U_zij_de_glorie_c-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Soprano" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Alto" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Tenor" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="Vader_ik_aanbid_U-Bass" loop=true>
+  <source src="/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Soprano" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Alto" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Tenor" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="k_stel_mijn_vertrouwen-Bass" loop=true>
+  <source src="/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<table id="tbl_volume">
+  <tr>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="volume_change()" id="sld_volume" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Soprano')" id="sld_Soprano" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Alto')" id="sld_Alto" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Tenor')" id="sld_Tenor" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Bass')" id="sld_Bass" /></th>
+  </tr>
+  <tr>
+      <th>All</th>
+      <th>Soprano</th>
+      <th>Alto</th>
+      <th>Tenor</th>
+      <th>Bass</th>
+  </tr>
+</table>
+Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orient="horizontal" value="100" onchange="speed_slider_change()" id="sld_speed" /><label id="lbl_speed" for="sld_speed">1x</label>
+<br/>
+<div id='div_allsongs'><label id='lbl_allsongs'>All songs / Alle liederen: </label><td><a href='/advendo_voorstel/all_rond.pdf'target='_blank'><img src='/images/roundnote.png'class='music_open'></a></td><td><a href='/advendo_voorstel/all.pdf'target='_blank'><img src='/images/shapenote.png'class='music_open'></a></td></div>
+<br/>
+<table id="tbl_allparts">
+  <tr>
+    <td><button onclick="resetSong(rots_der_eeuwen)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>v1 Rots Der Eeuwen</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_rots_der_eeuwen" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(rots_der_eeuwen)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/rots_der_eeuwen/v1_rots_der_eeuwen_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/rots_der_eeuwen/v1_rots_der_eeuwen.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/rots_der_eeuwen/rots_der_eeuwen.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(weest_niet_bezorgd)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>v2 Weest Niet Bezorgd</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_weest_niet_bezorgd" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(weest_niet_bezorgd)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/weest_niet_bezorgd/v2_weest_niet_bezorgd_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/weest_niet_bezorgd/v2_weest_niet_bezorgd.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/weest_niet_bezorgd/weest_niet_bezorgd.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(Abba_Heit_ik_bin_fan_Jo)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>v3 Abba Heit Ik Bin Fa…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_Abba_Heit_ik_bin_fan_Jo" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(Abba_Heit_ik_bin_fan_Jo)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/Abba_Heit_ik_bin_fan_Jo/v3_Abba_Heit_ik_bin_fan_Jo_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/Abba_Heit_ik_bin_fan_Jo/v3_Abba_Heit_ik_bin_fan_Jo.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/Abba_Heit_ik_bin_fan_Jo/Abba_Heit_ik_bin_fan_Jo.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(onze_Vader_die_ten_hemel_zijt)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>v4 Onze Vader Die Ten …</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_onze_Vader_die_ten_hemel_zijt" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(onze_Vader_die_ten_hemel_zijt)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/v4_onze_Vader_die_ten_hemel_zijt_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/v4_onze_Vader_die_ten_hemel_zijt.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(U_zij_de_glorie_a)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>89a U Zij De Glorie A</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_U_zij_de_glorie_a" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(U_zij_de_glorie_a)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/U_zij_de_glorie_a/89a_U_zij_de_glorie_a_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie_a/89a_U_zij_de_glorie_a.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie_a/U_zij_de_glorie_a.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(U_zij_de_glorie_b)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>89b U Zij De Glorie B</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_U_zij_de_glorie_b" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(U_zij_de_glorie_b)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/U_zij_de_glorie_b/89b_U_zij_de_glorie_b_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie_b/89b_U_zij_de_glorie_b.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie_b/U_zij_de_glorie_b.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(U_zij_de_glorie_c)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>89c U Zij De Glorie C</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_U_zij_de_glorie_c" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(U_zij_de_glorie_c)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/U_zij_de_glorie_c/89c_U_zij_de_glorie_c_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie_c/89c_U_zij_de_glorie_c.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/U_zij_de_glorie_c/U_zij_de_glorie_c.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(Vader_ik_aanbid_U)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>2565 Vader Ik Aanbid U</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_Vader_ik_aanbid_U" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(Vader_ik_aanbid_U)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/Vader_ik_aanbid_U/2565_Vader_ik_aanbid_U_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/Vader_ik_aanbid_U/2565_Vader_ik_aanbid_U.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/Vader_ik_aanbid_U/Vader_ik_aanbid_U.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(k_stel_mijn_vertrouwen)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>2566 K Stel Mijn Vertrou…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_k_stel_mijn_vertrouwen" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(k_stel_mijn_vertrouwen)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/k_stel_mijn_vertrouwen/2566_k_stel_mijn_vertrouwen_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/k_stel_mijn_vertrouwen/2566_k_stel_mijn_vertrouwen.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/k_stel_mijn_vertrouwen/k_stel_mijn_vertrouwen.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+
+</table>
+
+</body>
+</html>
