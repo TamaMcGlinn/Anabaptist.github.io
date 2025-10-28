@@ -10,12 +10,13 @@ const rots_der_eeuwen = {name: "rots_der_eeuwen"}
 const weest_niet_bezorgd = {name: "weest_niet_bezorgd"}
 const Abba_Heit_ik_bin_fan_Jo = {name: "Abba_Heit_ik_bin_fan_Jo"}
 const onze_Vader_die_ten_hemel_zijt = {name: "onze_Vader_die_ten_hemel_zijt"}
+const zoekt_eerst_het_Koninkrijk_van_God = {name: "zoekt_eerst_het_Koninkrijk_van_God"}
 const U_zij_de_glorie_a = {name: "U_zij_de_glorie_a"}
 const U_zij_de_glorie_b = {name: "U_zij_de_glorie_b"}
 const U_zij_de_glorie_c = {name: "U_zij_de_glorie_c"}
 const Vader_ik_aanbid_U = {name: "Vader_ik_aanbid_U"}
 const k_stel_mijn_vertrouwen = {name: "k_stel_mijn_vertrouwen"}
-const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,onze_Vader_die_ten_hemel_zijt,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c,Vader_ik_aanbid_U,k_stel_mijn_vertrouwen]
+const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,onze_Vader_die_ten_hemel_zijt,zoekt_eerst_het_Koninkrijk_van_God,U_zij_de_glorie_a,U_zij_de_glorie_b,U_zij_de_glorie_c,Vader_ik_aanbid_U,k_stel_mijn_vertrouwen]
     </script>
   </head>
 <body>
@@ -81,6 +82,22 @@ const songs = [rots_der_eeuwen,weest_niet_bezorgd,Abba_Heit_ik_bin_fan_Jo,onze_V
 </audio>
 <audio id="onze_Vader_die_ten_hemel_zijt-Bass" loop=true>
   <source src="/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="zoekt_eerst_het_Koninkrijk_van_God-Soprano" loop=true>
+  <source src="/songs/zoekt_eerst_het_Koninkrijk_van_God/zoekt_eerst_het_Koninkrijk_van_God-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="zoekt_eerst_het_Koninkrijk_van_God-Alto" loop=true>
+  <source src="/songs/zoekt_eerst_het_Koninkrijk_van_God/zoekt_eerst_het_Koninkrijk_van_God-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="zoekt_eerst_het_Koninkrijk_van_God-Tenor" loop=true>
+  <source src="/songs/zoekt_eerst_het_Koninkrijk_van_God/zoekt_eerst_het_Koninkrijk_van_God-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="zoekt_eerst_het_Koninkrijk_van_God-Bass" loop=true>
+  <source src="/songs/zoekt_eerst_het_Koninkrijk_van_God/zoekt_eerst_het_Koninkrijk_van_God-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <audio id="U_zij_de_glorie_a-Soprano" loop=true>
@@ -252,6 +269,23 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/v4_onze_Vader_die_ten_hemel_zijt_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/v4_onze_Vader_die_ten_hemel_zijt.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
     <td><a href='/songs/onze_Vader_die_ten_hemel_zijt/onze_Vader_die_ten_hemel_zijt.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(zoekt_eerst_het_Koninkrijk_van_God)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>v5 Zoekt Eerst Het Kon…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_zoekt_eerst_het_Koninkrijk_van_God" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(zoekt_eerst_het_Koninkrijk_van_God)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/zoekt_eerst_het_Koninkrijk_van_God/v5_zoekt_eerst_het_Koninkrijk_van_God_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/zoekt_eerst_het_Koninkrijk_van_God/v5_zoekt_eerst_het_Koninkrijk_van_God.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/zoekt_eerst_het_Koninkrijk_van_God/zoekt_eerst_het_Koninkrijk_van_God.mscz' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
   </tr>
   <tr>
     <td><button onclick="resetSong(U_zij_de_glorie_a)" type="button"class="mediabutton">⏮</button></td>
