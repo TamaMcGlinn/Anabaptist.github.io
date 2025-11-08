@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="/js/play_satb.js"></script>
+    <script src="/js/remember_settings.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/songpage.css">
+    <script>
+const arbejd_thi_natten_kommer = {name: "arbejd_thi_natten_kommer"}
+const songs = [arbejd_thi_natten_kommer]
+    </script>
+  </head>
+<body>
+<audio id="arbejd_thi_natten_kommer-Soprano" loop=true>
+  <source src="/songs/arbejd_thi_natten_kommer/arbejd_thi_natten_kommer-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="arbejd_thi_natten_kommer-Alto" loop=true>
+  <source src="/songs/arbejd_thi_natten_kommer/arbejd_thi_natten_kommer-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="arbejd_thi_natten_kommer-Tenor" loop=true>
+  <source src="/songs/arbejd_thi_natten_kommer/arbejd_thi_natten_kommer-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="arbejd_thi_natten_kommer-Bass" loop=true>
+  <source src="/songs/arbejd_thi_natten_kommer/arbejd_thi_natten_kommer-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<table id="tbl_volume">
+  <tr>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="volume_change()" id="sld_volume" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Soprano')" id="sld_Soprano" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Alto')" id="sld_Alto" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Tenor')" id="sld_Tenor" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Bass')" id="sld_Bass" /></th>
+  </tr>
+  <tr>
+      <th>All</th>
+      <th>Soprano</th>
+      <th>Alto</th>
+      <th>Tenor</th>
+      <th>Bass</th>
+  </tr>
+</table>
+Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orient="horizontal" value="100" onchange="speed_slider_change()" id="sld_speed" /><label id="lbl_speed" for="sld_speed">1x</label>
+<br/>
+<div id='div_allsongs'><label id='lbl_allsongs'>All songs / Alle liederen: </label><td><a href='/danish_songbook/all_rond.pdf'target='_blank'><img src='/images/roundnote.png'class='music_open'></a></td><td><a href='/danish_songbook/all.pdf'target='_blank'><img src='/images/shapenote.png'class='music_open'></a></td></div>
+<br/>
+<table id="tbl_allparts">
+  <tr>
+    <td><button onclick="resetSong(arbejd_thi_natten_kommer)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>1 Arbejd Thi Natten K…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_arbejd_thi_natten_kommer" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(arbejd_thi_natten_kommer)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/arbejd_thi_natten_kommer/1_arbejd_thi_natten_kommer_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/arbejd_thi_natten_kommer/1_arbejd_thi_natten_kommer.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/arbejd_thi_natten_kommer/arbejd_thi_natten_kommer.mscx' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+
+</table>
+
+</body>
+</html>
