@@ -41,6 +41,12 @@ function resetSong(song) {
 
 const speed_change_event = new Event("speed_change");
 
+function reset_speed() {
+  var speed_slider = document.getElementById("sld_speed")
+  speed_slider.value = 100;
+  document.dispatchEvent(speed_change_event);
+}
+
 document.addEventListener("speed_change", (e) => {
   var speed = get_playback_speed()
   if (song_playing !== undefined) {
