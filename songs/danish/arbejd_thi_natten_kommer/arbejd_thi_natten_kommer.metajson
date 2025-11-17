@@ -1,0 +1,62 @@
+{
+    "composer": "Lowell Mason 1864",
+    "duration": 45,
+    "fileVersion": 302,
+    "hasHarmonies": "false",
+    "hasLyrics": "true",
+    "keysig": -3,
+    "lyrics": "1. Arbejd, thi natten kommer, arbejd fra morgengry, arbejd når østens lysvæld lover dag på ny. Arbejd mens dagen vokser frem under solens brand, arbejd thi natten kommer, da ej virkes kan. 2. Arbejd thi natten kommer, gå til dit kald med flid. Fyld dagens favn med travlhed, nær er hvilens tid. Giv hvert minut sit indhold inden det flygter bort, arbejd thi natten kommer, dagen er kun kort. 3. Arbejd thi natten kommer, gyldne står vestens skyer, end er der nok at virke, arbejd, lyset flyr. Arbejd til sidste solstrejf slukkes på dagens sti, arbejd mens mørket sænkes, alt er da forbi.",
+    "measures": 17,
+    "mscoreVersion": "3.6.2",
+    "pageFormat": {
+        "height": 297,
+        "twosided": "true",
+        "width": 210
+    },
+    "pages": 1,
+    "parts": [
+        {
+            "harmonyCount": 0,
+            "hasDrumStaff": "false",
+            "hasPitchedStaff": "true",
+            "hasTabStaff": "false",
+            "instrumentId": "voice.female",
+            "isVisible": "true",
+            "lyricCount": 150,
+            "name": "",
+            "program": 52
+        },
+        {
+            "harmonyCount": 0,
+            "hasDrumStaff": "false",
+            "hasPitchedStaff": "true",
+            "hasTabStaff": "false",
+            "instrumentId": "voice.male",
+            "isVisible": "true",
+            "lyricCount": 0,
+            "name": "",
+            "program": 52
+        }
+    ],
+    "poet": "Anna Louise Coghill 1854",
+    "previousSource": "",
+    "subtitle": "",
+    "tempo": 90,
+    "tempoText": "<b></b><font face=\"ScoreText\"></font><b><font face=\"Edwin\"></font> = 90</b>",
+    "textFramesData": {
+        "composers": [
+            "Lowell Mason 1864"
+        ],
+        "poets": [
+            "Anna Louise Coghill 1854",
+            "Sophie Bonnevie 1918\n\n"
+        ],
+        "subtitles": [
+        ],
+        "titles": [
+            "Arbejd, thi natten kommer"
+        ]
+    },
+    "timesig": "4/4",
+    "title": "Arbejd, thi natten kommer"
+}
