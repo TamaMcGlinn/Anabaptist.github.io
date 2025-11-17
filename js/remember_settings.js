@@ -44,7 +44,11 @@ function readSettingsFromCookies() {
     slider_change(v)
   })
   var speed_slider = document.getElementById("sld_speed")
-  speed_slider.value = getCookie("speed") * 100
+  var stored_speed = getCookie("speed")
+  if (stored_speed === "") {
+    stored_speed = 1;
+  }
+  speed_slider.value = stored_speed * 100
   speed_slider_change()
 }
 
