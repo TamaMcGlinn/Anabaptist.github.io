@@ -256,7 +256,7 @@
             <followText>1</followText>
             <linkedMain/>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -3166,6 +3166,7 @@
       <Measure len="1/4">
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>1/4</duration>
             </Rest>
@@ -4046,7 +4047,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -6001,7 +6002,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -8393,7 +8394,7 @@
                   </location>
                 <indexDiff>4</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -9638,7 +9639,7 @@
                   </location>
                 <indexDiff>4</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>

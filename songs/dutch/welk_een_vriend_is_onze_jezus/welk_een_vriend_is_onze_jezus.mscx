@@ -221,24 +221,25 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Tempo>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
               <size>13</size>
-              <text>Welk</text>
+              <text>1. Welk</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
               <size>13</size>
-              <text>Leidt</text>
+              <text>2. Leidt</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
               <size>13</size>
-              <text>Zijn</text>
+              <text>3. Zijn</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -249,6 +250,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -276,6 +278,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -303,6 +306,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -331,6 +335,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -361,6 +366,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -394,6 +400,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -406,6 +413,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -419,13 +427,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -435,7 +445,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -445,7 +461,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -455,7 +477,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -469,6 +497,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -499,6 +528,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -534,6 +564,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -545,6 +576,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -560,6 +592,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -588,6 +621,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -616,6 +650,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -645,6 +680,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -675,6 +711,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -705,6 +742,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -736,11 +774,9 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -750,6 +786,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -763,13 +800,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -779,7 +818,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -789,7 +834,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -799,7 +850,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -813,6 +870,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
@@ -842,6 +900,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -856,6 +915,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -885,6 +945,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -914,6 +975,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -943,6 +1005,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -974,6 +1037,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1002,6 +1066,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1033,6 +1098,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1045,6 +1111,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1058,13 +1125,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -1074,7 +1143,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -1084,7 +1159,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -1094,7 +1175,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -1108,6 +1195,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1137,6 +1225,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1170,6 +1259,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1181,6 +1271,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1196,6 +1287,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1225,6 +1317,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1254,6 +1347,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1282,6 +1376,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1312,6 +1407,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1340,6 +1436,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1371,6 +1468,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1383,6 +1481,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1396,13 +1495,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -1412,7 +1513,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -1422,7 +1529,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -1432,7 +1545,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -1446,6 +1565,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1475,6 +1595,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -1489,6 +1610,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1518,6 +1640,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1550,6 +1673,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1579,6 +1703,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1610,6 +1735,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1638,6 +1764,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1670,6 +1797,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1682,6 +1810,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1698,13 +1827,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1714,7 +1845,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -1727,7 +1864,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -1737,7 +1880,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1751,6 +1900,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1781,6 +1931,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1816,6 +1967,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1827,6 +1979,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1842,6 +1995,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1871,6 +2025,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1900,6 +2055,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1928,6 +2084,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1957,6 +2114,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1986,6 +2144,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2019,6 +2178,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2031,6 +2191,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
               <userLen>0.876327</userLen>
@@ -2047,13 +2208,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2063,7 +2226,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2073,7 +2242,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -2083,7 +2258,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2097,6 +2278,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2126,6 +2308,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -2140,6 +2323,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2169,6 +2353,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2199,6 +2384,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2229,6 +2415,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2258,6 +2445,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2285,6 +2473,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2315,6 +2504,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2327,6 +2517,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2340,17 +2531,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            <Fragment>
-              <y1>0.0197272</y1>
-              <y2>0.0197272</y2>
-              </Fragment>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2360,7 +2549,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2370,7 +2565,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2380,7 +2581,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2394,6 +2601,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2424,6 +2632,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2459,6 +2668,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2470,6 +2680,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2485,6 +2696,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2513,6 +2725,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2543,6 +2756,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2576,6 +2790,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2603,6 +2818,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2632,6 +2848,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2664,6 +2881,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2676,6 +2894,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2689,17 +2908,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            <Fragment>
-              <y1>1.56184</y1>
-              <y2>1.56184</y2>
-              </Fragment>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2709,7 +2926,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2719,7 +2942,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2729,7 +2958,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2743,6 +2978,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2773,6 +3009,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -2798,6 +3035,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -2810,6 +3048,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -2823,13 +3062,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2839,7 +3080,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -2849,7 +3096,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -2859,7 +3112,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -2871,6 +3130,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -2882,6 +3142,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2892,6 +3153,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2902,6 +3164,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2912,6 +3175,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2922,6 +3186,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2936,6 +3201,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.46055</userLen>
@@ -2950,6 +3216,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2963,6 +3230,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2973,6 +3241,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2987,6 +3256,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -2999,6 +3269,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3012,13 +3283,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3028,7 +3301,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3038,7 +3317,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3048,7 +3333,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3060,6 +3351,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3071,6 +3363,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3081,6 +3374,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3091,6 +3385,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3101,6 +3396,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3111,6 +3407,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3125,6 +3422,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3137,6 +3435,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3151,6 +3450,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3163,6 +3463,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3176,13 +3477,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -3192,7 +3495,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3202,7 +3511,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3212,7 +3527,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3224,6 +3545,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3235,6 +3557,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3245,6 +3568,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3255,6 +3579,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3265,6 +3590,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3275,6 +3601,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3289,6 +3616,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.46055</userLen>
@@ -3303,6 +3631,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3316,6 +3645,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3326,6 +3656,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3340,6 +3671,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3352,6 +3684,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
               <userLen>1.31449</userLen>
@@ -3368,17 +3701,18 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.37633</y1>
-              <y2>4.62633</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.92227</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3388,7 +3722,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -3398,7 +3738,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3408,7 +3754,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3420,6 +3772,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3431,6 +3784,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3441,6 +3795,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3451,6 +3806,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3461,6 +3817,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3471,6 +3828,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3485,6 +3843,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3497,6 +3856,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3511,6 +3871,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Stem>
@@ -3526,6 +3887,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
               <userLen>1.46055</userLen>
@@ -3542,209 +3904,18 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.33687</y1>
-              <y2>4.33687</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <durationType>half</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>half</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
-              <visible>0</visible>
+              <userLen>1.28151</userLen>
               </Stem>
             <Hook>
-              <name>flag8thUp</name>
+              <name>flag8thDown</name>
               <visible>0</visible>
               </Hook>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Beam>
-            <visible>0</visible>
             <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3754,7 +3925,16 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.76208</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3764,7 +3944,16 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.60189</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3774,7 +3963,16 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>2.08246</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3786,6 +3984,226 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <visible>0</visible>
+              <NoteDot>
+                <visible>0</visible>
+                </NoteDot>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <visible>0</visible>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3797,6 +4215,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3807,6 +4226,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3817,6 +4237,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3827,6 +4248,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3837,6 +4259,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3851,6 +4274,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3863,6 +4287,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3877,6 +4302,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3889,6 +4315,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3902,13 +4329,15 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -3918,7 +4347,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3928,7 +4363,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3938,7 +4379,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3950,6 +4397,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3961,6 +4409,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3971,6 +4420,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3981,6 +4431,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3991,6 +4442,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4001,6 +4453,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4015,6 +4468,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.16844</userLen>
@@ -4029,6 +4483,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4042,6 +4497,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -4052,6 +4508,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -4066,6 +4523,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -4078,6 +4536,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
               <userLen>0.921969</userLen>
@@ -4094,17 +4553,18 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.81449</y1>
-              <y2>5.06449</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.4417</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4114,7 +4574,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -4124,7 +4590,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4134,7 +4606,13 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -4146,6 +4624,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -4157,6 +4636,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4167,6 +4647,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4177,6 +4658,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4187,6 +4669,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4197,6 +4680,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4211,6 +4695,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -4223,6 +4708,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -4372,27 +4858,28 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>Welk</text>
+                <text>1. Welk</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>Leidt</text>
+                <text>2. Leidt</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>Zijn</text>
+                <text>3. Zijn</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -4405,6 +4892,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4433,6 +4921,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4461,6 +4950,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4490,6 +4980,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4521,6 +5012,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4557,6 +5049,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4588,6 +5081,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4626,6 +5120,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4655,6 +5150,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4684,6 +5180,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4714,6 +5211,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4745,6 +5243,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4776,6 +5275,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4810,6 +5310,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -4842,6 +5343,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4872,6 +5374,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4902,6 +5405,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4932,6 +5436,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4964,6 +5469,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4993,6 +5499,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5027,6 +5534,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -5057,6 +5565,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -5093,6 +5602,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5123,6 +5633,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5153,6 +5664,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5182,6 +5694,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5213,6 +5726,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5242,6 +5756,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5276,6 +5791,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -5308,6 +5824,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5338,6 +5855,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5371,6 +5889,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5401,6 +5920,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5433,6 +5953,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5462,6 +5983,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5497,6 +6019,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5528,6 +6051,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5566,6 +6090,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5596,6 +6121,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5626,6 +6152,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5655,6 +6182,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5685,6 +6213,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5715,6 +6244,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5751,6 +6281,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -5783,6 +6314,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5813,6 +6345,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5844,6 +6377,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5875,6 +6409,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5905,6 +6440,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5933,6 +6469,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5966,6 +6503,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5997,6 +6535,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6035,6 +6574,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6064,6 +6604,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6095,6 +6636,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6129,6 +6671,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6157,6 +6700,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6187,6 +6731,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6222,6 +6767,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -6392,27 +6938,28 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
                   <indexDiff>7</indexDiff>
                   </linked>
-                <text>Welk</text>
+                <text>1. Welk</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
                   <indexDiff>7</indexDiff>
                   </linked>
-                <text>Leidt</text>
+                <text>2. Leidt</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
                   <indexDiff>7</indexDiff>
                   </linked>
-                <text>Zijn</text>
+                <text>3. Zijn</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -6431,6 +6978,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6469,6 +7017,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6507,6 +7056,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6546,6 +7096,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6587,6 +7138,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6633,6 +7185,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6674,6 +7227,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6722,6 +7276,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6761,6 +7316,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6800,6 +7356,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6840,6 +7397,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6881,6 +7439,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6922,6 +7481,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6966,6 +7526,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -7008,6 +7569,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -7048,6 +7610,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7088,6 +7651,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7128,6 +7692,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7170,6 +7735,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7209,6 +7775,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7253,6 +7820,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -7293,6 +7861,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -7339,6 +7908,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -7379,6 +7949,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7419,6 +7990,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7458,6 +8030,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7499,6 +8072,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7538,6 +8112,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7582,6 +8157,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -7624,6 +8200,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -7664,6 +8241,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7707,6 +8285,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7747,6 +8326,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7789,6 +8369,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7828,6 +8409,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7873,6 +8455,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7914,6 +8497,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7962,6 +8546,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8002,6 +8587,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8042,6 +8628,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8081,6 +8668,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8121,6 +8709,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8161,6 +8750,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8207,6 +8797,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -8249,6 +8840,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8289,6 +8881,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8330,6 +8923,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8371,6 +8965,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8411,6 +9006,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8449,6 +9045,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8492,6 +9089,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8533,6 +9131,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8581,6 +9180,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8620,6 +9220,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8661,6 +9262,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8705,6 +9307,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8743,6 +9346,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8783,6 +9387,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8828,6 +9433,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Lyrics>
                 <linked>
@@ -8990,6 +9596,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
               <linked>
                 <indexDiff>2</indexDiff>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9003,6 +9610,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9014,6 +9622,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9025,6 +9634,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9036,6 +9646,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9047,6 +9658,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9062,6 +9674,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9073,6 +9686,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9088,6 +9702,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9100,6 +9715,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9111,6 +9727,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9122,6 +9739,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9133,6 +9751,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9144,6 +9763,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9159,6 +9779,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -9174,6 +9795,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9186,6 +9808,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9197,6 +9820,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9208,6 +9832,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9219,6 +9844,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9230,6 +9856,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9245,6 +9872,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9256,6 +9884,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9271,6 +9900,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9283,6 +9913,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9294,6 +9925,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9305,6 +9937,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9316,6 +9949,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9327,6 +9961,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9342,6 +9977,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -9357,6 +9993,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9369,6 +10006,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9380,6 +10018,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9391,6 +10030,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9402,6 +10042,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9413,6 +10054,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9428,6 +10070,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9439,6 +10082,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9454,6 +10098,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9466,6 +10111,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9477,6 +10123,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9488,6 +10135,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9499,6 +10147,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9510,6 +10159,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9525,6 +10175,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -9540,6 +10191,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9552,6 +10204,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9563,6 +10216,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9574,6 +10228,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9585,6 +10240,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9596,6 +10252,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9611,6 +10268,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9622,6 +10280,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9637,6 +10296,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9649,6 +10309,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9660,6 +10321,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9671,6 +10333,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9682,6 +10345,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9693,6 +10357,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9708,6 +10373,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -9845,6 +10511,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9863,6 +10530,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9880,6 +10548,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9897,6 +10566,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9914,6 +10584,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9931,6 +10602,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9952,6 +10624,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9969,6 +10642,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9990,6 +10664,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10008,6 +10683,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10025,6 +10701,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10042,6 +10719,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10059,6 +10737,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10076,6 +10755,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10097,6 +10777,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -10118,6 +10799,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10136,6 +10818,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10153,6 +10836,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10170,6 +10854,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10187,6 +10872,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10204,6 +10890,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10225,6 +10912,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10242,6 +10930,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10263,6 +10952,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10281,6 +10971,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10298,6 +10989,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10315,6 +11007,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10332,6 +11025,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10349,6 +11043,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10370,6 +11065,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -10391,6 +11087,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10409,6 +11106,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10426,6 +11124,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10443,6 +11142,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10460,6 +11160,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10477,6 +11178,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10498,6 +11200,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10515,6 +11218,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10536,6 +11240,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10554,6 +11259,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10571,6 +11277,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10588,6 +11295,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10605,6 +11313,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10622,6 +11331,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10643,6 +11353,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -10664,6 +11375,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10682,6 +11394,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10699,6 +11412,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10716,6 +11430,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10733,6 +11448,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10750,6 +11466,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10771,6 +11488,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10788,6 +11506,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10809,6 +11528,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10827,6 +11547,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10844,6 +11565,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10861,6 +11583,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10878,6 +11601,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10895,6 +11619,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10916,6 +11641,7 @@ dat heb Ik u bekend gemaakt.&quot; Johannes 15:15</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>

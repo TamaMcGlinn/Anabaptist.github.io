@@ -194,7 +194,7 @@
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
-          <size>8</size>
+          <size>9</size>
           <text>&quot;(...) Vrede zij ulieden, gelijkerwijs Mij de Vader gezonden heeft,
 zende Ik ook ulieden.&quot; Johannes 20:21  </text>
           </Text>
@@ -371,10 +371,6 @@ zende Ik ook ulieden.&quot; Johannes 20:21  </text>
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <visible>0</visible>
-                <SlurSegment no="0">
-                  <visible>0</visible>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -421,6 +417,10 @@ zende Ik ook ulieden.&quot; Johannes 20:21  </text>
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
+                <visible>0</visible>
+                <SlurSegment no="0">
+                  <visible>0</visible>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>

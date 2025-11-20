@@ -234,7 +234,6 @@
         <Text>
           <linkedMain/>
           <style>Title</style>
-          <bold>1</bold>
           <text>Hvilken Ven Vi Har i Jesus</text>
           </Text>
         <Text>
@@ -262,7 +261,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-3</accidental>
+            <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
             <linkedMain/>
@@ -270,11 +269,11 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.5</tempo>
+            <tempo>1.2666666666666666</tempo>
             <followText>1</followText>
             <linkedMain/>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -304,8 +303,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -336,8 +335,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -371,8 +370,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -407,8 +406,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -442,8 +441,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -474,13 +473,12 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -492,8 +490,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -507,8 +505,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -522,8 +520,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -537,8 +535,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -552,8 +550,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -567,8 +565,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -600,8 +598,8 @@
               <text>bang</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -637,13 +635,12 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -654,8 +651,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -665,8 +662,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -694,8 +691,8 @@
               <text>vil</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Segment>
@@ -729,8 +726,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Segment>
@@ -766,8 +763,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Segment>
@@ -805,8 +802,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -839,8 +836,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Segment>
@@ -877,8 +874,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -893,8 +890,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -908,8 +905,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -923,8 +920,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -938,8 +935,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -953,8 +950,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -968,8 +965,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1000,13 +997,12 @@
               <text>stå,</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1016,8 +1012,8 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1051,8 +1047,8 @@
               <text>Je</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1087,8 +1083,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1118,8 +1114,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1150,8 +1146,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1180,8 +1176,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1213,13 +1209,12 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1231,8 +1226,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1246,8 +1241,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1261,8 +1256,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1276,8 +1271,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1291,8 +1286,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1306,8 +1301,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1339,8 +1334,8 @@
               <text>frel</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1374,8 +1369,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -1391,8 +1386,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1402,8 +1397,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1433,8 +1428,8 @@
               <text>vi</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1463,8 +1458,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1496,8 +1491,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1529,8 +1524,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1562,8 +1557,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1592,8 +1587,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -1609,8 +1604,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1624,8 +1619,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1639,8 +1634,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1654,8 +1649,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1669,8 +1664,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1684,8 +1679,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1714,13 +1709,12 @@
               <text>gå.</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1731,8 +1725,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1764,8 +1758,8 @@
               <text>Skin</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1799,10 +1793,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1836,8 +1830,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1873,8 +1867,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1907,8 +1901,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1943,13 +1937,12 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1961,8 +1954,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1976,23 +1969,11 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thUp</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2021,6 +2002,9 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2036,8 +2020,23 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2069,8 +2068,8 @@
               <text>ven</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2105,8 +2104,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -2121,8 +2120,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2132,8 +2131,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2165,8 +2164,8 @@
               <text>el</text>
               </Lyrics>
             <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2199,8 +2198,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Segment>
@@ -2236,8 +2235,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2275,8 +2274,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2309,8 +2308,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2343,13 +2342,12 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -2361,53 +2359,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thUp</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thUp</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thUp</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2436,8 +2389,53 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2468,13 +2466,12 @@
               <text>drøn,</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -2485,8 +2482,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2518,8 +2515,8 @@
               <text>bær</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2551,8 +2548,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2588,8 +2585,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2625,8 +2622,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2657,8 +2654,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2690,13 +2687,12 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -2708,8 +2704,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2723,8 +2719,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2738,8 +2734,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2753,8 +2749,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2768,8 +2764,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2783,8 +2779,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2816,8 +2812,8 @@
               <text>sor</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2852,8 +2848,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -2868,8 +2864,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2879,8 +2875,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2912,8 +2908,8 @@
               <text>al</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2946,8 +2942,8 @@
               </Lyrics>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2979,8 +2975,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3012,8 +3008,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3045,8 +3041,8 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3078,13 +3074,12 @@
               </Stem>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -3096,8 +3091,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3111,8 +3106,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3126,8 +3121,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3141,8 +3136,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3156,8 +3151,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3171,8 +3166,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3201,14 +3196,13 @@
               <text>bøn.</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
             <subtype>end</subtype>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -3219,8 +3213,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3231,7 +3225,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-3</accidental>
+            <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
             <linkedMain/>
@@ -3246,8 +3240,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3261,8 +3255,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3276,8 +3270,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3291,8 +3285,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3309,8 +3303,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3327,13 +3321,12 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -3344,8 +3337,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3354,8 +3347,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3364,8 +3357,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3374,8 +3367,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3384,8 +3377,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3394,8 +3387,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3410,224 +3403,40 @@
               </Stem>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <linkedMain/>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <linkedMain/>
-            </BarLine>
-          </voice>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
           <Chord>
             <linkedMain/>
             <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
+            <durationType>half</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
             <Note>
               <linkedMain/>
               <pitch>46</pitch>
@@ -3644,8 +3453,8 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3659,8 +3468,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3674,8 +3483,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3689,8 +3498,159 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <BarLine>
+            <linkedMain/>
+            </BarLine>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <BarLine>
+            <linkedMain/>
+            </BarLine>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3719,13 +3679,42 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -3736,8 +3725,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3746,8 +3735,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3756,8 +3745,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3766,8 +3755,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3776,8 +3765,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3786,8 +3775,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3802,8 +3791,8 @@
               </Stem>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3813,8 +3802,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -3829,8 +3818,8 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3839,8 +3828,8 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3853,8 +3842,8 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3868,8 +3857,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3886,8 +3875,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3904,8 +3893,23 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3921,21 +3925,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -3950,8 +3939,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3960,8 +3949,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3970,8 +3959,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3980,8 +3969,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3990,8 +3979,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4000,8 +3989,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4012,13 +4001,12 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4028,8 +4016,8 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4045,8 +4033,8 @@
               </Stem>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4063,8 +4051,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4081,8 +4069,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4099,8 +4087,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4117,8 +4105,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4135,13 +4123,12 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4152,8 +4139,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4162,8 +4149,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4172,8 +4159,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4182,8 +4169,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4192,8 +4179,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4202,8 +4189,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4215,8 +4202,8 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4226,8 +4213,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -4241,8 +4228,8 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4251,8 +4238,8 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4264,33 +4251,22 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <visible>0</visible>
+              <NoteDot>
+                <visible>0</visible>
+                </NoteDot>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
             <linkedMain/>
-            <offset x="0.414202" y="0"/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
               <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4306,8 +4282,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4321,8 +4297,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4336,13 +4312,27 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4353,8 +4343,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4363,8 +4353,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4373,8 +4363,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4383,8 +4373,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4393,8 +4383,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4403,8 +4393,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4415,13 +4405,12 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4431,8 +4420,8 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4445,8 +4434,8 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4460,38 +4449,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4520,13 +4479,42 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4537,8 +4525,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4547,8 +4535,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4557,8 +4545,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4567,8 +4555,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4577,8 +4565,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4587,8 +4575,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4603,8 +4591,8 @@
               </Stem>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4614,8 +4602,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -4629,8 +4617,8 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4639,8 +4627,8 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4653,8 +4641,8 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4668,8 +4656,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4686,8 +4674,8 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4704,8 +4692,23 @@
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4723,24 +4726,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <Hook>
-              <name>flag8thDown</name>
-              <visible>0</visible>
-              </Hook>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4751,8 +4738,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4761,8 +4748,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4771,8 +4758,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4781,8 +4768,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4791,8 +4778,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4801,8 +4788,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4813,14 +4800,13 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <BarLine>
             <subtype>end</subtype>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -4830,8 +4816,8 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4970,7 +4956,7 @@
             <KeySig>
               <linked>
                 </linked>
-              <accidental>-3</accidental>
+              <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
               <linked>
@@ -4979,11 +4965,11 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.5</tempo>
+              <tempo>1.2666666666666666</tempo>
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -5018,8 +5004,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5055,8 +5041,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5099,8 +5085,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5144,8 +5130,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5188,8 +5174,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5229,8 +5215,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -5265,6 +5251,9 @@
                 <text>bang</text>
                 </Lyrics>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -5307,8 +5296,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>60</pitch>
-                <tpc>14</tpc>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -5373,8 +5362,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5416,8 +5405,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5460,8 +5449,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5503,8 +5492,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5547,8 +5536,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -5659,8 +5648,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5699,8 +5688,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5740,8 +5729,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5779,8 +5768,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -5821,8 +5810,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -5857,6 +5846,9 @@
                 <text>frel</text>
                 </Lyrics>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -5897,8 +5889,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>60</pitch>
-                <tpc>14</tpc>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -5966,8 +5958,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6008,8 +6000,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6050,8 +6042,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6092,8 +6084,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6131,8 +6123,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -6163,6 +6155,9 @@
                 <text>gå.</text>
                 </Lyrics>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -6238,10 +6233,10 @@
                 <linked>
                   </linked>
                 <Accidental>
-                  <subtype>accidentalNatural</subtype>
+                  <subtype>accidentalSharp</subtype>
                   </Accidental>
-                <pitch>64</pitch>
-                <tpc>18</tpc>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6284,8 +6279,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6330,8 +6325,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6367,14 +6362,14 @@
                 <userLen>-1.10682</userLen>
                 </Stem>
               <Hook>
-                <name>flag8thUp</name>
+                <name>flag8thDown</name>
                 <visible>0</visible>
                 </Hook>
               <Note>
                 <linked>
                   </linked>
-                <pitch>68</pitch>
-                <tpc>10</tpc>
+                <pitch>70</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6418,8 +6413,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -6495,8 +6490,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -6569,8 +6564,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6612,8 +6607,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6660,8 +6655,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6697,14 +6692,14 @@
                 <userLen>-0.638548</userLen>
                 </Stem>
               <Hook>
-                <name>flag8thUp</name>
+                <name>flag8thDown</name>
                 <visible>0</visible>
                 </Hook>
               <Note>
                 <linked>
                   </linked>
-                <pitch>68</pitch>
-                <tpc>10</tpc>
+                <pitch>70</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6746,8 +6741,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -6854,8 +6849,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6900,8 +6895,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6946,8 +6941,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -6987,8 +6982,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7029,8 +7024,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -7065,6 +7060,9 @@
                 <text>sor</text>
                 </Lyrics>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -7106,8 +7104,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>60</pitch>
-                <tpc>14</tpc>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -7180,8 +7178,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7222,8 +7220,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>67</pitch>
-                <tpc>15</tpc>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7264,8 +7262,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7306,8 +7304,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7348,8 +7346,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -7381,6 +7379,9 @@
                 <text>bøn.</text>
                 </Lyrics>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -7529,7 +7530,7 @@
             <KeySig>
               <linked>
                 </linked>
-              <accidental>-3</accidental>
+              <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
               <linked>
@@ -7538,11 +7539,11 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.5</tempo>
+              <tempo>1.2666666666666666</tempo>
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -7560,8 +7561,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7583,8 +7584,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7601,8 +7602,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7619,8 +7620,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7637,8 +7638,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7655,8 +7656,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -7678,8 +7679,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>60</pitch>
-                <tpc>14</tpc>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7697,8 +7698,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -7732,8 +7733,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -7744,242 +7745,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thUp</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   <location>
@@ -7997,16 +7762,91 @@
                   </location>
                 </linked>
               <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <StemDirection>up</StemDirection>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8029,8 +7869,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8052,8 +7892,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8070,8 +7910,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8088,8 +7928,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8106,8 +7946,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8124,8 +7964,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8139,7 +7979,26 @@
                   </location>
                 </linked>
               <BeamMode>no</BeamMode>
-              <durationType>whole</durationType>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
@@ -8171,8 +8030,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8212,8 +8071,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8224,6 +8083,112 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>whole</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thUp</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   <location>
@@ -8231,8 +8196,26 @@
                     </location>
                   </linked>
                 <Accidental>
-                  <subtype>accidentalNatural</subtype>
+                  <subtype>accidentalSharp</subtype>
                   </Accidental>
+                <pitch>63</pitch>
+                <tpc>23</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
                 <pitch>64</pitch>
                 <tpc>18</tpc>
                 </Note>
@@ -8269,8 +8252,26 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8292,8 +8293,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8311,8 +8312,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8335,8 +8336,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8358,44 +8359,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8430,8 +8395,44 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8453,8 +8454,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8477,8 +8478,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8500,8 +8501,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8518,8 +8519,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8536,8 +8537,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8554,8 +8555,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8566,6 +8567,48 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>62</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   <location>
@@ -8587,7 +8630,31 @@
                   </location>
                 </linked>
               <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thUp</name>
+                <visible>0</visible>
+                </Hook>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
@@ -8606,63 +8673,15 @@
                   </location>
                 </linked>
               <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thUp</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8679,8 +8698,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>63</pitch>
-                <tpc>11</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8697,8 +8716,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8715,26 +8734,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8756,8 +8757,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8915,7 +8916,7 @@
             <KeySig>
               <linked>
                 </linked>
-              <accidental>-3</accidental>
+              <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
               <linked>
@@ -8924,7 +8925,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.5</tempo>
+              <tempo>1.2666666666666666</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -8932,7 +8933,7 @@
                   </location>
                 <indexDiff>7</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -8946,8 +8947,8 @@
                 <linked>
                   <indexDiff>2</indexDiff>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8963,8 +8964,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8980,8 +8981,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -8997,8 +8998,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9017,8 +9018,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9037,8 +9038,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9057,6 +9058,9 @@
                 </Stem>
               <StemDirection>down</StemDirection>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>56</pitch>
                 <tpc>10</tpc>
                 </Note>
@@ -9070,8 +9074,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9105,8 +9109,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9122,8 +9126,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9139,8 +9143,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9156,25 +9160,19 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9223,42 +9221,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9291,8 +9255,42 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9311,6 +9309,9 @@
                 </Stem>
               <StemDirection>down</StemDirection>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>56</pitch>
                 <tpc>10</tpc>
                 </Note>
@@ -9324,8 +9325,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9342,6 +9343,9 @@
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>51</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -9359,8 +9363,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9379,8 +9383,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9399,8 +9403,25 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9418,23 +9439,6 @@
                   </linked>
                 <pitch>55</pitch>
                 <tpc>15</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>53</pitch>
-                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9489,8 +9493,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9509,8 +9513,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9529,8 +9533,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9549,8 +9553,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9569,8 +9573,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9599,8 +9603,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9615,6 +9619,9 @@
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>56</pitch>
                 <tpc>10</tpc>
                 </Note>
@@ -9629,23 +9636,6 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
                 </Note>
@@ -9663,8 +9653,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9680,8 +9670,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9697,8 +9687,25 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9748,42 +9755,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9816,8 +9789,42 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9836,6 +9843,9 @@
                 </Stem>
               <StemDirection>down</StemDirection>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>56</pitch>
                 <tpc>10</tpc>
                 </Note>
@@ -9849,8 +9859,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -9866,6 +9876,9 @@
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>51</pitch>
                 <tpc>11</tpc>
                 </Note>
@@ -9883,8 +9896,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9903,8 +9916,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>58</pitch>
-                <tpc>12</tpc>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9923,8 +9936,25 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Hook>
+                <name>flag8thDown</name>
+                <visible>0</visible>
+                </Hook>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9942,23 +9972,6 @@
                   </linked>
                 <pitch>55</pitch>
                 <tpc>15</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Hook>
-                <name>flag8thDown</name>
-                <visible>0</visible>
-                </Hook>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>53</pitch>
-                <tpc>13</tpc>
                 </Note>
               </Chord>
             <BarLine>
@@ -10138,7 +10151,7 @@
             <KeySig>
               <linked>
                 </linked>
-              <accidental>-3</accidental>
+              <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
               <linked>
@@ -10147,7 +10160,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.5</tempo>
+              <tempo>1.2666666666666666</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -10155,7 +10168,7 @@
                   </location>
                 <indexDiff>7</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -10172,8 +10185,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10190,8 +10203,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10208,8 +10221,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10226,8 +10239,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10244,8 +10257,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10262,8 +10275,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
+                <pitch>46</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10284,8 +10297,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
+                <pitch>46</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10302,8 +10315,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
+                <pitch>46</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10325,8 +10338,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10343,8 +10356,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10361,8 +10374,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10379,8 +10392,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10397,8 +10410,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10415,8 +10428,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10437,6 +10450,159 @@
                     <voices>1</voices>
                     </location>
                   </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>46</pitch>
+                <tpc>12</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
                 <pitch>46</pitch>
                 <tpc>12</tpc>
                 </Note>
@@ -10460,8 +10626,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10478,8 +10644,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10496,8 +10662,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10514,8 +10680,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10532,8 +10698,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10550,161 +10716,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10725,8 +10738,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10748,8 +10761,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10766,8 +10779,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10784,8 +10797,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10802,8 +10815,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10820,8 +10833,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10838,8 +10851,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10860,8 +10873,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10878,8 +10891,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -10901,8 +10914,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10919,8 +10932,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10937,8 +10950,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>55</pitch>
-                <tpc>15</tpc>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10955,8 +10968,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10973,8 +10986,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>50</pitch>
-                <tpc>16</tpc>
+                <pitch>52</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -10991,8 +11004,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -11013,6 +11026,159 @@
                     <voices>1</voices>
                     </location>
                   </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>46</pitch>
+                <tpc>12</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
                 <pitch>46</pitch>
                 <tpc>12</tpc>
                 </Note>
@@ -11036,8 +11202,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -11054,8 +11220,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -11072,8 +11238,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -11090,8 +11256,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -11108,8 +11274,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -11126,161 +11292,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>half</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>44</pitch>
-                <tpc>10</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  <location>
-                    <voices>1</voices>
-                    </location>
-                  </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -11301,8 +11314,8 @@
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>51</pitch>
-                <tpc>11</tpc>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>

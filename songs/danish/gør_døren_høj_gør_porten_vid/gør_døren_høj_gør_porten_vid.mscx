@@ -3228,7 +3228,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -9617,7 +9616,6 @@
                   <location>
                     <voices>1</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>48</pitch>
                 <tpc>14</tpc>

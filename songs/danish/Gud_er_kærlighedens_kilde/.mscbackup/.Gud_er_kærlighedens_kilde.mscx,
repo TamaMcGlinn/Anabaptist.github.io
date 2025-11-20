@@ -14,7 +14,7 @@
       <showMeasureNumber>0</showMeasureNumber>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <Spatium>1.56</Spatium>
+      <Spatium>1.54</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -3605,8 +3605,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
+      <Measure len="2/4">
+        <stretch>1.38778e-16</stretch>
         <voice>
           <Chord>
             <linkedMain/>
@@ -3642,10 +3642,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         <voice>
           <Chord>
@@ -5362,7 +5358,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="2/4">
         <voice>
           <Chord>
             <linkedMain/>
@@ -5375,10 +5371,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         <voice>
           <Chord>
@@ -5391,11 +5383,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <linkedMain/>
-            <visible>0</visible>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -8198,7 +8185,7 @@
               </Chord>
             </voice>
           </Measure>
-        <Measure>
+        <Measure len="2/4">
           <voice>
             <Chord>
               <linked>
@@ -8240,11 +8227,6 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
             </voice>
           </Measure>
         </Staff>
@@ -11797,7 +11779,7 @@
               </Chord>
             </voice>
           </Measure>
-        <Measure>
+        <Measure len="2/4">
           <voice>
             <Chord>
               <linked>
@@ -12910,7 +12892,7 @@
               </Chord>
             </voice>
           </Measure>
-        <Measure>
+        <Measure len="2/4">
           <voice>
             <Chord>
               <linked>
@@ -12925,11 +12907,6 @@
                 <tpc>19</tpc>
                 </Note>
               </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
             </voice>
           </Measure>
         </Staff>
@@ -14288,7 +14265,7 @@
               </Chord>
             </voice>
           </Measure>
-        <Measure>
+        <Measure len="2/4">
           <voice>
             <Chord>
               <linked>
@@ -14308,15 +14285,6 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Rest>
-              <linked>
-                <location>
-                  <voices>1</voices>
-                  </location>
-                </linked>
-              <visible>0</visible>
-              <durationType>quarter</durationType>
-              </Rest>
             </voice>
           </Measure>
         </Staff>

@@ -2,7 +2,7 @@
 frisian/wes_stil_en_wit dutch/wees_stil_en_weet english/be_still_and_know
 english/rock_of_ages dutch/rots_der_eeuwen
 dutch/Abba_Vader frisian/Abba_Heit
-dutch/welk_een_vriend_is_onze_jezus english/what_a_friend_we_have_in_Jesus frisian/wie_k_in_nachtegael
+dutch/welk_een_vriend_is_onze_jezus english/what_a_friend_we_have_in_Jesus frisian/wie_k_in_nachtegael danish/hvilken_ven_vi_har_i_Jesus
 english/great_is_thy_faithfulness dutch/groot_is_Uw_trouw
 dutch/hoe_groot_zijt_Gij english/how_great_Thou_art
 dutch/deep_harmony dutch/hoe_goed_is_het_mijn_God_en_Heer

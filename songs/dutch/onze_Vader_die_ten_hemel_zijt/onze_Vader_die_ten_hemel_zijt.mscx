@@ -55,6 +55,7 @@
       <Staff id="1">
         <StaffType group="pitched">
           <name>stdNormal</name>
+          <noteheadScheme>shape-7-aikin</noteheadScheme>
           </StaffType>
         <mergeMatchingRests>1</mergeMatchingRests>
         </Staff>
@@ -124,6 +125,7 @@
       <Staff id="2">
         <StaffType group="pitched">
           <name>stdNormal</name>
+          <noteheadScheme>shape-7-aikin</noteheadScheme>
           </StaffType>
         <defaultConcertClef>G8vb</defaultConcertClef>
         <defaultTransposingClef>F</defaultTransposingClef>
@@ -228,7 +230,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -245,7 +246,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -262,7 +262,6 @@
               <visible>0</visible>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -272,7 +271,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -292,7 +290,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -309,7 +306,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -324,7 +320,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -340,7 +335,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -353,7 +347,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -364,7 +357,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -378,7 +370,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -388,7 +379,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -408,7 +398,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -425,7 +414,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -440,7 +428,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -449,13 +436,12 @@
             <Lyrics>
               <linkedMain/>
               <size>13</size>
-              <text>aan</text>
+              <text>Uw</text>
               </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -465,7 +451,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -481,7 +466,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -491,7 +475,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -502,7 +485,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -516,7 +498,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -526,7 +507,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -539,13 +519,12 @@
             <Lyrics>
               <linkedMain/>
               <size>13</size>
-              <text>U</text>
+              <text>naam</text>
               </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -554,13 +533,12 @@
             <Lyrics>
               <linkedMain/>
               <size>13</size>
-              <text>is</text>
+              <text>zij</text>
               </Lyrics>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -575,7 +553,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -588,7 +565,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -599,7 +575,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -610,7 +585,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -639,7 +613,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -656,7 +629,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -671,7 +643,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -681,7 +652,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -693,7 +663,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -703,7 +672,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -723,7 +691,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -739,7 +706,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -755,7 +721,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -765,7 +730,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -778,7 +742,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -789,7 +752,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -799,7 +761,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -819,7 +780,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -829,7 +789,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -846,7 +805,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -861,7 +819,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -876,7 +833,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -892,7 +848,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -902,7 +857,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -913,7 +867,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -927,7 +880,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -937,7 +889,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -956,7 +907,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -966,7 +916,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -981,7 +930,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -991,7 +939,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1007,7 +954,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1017,7 +963,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1029,7 +974,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1039,7 +983,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1049,7 +992,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1070,7 +1012,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1083,7 +1024,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1109,7 +1049,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1130,7 +1069,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1146,7 +1084,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1156,7 +1093,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1182,7 +1118,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1205,7 +1140,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1228,7 +1162,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1245,7 +1178,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1258,7 +1190,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1269,7 +1200,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -1284,7 +1214,6 @@
               <visible>0</visible>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1294,7 +1223,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1320,7 +1248,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1343,7 +1270,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1365,7 +1291,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1382,7 +1307,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1395,7 +1319,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1406,7 +1329,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -1421,7 +1343,6 @@
               <visible>0</visible>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1434,7 +1355,6 @@
                 </Accidental>
               <pitch>66</pitch>
               <tpc>20</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1463,7 +1383,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1484,7 +1403,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1506,7 +1424,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1529,7 +1446,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1542,7 +1458,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1553,7 +1468,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -1567,7 +1481,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1577,7 +1490,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1602,7 +1514,6 @@
               <linkedMain/>
               <pitch>72</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1624,7 +1535,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1647,7 +1557,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1668,7 +1577,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1685,7 +1593,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -1699,7 +1606,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1709,7 +1615,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1734,7 +1639,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1755,7 +1659,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1777,7 +1680,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1794,7 +1696,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1807,7 +1708,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1818,7 +1718,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -1832,7 +1731,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1842,7 +1740,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1869,7 +1766,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1892,7 +1788,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1917,7 +1812,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1939,7 +1833,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1949,7 +1842,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -1965,7 +1857,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1975,7 +1866,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -1986,7 +1876,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -2000,7 +1889,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2010,7 +1898,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2036,7 +1923,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2046,7 +1932,6 @@
               <linkedMain/>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2069,7 +1954,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2079,7 +1963,6 @@
               <linkedMain/>
               <pitch>70</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2102,7 +1985,6 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2112,7 +1994,6 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2124,7 +2005,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2134,7 +2014,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2144,7 +2023,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2157,6 +2035,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
               <linkedMain/>
               <size>13</size>
               <text>ken.</text>
@@ -2172,7 +2051,6 @@
               <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2185,7 +2063,70 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <linkedMain/>
+              <text>A</text>
+              </Lyrics>
+            <Note>
+              <linkedMain/>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <linkedMain/>
+              <text>men</text>
+              </Lyrics>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2214,7 +2155,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2224,7 +2164,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2236,7 +2175,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2246,7 +2184,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2261,7 +2198,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2272,7 +2208,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -2290,7 +2225,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2300,7 +2234,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2312,7 +2245,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2322,7 +2254,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2332,7 +2263,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2342,7 +2272,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2367,7 +2296,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2381,7 +2309,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2395,7 +2322,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2405,7 +2331,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2415,7 +2340,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2427,7 +2351,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2437,7 +2360,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2447,7 +2369,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2457,7 +2378,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2472,7 +2392,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2486,7 +2405,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2497,7 +2415,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2509,7 +2426,6 @@
               <linkedMain/>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2519,7 +2435,6 @@
               <linkedMain/>
               <pitch>46</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2529,7 +2444,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2544,7 +2458,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2554,7 +2467,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2564,7 +2476,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2576,7 +2487,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2586,7 +2496,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2601,7 +2510,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2612,7 +2520,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2622,7 +2529,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2632,7 +2538,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2644,7 +2549,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2654,7 +2558,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2664,7 +2567,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2682,7 +2584,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2696,7 +2597,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -2714,7 +2614,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2724,7 +2623,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2736,7 +2634,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2746,7 +2643,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2756,7 +2652,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2766,7 +2661,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2780,7 +2674,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2790,7 +2683,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2804,7 +2696,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2814,7 +2705,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2824,7 +2714,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2836,7 +2725,6 @@
               <linkedMain/>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2846,7 +2734,6 @@
               <linkedMain/>
               <pitch>46</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2856,7 +2743,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2871,7 +2757,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2883,7 +2768,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2905,7 +2789,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2915,7 +2798,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2927,7 +2809,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2937,7 +2818,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -2955,7 +2835,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2969,7 +2848,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2979,7 +2857,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -2989,7 +2866,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3001,7 +2877,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3011,7 +2886,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3021,7 +2895,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3036,7 +2909,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3047,7 +2919,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3057,7 +2928,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3069,7 +2939,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3079,7 +2948,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3089,7 +2957,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3099,7 +2966,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3114,7 +2980,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3125,7 +2990,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -3139,7 +3003,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3150,7 +3013,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3162,7 +3024,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3172,7 +3033,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3182,7 +3042,6 @@
               <linkedMain/>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3192,7 +3051,6 @@
               <linkedMain/>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3216,7 +3074,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3233,7 +3090,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -3247,7 +3103,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3257,7 +3112,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3269,7 +3123,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3279,7 +3132,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3289,7 +3141,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3304,7 +3155,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3315,7 +3165,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Beam>
@@ -3329,7 +3178,6 @@
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3339,7 +3187,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3351,7 +3198,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3361,7 +3207,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3371,7 +3216,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3381,7 +3225,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3406,7 +3249,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3420,7 +3262,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3434,7 +3275,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3444,7 +3284,6 @@
               <linkedMain/>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3454,7 +3293,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3466,7 +3304,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3476,7 +3313,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3486,7 +3322,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3496,7 +3331,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3510,7 +3344,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3520,7 +3353,6 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3534,7 +3366,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3544,7 +3375,6 @@
               <linkedMain/>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3554,7 +3384,6 @@
               <linkedMain/>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3566,7 +3395,6 @@
               <linkedMain/>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3576,7 +3404,6 @@
               <linkedMain/>
               <pitch>46</pitch>
               <tpc>12</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           <Chord>
@@ -3586,7 +3413,6 @@
               <linkedMain/>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3601,7 +3427,6 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
           </voice>
@@ -3613,7 +3438,60 @@
               <linkedMain/>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3921,7 +3799,7 @@ A</longName>
               <Lyrics>
                 <linked>
                   </linked>
-                <text>aan</text>
+                <text>Uw</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -3952,7 +3830,7 @@ A</longName>
               <Lyrics>
                 <linked>
                   </linked>
-                <text>U</text>
+                <text>naam</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -3968,7 +3846,7 @@ A</longName>
               <Lyrics>
                 <linked>
                   </linked>
-                <text>is</text>
+                <text>zij</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -5051,6 +4929,7 @@ A</longName>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
                 <linked>
                   </linked>
                 <text>ken.</text>
@@ -5067,6 +4946,50 @@ A</longName>
                   </linked>
                 <pitch>65</pitch>
                 <tpc>13</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>begin</syllabic>
+                <linked>
+                  </linked>
+                <text>A</text>
+                </Lyrics>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>70</pitch>
+                <tpc>12</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Lyrics>
+                <syllabic>end</syllabic>
+                <linked>
+                  </linked>
+                <text>men</text>
+                </Lyrics>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -5436,7 +5359,7 @@ A</longName>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>aan</text>
+                <text>Uw</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -5481,7 +5404,7 @@ A</longName>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>U</text>
+                <text>naam</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -5505,7 +5428,7 @@ A</longName>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>is</text>
+                <text>zij</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -6801,6 +6724,7 @@ A</longName>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
+                <ticks_f>0/4</ticks_f>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
@@ -6823,6 +6747,52 @@ A</longName>
                   </linked>
                 <pitch>60</pitch>
                 <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -7745,6 +7715,40 @@ A</longName>
                   </linked>
                 <pitch>57</pitch>
                 <tpc>17</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8850,6 +8854,50 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <dots>1</dots>
               <durationType>half</durationType>
               <Note>
                 <linked>
