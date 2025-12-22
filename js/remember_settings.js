@@ -45,7 +45,7 @@ function readSettingsFromCookies() {
   })
   var speed_slider = document.getElementById("sld_speed")
   var stored_speed = getCookie("speed")
-  if (stored_speed === "") {
+  if (stored_speed === "" || stored_speed === "0.25") {
     stored_speed = 1;
   }
   speed_slider.value = stored_speed * 100
