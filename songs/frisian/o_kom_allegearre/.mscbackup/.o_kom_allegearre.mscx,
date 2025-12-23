@@ -1889,6 +1889,16 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
               <linkedMain/>
               <text>min</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>66</pitch>
@@ -1937,6 +1947,13 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
               <linkedMain/>
               <text>sken!</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -2317,6 +2334,9 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         <voice>
           <Chord>
@@ -3433,7 +3453,17 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -3458,7 +3488,16 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>50</pitch>
@@ -3468,6 +3507,22 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>50</pitch>
@@ -3644,6 +3699,9 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         <voice>
           <Rest>
@@ -5552,6 +5610,17 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
                   </linked>
                 <text>min</text>
                 </Lyrics>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -5609,6 +5678,13 @@ in gloarje sa’t Er dy as Ienlingssoan fan syn Heit krige hat.&quot; Johannes 1
                   </linked>
                 <text>sken!</text>
                 </Lyrics>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -8056,6 +8132,18 @@ A</longName>
                   </linked>
                 <text>min</text>
                 </Lyrics>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    <indexDiff>1</indexDiff>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -8131,6 +8219,13 @@ A</longName>
                   </linked>
                 <text>sken!</text>
                 </Lyrics>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -9375,7 +9470,18 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -10453,7 +10559,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   <location>
@@ -10462,6 +10568,23 @@ A</longName>
                   </linked>
                 <pitch>50</pitch>
                 <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <durationType>quarter</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>52</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <Chord>
