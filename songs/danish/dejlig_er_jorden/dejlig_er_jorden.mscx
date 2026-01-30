@@ -399,6 +399,7 @@
               <no>2</no>
               <linkedMain/>
               <size>13</size>
+              <offset x="0.9" y="3"/>
               <text>sang</text>
               </Lyrics>
             <Lyrics>
@@ -480,10 +481,6 @@
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <visible>0</visible>
-                <SlurSegment no="0">
-                  <visible>0</visible>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -537,6 +534,7 @@
               <no>2</no>
               <linkedMain/>
               <size>13</size>
+              <offset x="-0.2" y="3"/>
               <text>først</text>
               </Lyrics>
             <Lyrics>
@@ -544,6 +542,7 @@
               <syllabic>begin</syllabic>
               <linkedMain/>
               <size>13</size>
+              <offset x="-0.3" y="3"/>
               <text>ti</text>
               </Lyrics>
             <Lyrics>
@@ -783,10 +782,6 @@
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <visible>0</visible>
-                <SlurSegment no="0">
-                  <visible>0</visible>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -1240,6 +1235,7 @@
               <syllabic>begin</syllabic>
               <linkedMain/>
               <size>13</size>
+              <offset x="-0.5" y="3"/>
               <text>o</text>
               </Lyrics>
             <Lyrics>
@@ -1248,6 +1244,7 @@
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
               <size>13</size>
+              <offset x="-0.5" y="3"/>
               <text>drig</text>
               </Lyrics>
             <Lyrics>
@@ -1255,6 +1252,7 @@
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
               <size>13</size>
+              <offset x="-0.6" y="3"/>
               <text>nem</text>
               </Lyrics>
             <Note>
@@ -1421,10 +1419,6 @@
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <visible>0</visible>
-                <SlurSegment no="0">
-                  <visible>0</visible>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -1609,6 +1603,7 @@
               <no>2</no>
               <linkedMain/>
               <size>13</size>
+              <offset x="0.9" y="3"/>
               <text>fryd</text>
               </Lyrics>
             <Lyrics>
@@ -1718,10 +1713,6 @@
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <visible>0</visible>
-                <SlurSegment no="0">
-                  <visible>0</visible>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -2142,6 +2133,17 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Stem>
               <userLen>1.84446</userLen>
               </Stem>
@@ -2155,6 +2157,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -2177,6 +2186,16 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -2186,6 +2205,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -2296,6 +2322,17 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -2306,6 +2343,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Stem>
               <userLen>1.27693</userLen>
               </Stem>
@@ -2331,6 +2375,16 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>52</pitch>
@@ -2340,6 +2394,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -2524,6 +2585,16 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>54</pitch>
@@ -2533,6 +2604,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -2607,6 +2685,16 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>54</pitch>
@@ -2616,6 +2704,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>52</pitch>
@@ -2725,6 +2820,16 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>52</pitch>
@@ -2734,6 +2839,13 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>50</pitch>
@@ -6795,6 +6907,17 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -6806,6 +6929,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -6880,6 +7010,17 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -6891,6 +7032,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -7499,11 +7647,24 @@
                   </location>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    <indexDiff>1</indexDiff>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
                     </location>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>43</pitch>
                 <tpc>15</tpc>
@@ -7516,6 +7677,13 @@
                   </location>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -7626,11 +7794,24 @@
                   </location>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    <indexDiff>1</indexDiff>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
                     </location>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>52</pitch>
                 <tpc>18</tpc>
@@ -7643,6 +7824,13 @@
                   </location>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -7796,6 +7984,7 @@
                   <location>
                     <voices>1</voices>
                     </location>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>54</pitch>
                 <tpc>20</tpc>
@@ -7859,6 +8048,7 @@
                   <location>
                     <voices>1</voices>
                     </location>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>54</pitch>
                 <tpc>20</tpc>
@@ -7972,6 +8162,7 @@
                   <location>
                     <voices>1</voices>
                     </location>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>52</pitch>
                 <tpc>18</tpc>

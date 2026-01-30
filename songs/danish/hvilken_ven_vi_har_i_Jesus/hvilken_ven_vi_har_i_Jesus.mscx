@@ -317,6 +317,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.3" y="3"/>
               <text>ken</text>
               </Lyrics>
             <Lyrics>
@@ -347,6 +348,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.1" y="3"/>
               <text>ven</text>
               </Lyrics>
             <Lyrics>
@@ -355,6 +357,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.4" y="3"/>
               <text>prøv</text>
               </Lyrics>
             <Lyrics>
@@ -363,6 +366,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.4" y="3"/>
               <text>svag</text>
               </Lyrics>
             <Stem>
@@ -434,6 +438,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.2" y="3"/>
               <text>er</text>
               </Lyrics>
             <Stem>
@@ -453,6 +458,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.3" y="3"/>
               <text>i</text>
               </Lyrics>
             <Lyrics>
@@ -466,6 +472,7 @@
               <no>1</no>
               <linkedMain/>
               <size>13</size>
+              <offset x="0.2" y="3"/>
               <text>og</text>
               </Lyrics>
             <Stem>
@@ -621,6 +628,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.3" y="3"/>
               <text>pe,</text>
               </Lyrics>
             <Lyrics>
@@ -630,6 +638,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.9" y="3"/>
               <text>e,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1070,6 +1079,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.5" y="3"/>
               <text>drig</text>
               </Lyrics>
             <Lyrics>
@@ -1110,6 +1120,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.3" y="3"/>
               <text>er</text>
               </Lyrics>
             <Note>
@@ -1142,6 +1153,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.4" y="3"/>
               <text>vor</text>
               </Lyrics>
             <Note>
@@ -1158,6 +1170,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.6" y="3"/>
               <text>han</text>
               </Lyrics>
             <Lyrics>
@@ -1166,6 +1179,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.5" y="3"/>
               <text>stær</text>
               </Lyrics>
             <Lyrics>
@@ -1205,6 +1219,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.3" y="3"/>
               <text>ke</text>
               </Lyrics>
             <Note>
@@ -1356,6 +1371,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.4" y="3"/>
               <text>e,</text>
               </Lyrics>
             <Lyrics>
@@ -1755,6 +1771,7 @@
               <no>2</no>
               <syllabic>begin</syllabic>
               <size>13</size>
+              <offset x="0.6" y="3"/>
               <text>Skin</text>
               </Lyrics>
             <Note>
@@ -1826,7 +1843,7 @@
               <text>sol</text>
               </Lyrics>
             <Stem>
-              <userLen>-0.434512</userLen>
+              <userLen>0.135525</userLen>
               </Stem>
             <Note>
               <linkedMain/>
@@ -1863,7 +1880,7 @@
               <text>en</text>
               </Lyrics>
             <Stem>
-              <userLen>-0.815819</userLen>
+              <userLen>-0.115819</userLen>
               </Stem>
             <Note>
               <linkedMain/>
@@ -1897,7 +1914,7 @@
               <text>lyst</text>
               </Lyrics>
             <Stem>
-              <userLen>-1.15279</userLen>
+              <userLen>0.04721</userLen>
               </Stem>
             <Note>
               <linkedMain/>
@@ -2185,6 +2202,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.3" y="3"/>
               <text>sus</text>
               </Lyrics>
             <Lyrics>
@@ -2214,6 +2232,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.3" y="3"/>
               <text>mø</text>
               </Lyrics>
             <Lyrics>
@@ -2228,10 +2247,11 @@
               <no>1</no>
               <linkedMain/>
               <size>13</size>
+              <offset x="0.3" y="3"/>
               <text>er</text>
               </Lyrics>
             <Stem>
-              <userLen>-0.966568</userLen>
+              <userLen>0.033432</userLen>
               </Stem>
             <Note>
               <linkedMain/>
@@ -2258,6 +2278,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="-0.2" y="3"/>
               <text>hos</text>
               </Lyrics>
             <Lyrics>
@@ -2267,6 +2288,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.4" y="3"/>
               <text>er</text>
               </Lyrics>
             <Stem>
@@ -2293,6 +2315,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.2" y="3"/>
               <text>os</text>
               </Lyrics>
             <Lyrics>
@@ -2304,7 +2327,7 @@
               <text>tord</text>
               </Lyrics>
             <Stem>
-              <userLen>-0.66507</userLen>
+              <userLen>-0.16507</userLen>
               </Stem>
             <Note>
               <linkedMain/>
@@ -2327,6 +2350,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.6" y="3"/>
               <text>i</text>
               </Lyrics>
             <Lyrics>
@@ -2335,6 +2359,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.5" y="3"/>
               <text>en</text>
               </Lyrics>
             <Stem>
@@ -2562,6 +2587,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.5" y="3"/>
               <text>di</text>
               </Lyrics>
             <Lyrics>
@@ -2577,7 +2603,7 @@
               <syllabic>begin</syllabic>
               <linkedMain/>
               <size>13</size>
-              <align>left,baseline</align>
+              <offset x="0.4" y="3"/>
               <text>glæd</text>
               </Lyrics>
             <Stem>
@@ -2597,6 +2623,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.3" y="3"/>
               <text>vi</text>
               </Lyrics>
             <Lyrics>
@@ -2615,6 +2642,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.5" y="3"/>
               <text>en</text>
               </Lyrics>
             <Stem>
@@ -2635,6 +2663,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.2" y="3"/>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
@@ -2643,6 +2672,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.2" y="3"/>
               <text>del</text>
               </Lyrics>
             <Lyrics>
@@ -2650,6 +2680,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.2" y="3"/>
               <text>som</text>
               </Lyrics>
             <Note>
@@ -3053,6 +3084,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.5" y="3"/>
               <text>i</text>
               </Lyrics>
             <Lyrics>
@@ -3060,6 +3092,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.6" y="3"/>
               <text>i</text>
               </Lyrics>
             <Lyrics>
@@ -3067,6 +3100,7 @@
               <linkedMain/>
               <size>13</size>
               <align>left,baseline</align>
+              <offset x="0.7" y="3"/>
               <text>i</text>
               </Lyrics>
             <Stem>
@@ -6882,7 +6916,6 @@
                 <linked>
                   </linked>
                 <size>13</size>
-                <align>left,baseline</align>
                 <text>glæd</text>
                 </Lyrics>
               <Stem>

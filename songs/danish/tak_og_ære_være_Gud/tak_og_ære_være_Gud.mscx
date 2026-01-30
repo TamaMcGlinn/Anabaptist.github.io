@@ -604,16 +604,6 @@ Niels Johannes Holm 1829</text>
                   </location>
                 </prev>
               </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -667,13 +657,6 @@ Niels Johannes Holm 1829</text>
               <size>13</size>
               <text>lig</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>68</pitch>
@@ -1099,16 +1082,6 @@ Niels Johannes Holm 1829</text>
                   </location>
                 </prev>
               </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>74</pitch>
@@ -1165,13 +1138,6 @@ Niels Johannes Holm 1829</text>
               <offset x="-0.3" y="3"/>
               <text>her</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>75</pitch>
@@ -1746,8 +1712,8 @@ Niels Johannes Holm 1829</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1921,16 +1887,6 @@ Niels Johannes Holm 1829</text>
                   </location>
                 </prev>
               </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -1984,13 +1940,6 @@ Niels Johannes Holm 1829</text>
               <size>13</size>
               <text>dig</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>68</pitch>
@@ -3007,7 +2956,6 @@ Niels Johannes Holm 1829</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3032,16 +2980,6 @@ Niels Johannes Holm 1829</text>
                   </location>
                 </prev>
               </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>44</pitch>
@@ -3052,13 +2990,6 @@ Niels Johannes Holm 1829</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>46</pitch>
@@ -3511,17 +3442,6 @@ Niels Johannes Holm 1829</text>
                     </location>
                   </prev>
                 </Spanner>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -3577,13 +3497,6 @@ Niels Johannes Holm 1829</text>
                   </linked>
                 <text>lig</text>
                 </Lyrics>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -3927,17 +3840,6 @@ Niels Johannes Holm 1829</text>
                     </location>
                   </prev>
                 </Spanner>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -3993,13 +3895,6 @@ Niels Johannes Holm 1829</text>
                   </linked>
                 <text>her</text>
                 </Lyrics>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -4618,17 +4513,6 @@ Niels Johannes Holm 1829</text>
                     </location>
                   </prev>
                 </Spanner>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -4684,13 +4568,6 @@ Niels Johannes Holm 1829</text>
                   </linked>
                 <text>dig</text>
                 </Lyrics>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -5127,13 +5004,6 @@ Niels Johannes Holm 1829</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -5277,13 +5147,6 @@ Niels Johannes Holm 1829</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -5480,8 +5343,8 @@ Niels Johannes Holm 1829</text>
                     <voices>1</voices>
                     </location>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>63</pitch>
+                <tpc>11</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -5551,13 +5414,6 @@ Niels Johannes Holm 1829</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <Note>
                 <linked>
                   <location>
@@ -7081,7 +6937,6 @@ Niels Johannes Holm 1829</text>
                   <location>
                     <voices>3</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>43</pitch>
                 <tpc>15</tpc>
@@ -7100,7 +6955,6 @@ Niels Johannes Holm 1829</text>
                   <location>
                     <voices>3</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>44</pitch>
                 <tpc>10</tpc>
