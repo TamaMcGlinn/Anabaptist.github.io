@@ -18,7 +18,7 @@
       <showMeasureNumber>0</showMeasureNumber>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <Spatium>1.6</Spatium>
+      <Spatium>1.78</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -202,6 +202,24 @@
           <offset x="3.22781" y="7.76829"/>
           <text>&quot;O Heere, hoor! o Heere, vergeef! (...) Want Uw stad, en Uw volk is naar Uw Naam genoemd.&quot;
 Daniël 9:19         </text>
+          </Text>
+        <Text>
+          <style>Instrument Name (Part)</style>
+          <size>10</size>
+          <offset x="1.24146" y="7.44878"/>
+          <text>(lb. 364)</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Lyricist</style>
+          <offset x="139.541" y="254.5"/>
+          <text><i>tekst </i>Evert Louis Smelik</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Composer</style>
+          <offset x="0.496585" y="259.714"/>
+          <text><i>muziek </i>Carl Philipp Emanuel Bach — 'Gott ist mein Lied'</text>
           </Text>
         </VBox>
       <Measure len="1/4">
@@ -2741,6 +2759,18 @@ A</longName>
             <text>&quot;O Heere, hoor! o Heere, vergeef! (...) Want Uw stad, en Uw volk is naar Uw Naam genoemd.&quot;
 Daniël 9:19         </text>
             </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Lyricist</style>
+            <text><i>tekst </i>Evert Louis Smelik</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Composer</style>
+            <text><i>muziek </i>Carl Philipp Emanuel Bach — 'Gott ist mein Lied'</text>
+            </Text>
           </VBox>
         <Measure len="1/4">
           <voice>
@@ -4423,42 +4453,42 @@ A</longName>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
-                  <indexDiff>4</indexDiff>
+                  <indexDiff>6</indexDiff>
                   </linked>
                 <text>1. Hoor</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
-                  <indexDiff>4</indexDiff>
+                  <indexDiff>6</indexDiff>
                   </linked>
                 <text>2. Uw</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
-                  <indexDiff>4</indexDiff>
+                  <indexDiff>6</indexDiff>
                   </linked>
                 <text>3. Gij</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
-                  <indexDiff>4</indexDiff>
+                  <indexDiff>6</indexDiff>
                   </linked>
                 <text>4. In</text>
                 </Lyrics>
               <Lyrics>
                 <no>4</no>
                 <linked>
-                  <indexDiff>4</indexDiff>
+                  <indexDiff>6</indexDiff>
                   </linked>
                 <text>5. Gij</text>
                 </Lyrics>
               <Lyrics>
                 <no>5</no>
                 <linked>
-                  <indexDiff>4</indexDiff>
+                  <indexDiff>6</indexDiff>
                   </linked>
                 <text>6. O,</text>
                 </Lyrics>

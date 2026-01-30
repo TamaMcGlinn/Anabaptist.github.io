@@ -44,7 +44,8 @@ const dutch_Here_Jezus_om_Uw_woord = {name: "dutch_Here_Jezus_om_Uw_woord"}
 const dutch_U_bid_ik_aan = {name: "dutch_U_bid_ik_aan"}
 const dutch_onze_Vader_die_ten_hemel_zijt = {name: "dutch_onze_Vader_die_ten_hemel_zijt"}
 const dutch_zal_er_ooit_een_dag_van_vrede = {name: "dutch_zal_er_ooit_een_dag_van_vrede"}
-const songs = [dutch_groot_is_Uw_trouw,dutch_hij_die_rustig_en_stil,dutch_ik_voel_de_winden_Gods_vandaag,dutch_zoals_gij_zijt,dutch_de_Heer_is_mijn_hulp,dutch_Jezus_Losser_van_mijn_ziel,dutch_k_zie_het_land,dutch_psalm_23,dutch_neem_mijn_leven_laat_het_heer,dutch_rots_der_eeuwen,dutch_in_christus_is_noch_west_noch_oost,dutch_t_hijgend_hert_der_jacht_ontkomen,dutch_t_zij_vreugde_mijn_deel_is,dutch_op_U_alleen,dutch_hoe_groot_zijt_Gij,dutch_Hij_wordt_in_t_graf_gelegd,dutch_blijf_mij_nabij,dutch_welk_een_vriend_is_onze_jezus,dutch_spreek_mij_van_Jezus,dutch_schoonste_Heer_Jezus,dutch_veilig_in_Jezus_armen,dutch_vrede_zij_u,dutch_Heer_diep_in_mij_aanwezig,dutch_waar_de_mensen_dwalen_in_het_donker,dutch_vervuld_van_Uw_zegen,dutch_wees_stil_en_weet,dutch_daar_juicht_een_toon,dutch_mijn_Jezus_ik_hou_van_U,dutch_Abba_Vader,dutch_nieuw_jerusalem,dutch_Gij_trouwe_herder,dutch_hoe_goed_is_het_mijn_God_en_Heer,dutch_weest_niet_bezorgd,dutch_er_is_een_God_die_hoort,dutch_Here_Jezus_om_Uw_woord,dutch_U_bid_ik_aan,dutch_onze_Vader_die_ten_hemel_zijt,dutch_zal_er_ooit_een_dag_van_vrede]
+const dutch_hoor_Gij_ons_aan = {name: "dutch_hoor_Gij_ons_aan"}
+const songs = [dutch_groot_is_Uw_trouw,dutch_hij_die_rustig_en_stil,dutch_ik_voel_de_winden_Gods_vandaag,dutch_zoals_gij_zijt,dutch_de_Heer_is_mijn_hulp,dutch_Jezus_Losser_van_mijn_ziel,dutch_k_zie_het_land,dutch_psalm_23,dutch_neem_mijn_leven_laat_het_heer,dutch_rots_der_eeuwen,dutch_in_christus_is_noch_west_noch_oost,dutch_t_hijgend_hert_der_jacht_ontkomen,dutch_t_zij_vreugde_mijn_deel_is,dutch_op_U_alleen,dutch_hoe_groot_zijt_Gij,dutch_Hij_wordt_in_t_graf_gelegd,dutch_blijf_mij_nabij,dutch_welk_een_vriend_is_onze_jezus,dutch_spreek_mij_van_Jezus,dutch_schoonste_Heer_Jezus,dutch_veilig_in_Jezus_armen,dutch_vrede_zij_u,dutch_Heer_diep_in_mij_aanwezig,dutch_waar_de_mensen_dwalen_in_het_donker,dutch_vervuld_van_Uw_zegen,dutch_wees_stil_en_weet,dutch_daar_juicht_een_toon,dutch_mijn_Jezus_ik_hou_van_U,dutch_Abba_Vader,dutch_nieuw_jerusalem,dutch_Gij_trouwe_herder,dutch_hoe_goed_is_het_mijn_God_en_Heer,dutch_weest_niet_bezorgd,dutch_er_is_een_God_die_hoort,dutch_Here_Jezus_om_Uw_woord,dutch_U_bid_ik_aan,dutch_onze_Vader_die_ten_hemel_zijt,dutch_zal_er_ooit_een_dag_van_vrede,dutch_hoor_Gij_ons_aan]
     </script>
   </head>
 <body>
@@ -656,6 +657,22 @@ const songs = [dutch_groot_is_Uw_trouw,dutch_hij_die_rustig_en_stil,dutch_ik_voe
   <source src="/songs/dutch/zal_er_ooit_een_dag_van_vrede/zal_er_ooit_een_dag_van_vrede-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+<audio id="dutch_hoor_Gij_ons_aan-Soprano" loop=true>
+  <source src="/songs/dutch/hoor_Gij_ons_aan/hoor_Gij_ons_aan-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="dutch_hoor_Gij_ons_aan-Alto" loop=true>
+  <source src="/songs/dutch/hoor_Gij_ons_aan/hoor_Gij_ons_aan-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="dutch_hoor_Gij_ons_aan-Tenor" loop=true>
+  <source src="/songs/dutch/hoor_Gij_ons_aan/hoor_Gij_ons_aan-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="dutch_hoor_Gij_ons_aan-Bass" loop=true>
+  <source src="/songs/dutch/hoor_Gij_ons_aan/hoor_Gij_ons_aan-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 <table id="tbl_volume">
   <tr>
@@ -673,7 +690,7 @@ const songs = [dutch_groot_is_Uw_trouw,dutch_hij_die_rustig_en_stil,dutch_ik_voe
       <th>Bass</th>
   </tr>
 </table>
-Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orient="horizontal" value="100" onchange="speed_slider_change()" id="sld_speed" /><label id="lbl_speed" for="sld_speed">1x</label>
+Tempo: <input type="range" min="20" max="400" step="5" class="speed_slider" orient="horizontal" value="100" onchange="speed_slider_change()" id="sld_speed" /><label id="lbl_speed" for="sld_speed">1x</label>
 <button text="reset " onclick="reset_speed()">Reset</button>
 <br/>
 <div id='div_allsongs'><label id='lbl_allsongs'>All songs / Alle liederen: </label><td><a href='/liedboek/all_rond.pdf'target='_blank'><img src='/images/roundnote.png'class='music_open'></a></td><td><a href='/liedboek/all.pdf'target='_blank'><img src='/images/shapenote.png'class='music_open'></a></td></div>
@@ -1324,6 +1341,23 @@ Tempo: <input type="range" min="25" max="400" step="5" class="speed_slider" orie
     <td><a href='/songs/dutch/zal_er_ooit_een_dag_van_vrede/38_zal_er_ooit_een_dag_van_vrede_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/dutch/zal_er_ooit_een_dag_van_vrede/38_zal_er_ooit_een_dag_van_vrede.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
     <td><a href='/songs/dutch/zal_er_ooit_een_dag_van_vrede/zal_er_ooit_een_dag_van_vrede.mscx' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(dutch_hoor_Gij_ons_aan)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>39 Hoor Gij Ons Aan</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_dutch_hoor_Gij_ons_aan" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(dutch_hoor_Gij_ons_aan)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/dutch/hoor_Gij_ons_aan/39_hoor_Gij_ons_aan_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/dutch/hoor_Gij_ons_aan/39_hoor_Gij_ons_aan.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/dutch/hoor_Gij_ons_aan/hoor_Gij_ons_aan.mscx' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
   </tr>
 
 </table>
