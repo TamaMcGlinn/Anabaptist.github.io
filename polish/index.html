@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="/js/play_satb.js"></script>
+    <script src="/js/remember_settings.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/songpage.css">
+    <script>
+const polish_co_oczyszcza_z_grzechu_mnie = {name: "polish_co_oczyszcza_z_grzechu_mnie"}
+const songs = [polish_co_oczyszcza_z_grzechu_mnie]
+    </script>
+  </head>
+<body>
+<audio id="polish_co_oczyszcza_z_grzechu_mnie-Soprano" loop=true>
+  <source src="/songs/polish/co_oczyszcza_z_grzechu_mnie/co_oczyszcza_z_grzechu_mnie-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="polish_co_oczyszcza_z_grzechu_mnie-Alto" loop=true>
+  <source src="/songs/polish/co_oczyszcza_z_grzechu_mnie/co_oczyszcza_z_grzechu_mnie-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="polish_co_oczyszcza_z_grzechu_mnie-Tenor" loop=true>
+  <source src="/songs/polish/co_oczyszcza_z_grzechu_mnie/co_oczyszcza_z_grzechu_mnie-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="polish_co_oczyszcza_z_grzechu_mnie-Bass" loop=true>
+  <source src="/songs/polish/co_oczyszcza_z_grzechu_mnie/co_oczyszcza_z_grzechu_mnie-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<table id="tbl_volume">
+  <tr>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="volume_change()" id="sld_volume" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Soprano')" id="sld_Soprano" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Alto')" id="sld_Alto" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Tenor')" id="sld_Tenor" /></th>
+      <th><input type="range" min="0" max="100" class="volume_slider" orient="vertical" onchange="slider_change('Bass')" id="sld_Bass" /></th>
+  </tr>
+  <tr>
+      <th>All</th>
+      <th>Soprano</th>
+      <th>Alto</th>
+      <th>Tenor</th>
+      <th>Bass</th>
+  </tr>
+</table>
+Tempo: <input type="range" min="20" max="400" step="5" class="speed_slider" orient="horizontal" value="100" onchange="speed_slider_change()" id="sld_speed" /><label id="lbl_speed" for="sld_speed">1x</label>
+<button text="reset " onclick="reset_speed()">Reset</button>
+<br/>
+<div id='div_allsongs'><label id='lbl_allsongs'>All songs / Alle liederen: </label><td><a href='/polish/all_rond.pdf'target='_blank'><img src='/images/roundnote.png'class='music_open'></a></td><td><a href='/polish/all.pdf'target='_blank'><img src='/images/shapenote.png'class='music_open'></a></td></div>
+<br/>
+<table id="tbl_allparts">
+  <tr>
+    <td><button onclick="resetSong(polish_co_oczyszcza_z_grzechu_mnie)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>1 Co Oczyszcza Z Grze…</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_polish_co_oczyszcza_z_grzechu_mnie" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(polish_co_oczyszcza_z_grzechu_mnie)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/polish/co_oczyszcza_z_grzechu_mnie/1_co_oczyszcza_z_grzechu_mnie_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/polish/co_oczyszcza_z_grzechu_mnie/1_co_oczyszcza_z_grzechu_mnie.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/polish/co_oczyszcza_z_grzechu_mnie/co_oczyszcza_z_grzechu_mnie.mscx' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+
+</table>
+
+</body>
+</html>

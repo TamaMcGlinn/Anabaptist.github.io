@@ -1124,7 +1124,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -5147,13 +5146,6 @@
                   </location>
                 </linked>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-3/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <StemDirection>down</StemDirection>
               <Note>
                 <linked>
@@ -5200,7 +5192,6 @@
                   <location>
                     <voices>1</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>66</pitch>
                 <tpc>20</tpc>
