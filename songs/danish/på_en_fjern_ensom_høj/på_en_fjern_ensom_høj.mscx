@@ -269,7 +269,7 @@
             <followText>1</followText>
             <linkedMain/>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -1933,9 +1933,10 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <syllabic>begin</syllabic>
               <linkedMain/>
               <size>13</size>
-              <text>skal</text>
+              <text>fryg</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1961,10 +1962,11 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <linkedMain/>
               <size>13</size>
-              <text>al</text>
+              <text>te</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1990,11 +1992,9 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
               <linkedMain/>
               <size>13</size>
-              <text>drig</text>
+              <text>ej</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -2246,6 +2246,7 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
+              <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
               <size>13</size>
@@ -2262,6 +2263,7 @@
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
+              <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
               <linkedMain/>
@@ -2279,6 +2281,7 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <no>1</no>
               <linkedMain/>
               <size>13</size>
               <text>det</text>
@@ -2294,6 +2297,7 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
               <size>13</size>
@@ -2310,6 +2314,7 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <no>1</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
               <size>13</size>
@@ -2326,6 +2331,7 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
               <linkedMain/>
@@ -6104,7 +6110,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -6808,8 +6814,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7335,9 +7339,10 @@
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
+                <syllabic>begin</syllabic>
                 <linked>
                   </linked>
-                <text>skal</text>
+                <text>fryg</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
@@ -7365,10 +7370,11 @@
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
-                <syllabic>begin</syllabic>
+                <syllabic>end</syllabic>
+                <ticks_f>0/8</ticks_f>
                 <linked>
                   </linked>
-                <text>al</text>
+                <text>te</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
@@ -7396,11 +7402,9 @@
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
-                <syllabic>end</syllabic>
-                <ticks_f>0/16</ticks_f>
                 <linked>
                   </linked>
-                <text>drig</text>
+                <text>ej</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
@@ -7455,8 +7459,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -7516,6 +7518,7 @@
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
+                <no>1</no>
                 <syllabic>begin</syllabic>
                 <linked>
                   </linked>
@@ -7534,6 +7537,7 @@
               <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
+                <no>1</no>
                 <syllabic>end</syllabic>
                 <ticks_f>0/16</ticks_f>
                 <linked>
@@ -7553,6 +7557,7 @@
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
+                <no>1</no>
                 <linked>
                   </linked>
                 <text>det</text>
@@ -7570,6 +7575,7 @@
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
+                <no>1</no>
                 <syllabic>begin</syllabic>
                 <linked>
                   </linked>
@@ -7588,6 +7594,7 @@
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
+                <no>1</no>
                 <syllabic>middle</syllabic>
                 <linked>
                   </linked>
@@ -7606,6 +7613,7 @@
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
+                <no>1</no>
                 <syllabic>end</syllabic>
                 <ticks_f>0/16</ticks_f>
                 <linked>
@@ -8400,7 +8408,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -9396,8 +9404,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
@@ -9952,8 +9958,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
@@ -11129,7 +11133,7 @@
                   </location>
                 <indexDiff>6</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -11602,8 +11606,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <StemDirection>down</StemDirection>
               <Note>
                 <linked>
@@ -12113,8 +12115,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <StemDirection>down</StemDirection>
               <Note>
                 <linked>
@@ -13247,7 +13247,7 @@
                   </location>
                 <indexDiff>6</indexDiff>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -13636,8 +13636,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   <location>
@@ -14053,8 +14051,6 @@
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   <location>

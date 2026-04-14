@@ -201,7 +201,7 @@
           <linkedMain/>
           <style>Subtitle</style>
           <size>9</size>
-          <text>Chrystus... który mnie umiłował i wydał za mnie samego siebie. Gal.2:20</text>
+          <text>&quot;Chrystus (...) który mnie umiłował i wydał za mnie samego siebie.&quot; Gal.2:20</text>
           </Text>
         <Text>
           <linkedMain/>
@@ -2663,7 +2663,8 @@ Tłumacz: Paweł Sikora 1883-1972</text>
               </Note>
             </Chord>
           <Beam>
-            <StemDirection>down</StemDirection>
+            <visible>0</visible>
+            <StemDirection>up</StemDirection>
             </Beam>
           <Chord>
             <linkedMain/>
@@ -4040,9 +4041,6 @@ Tłumacz: Paweł Sikora 1883-1972</text>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -4055,13 +4053,6 @@ Tłumacz: Paweł Sikora 1883-1972</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
-            <Hook>
-              <name>flag8thUp</name>
-              <visible>0</visible>
-              </Hook>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -4073,9 +4064,6 @@ Tłumacz: Paweł Sikora 1883-1972</text>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -4377,9 +4365,6 @@ Tłumacz: Paweł Sikora 1883-1972</text>
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -4405,9 +4390,6 @@ Tłumacz: Paweł Sikora 1883-1972</text>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Stem>
-              <visible>0</visible>
-              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -5040,7 +5022,7 @@ A</longName>
             <linked>
               </linked>
             <style>Subtitle</style>
-            <text>Chrystus... który mnie umiłował i wydał za mnie samego siebie. Gal.2:20</text>
+            <text>&quot;Chrystus (...) który mnie umiłował i wydał za mnie samego siebie.&quot; Gal.2:20</text>
             </Text>
           <Text>
             <linked>
