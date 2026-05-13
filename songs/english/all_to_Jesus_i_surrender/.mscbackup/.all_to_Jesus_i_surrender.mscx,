@@ -785,6 +785,9 @@
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
