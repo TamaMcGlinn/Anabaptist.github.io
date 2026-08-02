@@ -29,7 +29,8 @@ const danish_den_store_hvide_flok = {name: "danish_den_store_hvide_flok"}
 const danish_et_barn_er_født_i_betlehem = {name: "danish_et_barn_er_født_i_betlehem"}
 const danish_Gud_din_kærlighed_du_os_sender = {name: "danish_Gud_din_kærlighed_du_os_sender"}
 const danish_tak_og_ære_være_Gud = {name: "danish_tak_og_ære_være_Gud"}
-const songs = [danish_hellig_hellig_hellig,danish_det_dufter_lysegrønt_af_græs,danish_hvilken_ven_vi_har_i_Jesus,danish_har_du_intet_rum_for_Jesus,danish_Jesus_i_graven_lå,danish_tal_til_mit_hjerte_om_Jesus,danish_din_rigsag_Jesus_være_skal,danish_arbejd_thi_natten_kommer,danish_gør_som_du_vil_Gud,danish_der_er_en_port_som_åben_står,danish_Jesus_hold_mig_nær_dit_kors,danish_gå_sion_din_konge_i_møde,danish_dejlig_er_jorden,danish_gør_døren_høj_gør_porten_vid,danish_Gud_er_kærlighedens_kilde,danish_på_en_fjern_ensom_høj,danish_som_frelsens_faste_grund_jeg_ved,danish_Guds_kærlighed_er_grænseløs,danish_vær_trøstig_og_glad,danish_den_store_hvide_flok,danish_et_barn_er_født_i_betlehem,danish_Gud_din_kærlighed_du_os_sender,danish_tak_og_ære_være_Gud]
+const danish_Jesus_det_eneste = {name: "danish_Jesus_det_eneste"}
+const songs = [danish_hellig_hellig_hellig,danish_det_dufter_lysegrønt_af_græs,danish_hvilken_ven_vi_har_i_Jesus,danish_har_du_intet_rum_for_Jesus,danish_Jesus_i_graven_lå,danish_tal_til_mit_hjerte_om_Jesus,danish_din_rigsag_Jesus_være_skal,danish_arbejd_thi_natten_kommer,danish_gør_som_du_vil_Gud,danish_der_er_en_port_som_åben_står,danish_Jesus_hold_mig_nær_dit_kors,danish_gå_sion_din_konge_i_møde,danish_dejlig_er_jorden,danish_gør_døren_høj_gør_porten_vid,danish_Gud_er_kærlighedens_kilde,danish_på_en_fjern_ensom_høj,danish_som_frelsens_faste_grund_jeg_ved,danish_Guds_kærlighed_er_grænseløs,danish_vær_trøstig_og_glad,danish_den_store_hvide_flok,danish_et_barn_er_født_i_betlehem,danish_Gud_din_kærlighed_du_os_sender,danish_tak_og_ære_være_Gud,danish_Jesus_det_eneste]
     </script>
   </head>
 <body>
@@ -401,6 +402,22 @@ const songs = [danish_hellig_hellig_hellig,danish_det_dufter_lysegrønt_af_græs
   <source src="/songs/danish/tak_og_ære_være_Gud/tak_og_ære_være_Gud-Bass.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+<audio id="danish_Jesus_det_eneste-Soprano" loop=true>
+  <source src="/songs/danish/Jesus_det_eneste/Jesus_det_eneste-Soprano.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="danish_Jesus_det_eneste-Alto" loop=true>
+  <source src="/songs/danish/Jesus_det_eneste/Jesus_det_eneste-Alto.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="danish_Jesus_det_eneste-Tenor" loop=true>
+  <source src="/songs/danish/Jesus_det_eneste/Jesus_det_eneste-Tenor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<audio id="danish_Jesus_det_eneste-Bass" loop=true>
+  <source src="/songs/danish/Jesus_det_eneste/Jesus_det_eneste-Bass.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 <table id="tbl_volume">
   <tr>
@@ -421,7 +438,7 @@ const songs = [danish_hellig_hellig_hellig,danish_det_dufter_lysegrønt_af_græs
 Tempo: <input type="range" min="20" max="400" step="5" class="speed_slider" orient="horizontal" value="100" onchange="speed_slider_change()" id="sld_speed" /><label id="lbl_speed" for="sld_speed">1x</label>
 <button text="reset " onclick="reset_speed()">Reset</button>
 <br/>
-<div id='div_allsongs'><label id='lbl_allsongs'>All songs / Alle liederen: </label><td><a href='/danish_songbook/all_rond.pdf'target='_blank'><img src='/images/roundnote.png'class='music_open'></a></td><td><a href='/danish_songbook/all.pdf'target='_blank'><img src='/images/shapenote.png'class='music_open'></a></td></div>
+<div id='div_allsongs'><label id='lbl_allsongs'>All songs / Alle liederen: </label><td><a href='/sangbog/all_rond.pdf'target='_blank'><img src='/images/roundnote.png'class='music_open'></a></td><td><a href='/sangbog/all.pdf'target='_blank'><img src='/images/shapenote.png'class='music_open'></a></td></div>
 <br/>
 <table id="tbl_allparts">
   <tr>
@@ -814,6 +831,23 @@ Tempo: <input type="range" min="20" max="400" step="5" class="speed_slider" orie
     <td><a href='/songs/danish/tak_og_ære_være_Gud/23_tak_og_ære_være_Gud_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
     <td><a href='/songs/danish/tak_og_ære_være_Gud/23_tak_og_ære_være_Gud.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
     <td><a href='/songs/danish/tak_og_ære_være_Gud/tak_og_ære_være_Gud.mscx' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
+  </tr>
+  <tr>
+    <td><button onclick="resetSong(danish_Jesus_det_eneste)" type="button"class="mediabutton">⏮</button></td>
+    <td>
+      <table>
+        <tr><td>
+          <span>24 Jesus Det Eneste</span>
+        </td></tr>
+        <tr><td>
+          <progress id="pgb_danish_Jesus_det_eneste" value="0" max="100" class="music_progress"></progress>
+        </td></tr>
+      </table>
+    </td>
+    <td><button onclick="playPause(danish_Jesus_det_eneste)"type="button" class="mediabutton">⏯ </button></td>
+    <td><a href='/songs/danish/Jesus_det_eneste/24_Jesus_det_eneste_rond.pdf' target='_blank'><img src='/images/roundnote.png' class='music_open'></a></td>
+    <td><a href='/songs/danish/Jesus_det_eneste/24_Jesus_det_eneste.pdf' target='_blank'><img src='/images/shapenote.png' class='music_open'></a></td>
+    <td><a href='/songs/danish/Jesus_det_eneste/Jesus_det_eneste.mscx' target='_blank'><img src='/images/mscore_dl.png' class='music_open'></a></td>
   </tr>
 
 </table>
