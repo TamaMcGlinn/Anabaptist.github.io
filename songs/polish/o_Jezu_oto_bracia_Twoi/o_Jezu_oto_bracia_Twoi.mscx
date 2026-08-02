@@ -1615,10 +1615,6 @@
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <visible>0</visible>
-                <SlurSegment no="0">
-                  <visible>0</visible>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1704,6 +1700,10 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <visible>0</visible>
+                <SlurSegment no="0">
+                  <visible>0</visible>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>

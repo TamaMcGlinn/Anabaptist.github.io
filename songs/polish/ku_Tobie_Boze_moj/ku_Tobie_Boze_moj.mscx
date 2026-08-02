@@ -755,6 +755,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
+                  <TieSegment no="0">
+                    <offset x="0.147793" y="-1.03455"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1423,6 +1426,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
+                  <TieSegment no="0">
+                    <offset x="0.295587" y="-0.591173"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2922,6 +2928,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
+                  <TieSegment no="0">
+                    <offset x="-0.295587" y="1.03455"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3296,6 +3305,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
+                  <TieSegment no="0">
+                    <offset x="-0.314061" y="0.563462"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>

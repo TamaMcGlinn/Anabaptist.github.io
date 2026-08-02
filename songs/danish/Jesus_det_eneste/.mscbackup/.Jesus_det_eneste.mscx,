@@ -2081,7 +2081,7 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -3242,11 +3242,13 @@ A</longName>
         <Measure>
           <voice>
             <KeySig>
+              <linked>
+                <indexDiff>-3</indexDiff>
+                </linked>
               <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <sigN>3</sigN>
               <sigD>4</sigD>
@@ -3255,20 +3257,17 @@ A</longName>
               <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <visible>0</visible>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>1. Je</text>
                 </Lyrics>
@@ -3276,7 +3275,6 @@ A</longName>
                 <no>1</no>
                 <syllabic>begin</syllabic>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>2. Mod</text>
                 </Lyrics>
@@ -3284,20 +3282,17 @@ A</longName>
                 <no>2</no>
                 <syllabic>begin</syllabic>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>3. Her</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>4. Du</text>
                 </Lyrics>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
@@ -5101,6 +5096,10 @@ A</longName>
               <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
+              <linked>
+                <score>same</score>
+                <indexDiff>-1</indexDiff>
+                </linked>
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
@@ -5108,7 +5107,7 @@ A</longName>
               <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
-                <indexDiff>4</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <visible>0</visible>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
@@ -7692,6 +7691,12 @@ A</longName>
               <accidental>-1</accidental>
               </KeySig>
             <TimeSig>
+              <linked>
+                <score>same</score>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
@@ -7702,7 +7707,7 @@ A</longName>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <visible>0</visible>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
