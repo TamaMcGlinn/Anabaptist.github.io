@@ -3488,6 +3488,11 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>54</pitch>
@@ -3498,6 +3503,11 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>54</pitch>
@@ -3699,6 +3709,11 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>54</pitch>
@@ -3709,6 +3724,11 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>54</pitch>
@@ -3873,6 +3893,7 @@ Dansk: Ole Bækgaard. 1991 </text>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>50</pitch>
@@ -3883,8 +3904,16 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3893,8 +3922,12 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3903,8 +3936,16 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3913,8 +3954,16 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3926,8 +3975,15 @@ Dansk: Ole Bækgaard. 1991 </text>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
+              <NoteDot>
+                <visible>0</visible>
+                </NoteDot>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3980,6 +4036,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -3990,6 +4049,13 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4000,6 +4066,13 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4010,6 +4083,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4020,6 +4096,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4087,6 +4166,7 @@ Dansk: Ole Bækgaard. 1991 </text>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>50</pitch>
@@ -4097,8 +4177,16 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4107,8 +4195,12 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4117,8 +4209,16 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4127,8 +4227,16 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4142,6 +4250,10 @@ Dansk: Ole Bækgaard. 1991 </text>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
+              <NoteDot>
+                <visible>0</visible>
+                </NoteDot>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -4194,6 +4306,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4204,6 +4319,13 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4214,6 +4336,13 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
@@ -4542,6 +4671,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4552,6 +4684,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -4562,6 +4697,13 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -4912,6 +5054,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4922,6 +5067,9 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -4932,6 +5080,13 @@ Dansk: Ole Bækgaard. 1991 </text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -5142,7 +5297,6 @@ Dansk: Ole Bækgaard. 1991 </text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -5205,7 +5359,6 @@ Dansk: Ole Bækgaard. 1991 </text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -12597,7 +12750,6 @@ Dansk: Ole Bækgaard. 1991 </text>
                   <location>
                     <voices>1</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>47</pitch>
                 <tpc>19</tpc>
@@ -12657,7 +12809,6 @@ Dansk: Ole Bækgaard. 1991 </text>
                   <location>
                     <voices>1</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <Accidental>
                   <subtype>accidentalNatural</subtype>
