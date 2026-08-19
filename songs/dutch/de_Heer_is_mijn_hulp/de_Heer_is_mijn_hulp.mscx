@@ -218,28 +218,29 @@
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Elk</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Mijn</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Leer</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Mijn</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -254,6 +255,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -269,29 +271,30 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>uur,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ziel</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ziel</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -308,26 +311,26 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>elk</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Uw</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>zucht</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -340,12 +343,12 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Lyrics>
@@ -353,19 +356,19 @@
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>hoeft</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>wil</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>steeds</text>
               </Lyrics>
             <Note>
@@ -377,30 +380,30 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Uw</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>te</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>naar</text>
               </Lyrics>
             <Note>
@@ -414,6 +417,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -426,6 +430,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -439,13 +444,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -455,7 +462,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -469,30 +482,31 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>blik,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>hulp,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>doen,</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>U,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -505,28 +519,29 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>steun</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>in</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>steeds</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>O</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -541,6 +556,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -552,6 +568,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -567,31 +584,32 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>vreu</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>meer</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Hei</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -633,24 +651,24 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>op</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>en</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>end</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>lig</text>
               </Lyrics>
             <Lyrics>
@@ -658,7 +676,7 @@
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>gde</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -680,12 +698,12 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text> en</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -706,6 +724,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -717,6 +736,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -735,28 +755,29 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>U;</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>pijn;</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>meer;</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>God!</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -775,7 +796,9 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -789,24 +812,25 @@
         <measureNumberMode>2</measureNumberMode>
         <voice>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
-              <size>14.95</size>
+              <size>13</size>
               <text>Uw</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>14.95</size>
+              <size>13</size>
               <text>Wil</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <size>14.95</size>
+              <size>13</size>
               <text>Wil</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
-              <size>14.95</size>
+              <size>13</size>
               <text>Ik</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -820,6 +844,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -836,30 +861,31 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>woord</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>el</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>aan</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ben</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -877,7 +903,7 @@
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Lyrics>
@@ -885,19 +911,19 @@
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ke</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>mijn</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Uw</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -910,32 +936,32 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>leen,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>dag,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ziel</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ei</text>
               </Lyrics>
             <Note>
@@ -947,30 +973,30 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Uw</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Note>
@@ -984,6 +1010,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -996,6 +1023,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1009,13 +1037,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -1025,6 +1055,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -1040,22 +1071,23 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Heer,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Heer,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Woord</text>
               </Lyrics>
             <Lyrics>
@@ -1063,7 +1095,7 @@
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>dom,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1076,32 +1108,33 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ver</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>na</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ver</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>vol</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1116,6 +1149,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1127,6 +1161,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1142,33 +1177,34 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>troost</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>bij</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>vul</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>za</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1210,31 +1246,31 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>len</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>end</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>lig</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1256,7 +1292,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1276,6 +1312,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -1286,6 +1323,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -1306,28 +1344,29 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>nu.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>zijn.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Heer.</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>lot!</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1347,10 +1386,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>63</pitch>
               <tpc>11</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -1362,9 +1402,10 @@
         <measureNumberMode>2</measureNumberMode>
         <voice>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
-              <size>14.95</size>
+              <size>13</size>
               <text>Mijn</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1378,6 +1419,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1393,11 +1435,12 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ziel</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1414,7 +1457,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>heeft</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1427,11 +1470,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Note>
@@ -1443,11 +1486,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>van</text>
               </Lyrics>
             <Note>
@@ -1461,6 +1504,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1473,6 +1517,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1486,13 +1531,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>68</pitch>
@@ -1502,7 +1549,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>68</pitch>
@@ -1516,11 +1569,12 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>no</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1533,12 +1587,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>de,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1553,6 +1608,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1564,6 +1620,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1579,10 +1636,11 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>elk</text>
               </Lyrics>
             <Note>
@@ -1596,6 +1654,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1611,11 +1670,12 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>uur</text>
               </Lyrics>
             <Note>
@@ -1627,10 +1687,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>elk</text>
               </Lyrics>
             <Note>
@@ -1642,11 +1703,12 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Note>
@@ -1658,11 +1720,12 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Note>
@@ -1676,6 +1739,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1688,6 +1752,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1702,13 +1767,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -1718,7 +1785,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -1735,12 +1808,13 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>blik!</text>
               </Lyrics>
             <Note>
@@ -1759,10 +1833,11 @@
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>68</pitch>
               <tpc>10</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -1774,9 +1849,10 @@
         <measureNumberMode>2</measureNumberMode>
         <voice>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
-              <size>14.95</size>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1790,6 +1866,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1805,12 +1882,13 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Ze</text>
               </Lyrics>
             <Note>
@@ -1822,12 +1900,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Note>
@@ -1839,10 +1918,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>mij,</text>
               </Lyrics>
             <Note>
@@ -1854,10 +1934,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>mijn</text>
               </Lyrics>
             <Note>
@@ -1871,6 +1952,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1883,6 +1965,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1896,13 +1979,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -1912,7 +1997,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>61</pitch>
@@ -1926,11 +2017,12 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Hei</text>
               </Lyrics>
             <Note>
@@ -1942,12 +2034,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>land!</text>
               </Lyrics>
             <Note>
@@ -1961,6 +2054,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1972,6 +2066,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1987,10 +2082,11 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>Tot</text>
               </Lyrics>
             <Note>
@@ -2004,6 +2100,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2019,11 +2116,12 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -2045,6 +2143,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2062,10 +2161,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>kom</text>
               </Lyrics>
             <Note>
@@ -2079,6 +2179,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2105,6 +2206,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2127,6 +2229,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2142,10 +2245,11 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14.95</size>
+              <size>13</size>
               <text>ik!</text>
               </Lyrics>
             <Note>
@@ -2163,6 +2267,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2190,6 +2295,7 @@
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2203,6 +2309,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2217,6 +2324,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Stem>
@@ -2232,6 +2340,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -2245,13 +2354,17 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>51</pitch>
@@ -2261,7 +2374,15 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>51</pitch>
@@ -2273,6 +2394,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -2284,6 +2406,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2294,10 +2417,10 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>51</pitch>
               <tpc>11</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -2305,10 +2428,10 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>51</pitch>
               <tpc>11</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -2320,6 +2443,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2331,6 +2455,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2344,6 +2469,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2354,6 +2480,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2368,6 +2495,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2379,6 +2507,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2389,6 +2518,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2401,6 +2531,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2411,6 +2542,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2425,6 +2557,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.5906</userLen>
@@ -2445,6 +2578,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2458,6 +2592,7 @@
       <Measure len="1/4">
         <voice>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2470,6 +2605,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2484,6 +2620,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -2496,6 +2633,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -2509,13 +2647,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -2525,7 +2665,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -2537,6 +2683,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -2548,6 +2695,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2558,6 +2706,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2568,6 +2717,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2582,6 +2732,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2593,6 +2744,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>2.3859</userLen>
@@ -2620,6 +2772,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2634,12 +2787,13 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.11342</userLen>
               </Stem>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -2649,6 +2803,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2659,6 +2814,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2669,6 +2825,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2681,6 +2838,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2691,6 +2849,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2705,6 +2864,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2722,6 +2882,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2735,6 +2896,7 @@
       <Measure len="1/4">
         <voice>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2762,6 +2924,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -2774,6 +2937,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -2787,13 +2951,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2803,7 +2969,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -2830,6 +3002,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2840,6 +3013,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2850,6 +3024,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2864,6 +3039,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2875,6 +3051,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2888,6 +3065,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2898,6 +3076,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2912,6 +3091,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2925,6 +3105,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2939,6 +3120,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -2951,6 +3133,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -2964,17 +3147,18 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.18154</y1>
-              <y2>3.43154</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.03432</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -2984,7 +3168,16 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.14925</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>61</pitch>
@@ -2996,6 +3189,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3007,6 +3201,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3017,6 +3212,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3027,6 +3223,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3041,6 +3238,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3058,6 +3256,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3071,6 +3270,7 @@
       <Measure len="1/4">
         <voice>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3083,6 +3283,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3097,6 +3298,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3109,6 +3311,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3122,13 +3325,15 @@
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3138,7 +3343,13 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>56</pitch>
@@ -3150,6 +3361,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3161,6 +3373,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3171,6 +3384,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3181,6 +3395,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3195,6 +3410,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.27248</userLen>
@@ -3209,6 +3425,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3222,6 +3439,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3232,6 +3450,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3246,6 +3465,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3259,6 +3479,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3273,6 +3494,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3284,6 +3506,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3297,6 +3520,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3307,6 +3531,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3321,6 +3546,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.11342</userLen>
@@ -3341,6 +3567,7 @@
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3481,6 +3708,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3520,6 +3748,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -3593,7 +3822,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3631,7 +3860,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -3671,6 +3900,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -3708,6 +3938,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3747,6 +3978,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -3816,7 +4048,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -3865,7 +4097,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <no>1</no>
@@ -3894,6 +4126,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -3965,6 +4198,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4041,7 +4275,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4079,7 +4313,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4119,6 +4353,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -4156,6 +4391,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4199,6 +4435,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4270,7 +4507,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4318,7 +4555,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -4341,6 +4578,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -4400,6 +4638,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4436,7 +4675,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4453,7 +4692,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4474,6 +4713,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4492,6 +4732,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4515,6 +4756,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4535,6 +4777,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4552,6 +4795,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4568,6 +4812,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4585,6 +4830,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4606,6 +4852,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4649,6 +4896,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4667,6 +4915,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4685,6 +4934,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4701,6 +4951,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4721,6 +4972,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4738,6 +4990,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4760,6 +5013,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4780,6 +5034,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4808,6 +5063,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -4826,6 +5082,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4846,6 +5103,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -5001,6 +5259,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5022,6 +5281,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -5040,6 +5300,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5057,6 +5318,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5074,6 +5336,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5095,6 +5358,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -5112,6 +5376,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5133,6 +5398,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -5150,6 +5416,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <no>1</no>
@@ -5181,6 +5448,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -5202,6 +5470,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5223,6 +5492,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -5241,6 +5511,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5258,6 +5529,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5275,6 +5547,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5296,6 +5569,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -5313,6 +5587,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5334,6 +5609,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -5351,6 +5627,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5396,6 +5673,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5417,6 +5695,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -5435,6 +5714,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5452,6 +5732,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5469,6 +5750,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5490,6 +5772,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5507,6 +5790,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -5528,6 +5812,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5549,6 +5834,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -5567,6 +5853,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5584,6 +5871,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5601,6 +5889,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5643,6 +5932,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5664,6 +5954,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -5682,6 +5973,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5699,6 +5991,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5716,6 +6009,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -5737,6 +6031,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5754,6 +6049,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5775,6 +6071,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5796,6 +6093,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -5841,6 +6139,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -5872,6 +6171,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -5893,6 +6193,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6049,6 +6350,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6064,6 +6366,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6076,6 +6379,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6087,6 +6391,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6098,6 +6403,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6113,6 +6419,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6124,6 +6431,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6139,6 +6447,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6150,6 +6459,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6161,6 +6471,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6176,6 +6487,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6207,6 +6519,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6219,6 +6532,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6230,6 +6544,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6241,6 +6556,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6256,6 +6572,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6267,6 +6584,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6282,6 +6600,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6294,6 +6613,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6305,6 +6625,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6316,6 +6637,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6331,6 +6653,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6362,6 +6685,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6374,6 +6698,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6385,6 +6710,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6396,6 +6722,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6411,6 +6738,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6422,6 +6750,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6437,6 +6766,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6452,6 +6782,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6464,6 +6795,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6475,6 +6807,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6486,6 +6819,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6501,6 +6835,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6532,6 +6867,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6544,6 +6880,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6555,6 +6892,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6566,6 +6904,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6581,6 +6920,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6592,6 +6932,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6607,6 +6948,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6622,6 +6964,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6633,6 +6976,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6648,6 +6992,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6809,6 +7154,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6830,6 +7176,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -6848,6 +7195,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6865,6 +7213,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6882,6 +7231,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6903,6 +7253,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6920,6 +7271,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6941,6 +7293,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -6958,6 +7311,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6979,6 +7333,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7000,6 +7355,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7021,6 +7377,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -7039,6 +7396,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7056,6 +7414,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7073,6 +7432,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7111,6 +7471,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7132,6 +7493,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7149,6 +7511,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7170,6 +7533,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7230,6 +7594,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7247,6 +7612,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7264,6 +7630,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7285,6 +7652,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7302,6 +7670,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7323,6 +7692,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7344,6 +7714,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -7362,6 +7733,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7379,6 +7751,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7396,6 +7769,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7417,6 +7791,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7438,6 +7813,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7459,6 +7835,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -7477,6 +7854,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7494,6 +7872,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7511,6 +7890,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7532,6 +7912,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7549,6 +7930,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7570,6 +7952,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7591,6 +7974,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7608,6 +7992,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7629,6 +8014,7 @@
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>

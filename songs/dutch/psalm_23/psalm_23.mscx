@@ -202,7 +202,6 @@
           </Text>
         <Text>
           <linkedMain/>
-          <visible>0</visible>
           <style>Composer</style>
           <size>9</size>
           <offset x="0" y="4.71756"/>

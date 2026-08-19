@@ -229,33 +229,34 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Tempo>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
               <size>11.5</size>
               <offset x="-0.5" y="3"/>
-              <text>1  Zal</text>
+              <text>1. Zal</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
               <size>11.5</size>
               <offset x="-0.5" y="3"/>
-              <text>2  Zal</text>
+              <text>2. Zal</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
               <size>11.5</size>
               <offset x="-0.5" y="3"/>
-              <text>3  Zie</text>
+              <text>3. Zie</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
               <size>11.5</size>
               <offset x="-0.5" y="3"/>
-              <text>4  Zie</text>
+              <text>4. Zie</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
@@ -263,7 +264,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
               <linkedMain/>
               <size>11.5</size>
               <offset x="-0.5" y="3"/>
-              <text>5  Zo</text>
+              <text>5. Zo</text>
               </Lyrics>
             <Lyrics>
               <no>5</no>
@@ -271,7 +272,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
               <linkedMain/>
               <size>11.5</size>
               <offset x="-0.5" y="3"/>
-              <text>6  Zo</text>
+              <text>6. Zo</text>
               </Lyrics>
             <Note>
               <linkedMain/>
@@ -282,6 +283,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -331,6 +333,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -380,6 +383,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -435,6 +439,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -446,6 +451,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -457,6 +463,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -468,6 +475,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -483,6 +491,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -531,6 +540,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -582,6 +592,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -633,6 +644,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -692,6 +704,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -703,6 +716,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -714,6 +728,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -725,6 +740,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -740,6 +756,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -785,6 +802,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -830,6 +848,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -878,6 +897,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -937,6 +957,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -956,6 +977,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -967,6 +989,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -978,6 +1001,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -989,6 +1013,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -1003,6 +1028,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -1052,6 +1078,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1109,6 +1136,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1158,6 +1186,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1169,6 +1198,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1180,6 +1210,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1195,6 +1226,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1240,6 +1272,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1285,6 +1318,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1333,6 +1367,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1386,6 +1421,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.24146</userLen>
@@ -1400,6 +1436,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1411,6 +1448,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1422,6 +1460,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1437,6 +1476,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1496,6 +1536,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1513,6 +1554,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -1574,6 +1616,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1591,6 +1634,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -1645,6 +1689,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1704,6 +1749,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -1714,6 +1760,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -1724,6 +1771,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.39665</userLen>
@@ -1738,6 +1786,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1756,6 +1805,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1802,6 +1852,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -1848,6 +1899,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1898,6 +1950,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1949,6 +2002,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1960,6 +2014,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1971,6 +2026,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1982,6 +2038,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -2001,6 +2058,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2022,6 +2080,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -2071,6 +2130,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2120,6 +2180,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2167,6 +2228,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2178,6 +2240,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2192,6 +2255,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2218,6 +2282,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2229,6 +2294,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2240,6 +2306,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2251,7 +2318,11 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>53</pitch>
@@ -2263,6 +2334,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2273,6 +2345,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2286,6 +2359,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2296,6 +2370,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2310,6 +2385,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2321,6 +2397,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>2.01738</userLen>
@@ -2335,6 +2412,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2346,6 +2424,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2359,6 +2438,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2369,6 +2449,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2379,6 +2460,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2389,6 +2471,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2403,6 +2486,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2414,6 +2498,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2428,6 +2513,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.70701</userLen>
@@ -2442,6 +2528,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2455,6 +2542,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2465,6 +2553,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2475,6 +2564,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2485,6 +2575,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2499,6 +2590,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2510,6 +2602,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2521,6 +2614,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>0.931098</userLen>
@@ -2537,6 +2631,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2547,6 +2642,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2557,6 +2653,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -2571,6 +2668,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2582,6 +2680,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.24146</userLen>
@@ -2596,6 +2695,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2607,6 +2707,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2620,6 +2721,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2630,6 +2732,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2640,6 +2743,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2650,6 +2754,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2664,6 +2769,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2675,6 +2781,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2686,7 +2793,11 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -2696,6 +2807,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.08628</userLen>
@@ -2712,6 +2824,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2722,6 +2835,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2732,6 +2846,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2742,6 +2857,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2756,6 +2872,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2767,6 +2884,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.24146</userLen>
@@ -2781,6 +2899,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2792,6 +2911,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2805,6 +2925,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2815,6 +2936,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2825,6 +2947,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2835,6 +2958,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2849,7 +2973,11 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -2859,6 +2987,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -2879,6 +3008,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2896,6 +3026,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2909,6 +3040,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2919,6 +3051,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2929,6 +3062,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3080,33 +3214,34 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>1  Zal</text>
+                <text>1. Zal</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>2  Zal</text>
+                <text>2. Zal</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>3  Zie</text>
+                <text>3. Zie</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>4  Zie</text>
+                <text>4. Zie</text>
                 </Lyrics>
               <Lyrics>
                 <no>4</no>
@@ -3114,7 +3249,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>5  Zo</text>
+                <text>5. Zo</text>
                 </Lyrics>
               <Lyrics>
                 <no>5</no>
@@ -3122,7 +3257,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
                 <linked>
                   <indexDiff>1</indexDiff>
                   </linked>
-                <text>6  Zo</text>
+                <text>6. Zo</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -3135,6 +3270,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3185,6 +3321,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3235,6 +3372,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3293,6 +3431,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3342,6 +3481,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3394,6 +3534,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3446,6 +3587,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -3508,6 +3650,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3554,6 +3697,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3600,6 +3744,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3649,6 +3794,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3710,6 +3856,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -3732,6 +3879,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -3782,6 +3930,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -3840,6 +3989,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -3892,6 +4042,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3938,6 +4089,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3984,6 +4136,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4033,6 +4186,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4089,6 +4243,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4150,6 +4305,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -4168,6 +4324,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4231,6 +4388,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -4249,6 +4407,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4304,6 +4463,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4366,6 +4526,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4413,6 +4574,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4460,6 +4622,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4511,6 +4674,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4565,6 +4729,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4615,6 +4780,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4665,6 +4831,7 @@ dat gij vrij loslaat de verpletterden, en alle juk verscheurt?&quot; Jesaja 58:6
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -4842,33 +5009,34 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
                   <indexDiff>6</indexDiff>
                   </linked>
-                <text>1  Zal</text>
+                <text>1. Zal</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
                   <indexDiff>6</indexDiff>
                   </linked>
-                <text>2  Zal</text>
+                <text>2. Zal</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
                   <indexDiff>6</indexDiff>
                   </linked>
-                <text>3  Zie</text>
+                <text>3. Zie</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
                   <indexDiff>6</indexDiff>
                   </linked>
-                <text>4  Zie</text>
+                <text>4. Zie</text>
                 </Lyrics>
               <Lyrics>
                 <no>4</no>
@@ -4876,7 +5044,7 @@ A</longName>
                 <linked>
                   <indexDiff>6</indexDiff>
                   </linked>
-                <text>5  Zo</text>
+                <text>5. Zo</text>
                 </Lyrics>
               <Lyrics>
                 <no>5</no>
@@ -4884,7 +5052,7 @@ A</longName>
                 <linked>
                   <indexDiff>6</indexDiff>
                   </linked>
-                <text>6  Zo</text>
+                <text>6. Zo</text>
                 </Lyrics>
               <Note>
                 <linked>
@@ -4903,6 +5071,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4966,6 +5135,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5029,6 +5199,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5100,6 +5271,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5162,6 +5334,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5227,6 +5400,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5292,6 +5466,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5367,6 +5542,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5426,6 +5602,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5485,6 +5662,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5547,6 +5725,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5614,6 +5793,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -5677,6 +5857,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5745,6 +5926,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -5810,6 +5992,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5869,6 +6052,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5928,6 +6112,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5990,6 +6175,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6059,6 +6245,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6122,6 +6309,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6187,6 +6375,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6252,6 +6441,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6330,6 +6520,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6390,6 +6581,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6450,6 +6642,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6514,6 +6707,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6577,6 +6771,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -6598,6 +6793,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6661,6 +6857,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6727,6 +6924,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -6902,6 +7100,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6913,6 +7112,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6924,6 +7124,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6935,6 +7136,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6950,6 +7152,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6961,6 +7164,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6972,6 +7176,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6983,6 +7188,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -6998,6 +7204,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7009,6 +7216,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7023,6 +7231,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7034,6 +7243,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7049,6 +7259,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7060,6 +7271,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7071,6 +7283,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7086,6 +7299,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7097,6 +7311,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7108,6 +7323,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7119,6 +7335,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7134,6 +7351,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7145,6 +7363,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7156,6 +7375,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7167,6 +7387,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7182,6 +7403,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7193,6 +7415,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7204,6 +7427,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7215,6 +7439,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7230,6 +7455,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7241,6 +7467,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <Slur>
@@ -7263,6 +7490,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -7281,6 +7509,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7412,6 +7641,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7429,6 +7659,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7449,6 +7680,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7466,6 +7698,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7487,6 +7720,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7504,6 +7738,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7521,6 +7756,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7538,6 +7774,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7559,6 +7796,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7576,6 +7814,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7593,6 +7832,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7610,6 +7850,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7631,6 +7872,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7648,6 +7890,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7665,6 +7908,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -7686,6 +7930,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7703,6 +7948,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7720,6 +7966,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7737,6 +7984,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7758,6 +8006,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7775,6 +8024,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7792,6 +8042,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7809,6 +8060,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7830,6 +8082,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7847,6 +8100,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7864,6 +8118,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7881,6 +8136,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7902,6 +8158,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7919,6 +8176,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7936,6 +8194,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>

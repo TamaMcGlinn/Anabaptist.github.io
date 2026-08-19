@@ -22,7 +22,7 @@
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
       <minVerticalDistance>0.3</minVerticalDistance>
-      <Spatium>1.55</Spatium>
+      <Spatium>1.53</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>

@@ -2225,6 +2225,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2398,7 +2399,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <size>13</size>
               <text>neer</text>
               </Lyrics>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>71</pitch>
@@ -2480,11 +2481,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           </voice>
         <voice>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -2506,6 +2505,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2962,6 +2962,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.32423</userLen>
@@ -2976,6 +2977,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.60799</userLen>
@@ -2990,6 +2992,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.04046</userLen>
@@ -3006,6 +3009,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3016,6 +3020,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3026,6 +3031,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3040,6 +3046,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.13505</userLen>
@@ -3054,6 +3061,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>0.851289</userLen>
@@ -3068,11 +3076,12 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
-              <userLen>1.32423</userLen>
+              <userLen>0.100041</userLen>
               </Stem>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3084,6 +3093,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3094,6 +3104,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3104,6 +3115,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3114,6 +3126,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3124,6 +3137,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3134,6 +3148,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3148,6 +3163,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.79717</userLen>
@@ -3162,6 +3178,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>2.36469</userLen>
@@ -3176,6 +3193,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>2.17552</userLen>
@@ -3192,6 +3210,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3202,6 +3221,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3212,6 +3232,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3226,6 +3247,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>0.851289</userLen>
@@ -3240,11 +3262,12 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
-              <userLen>0.567526</userLen>
+              <userLen>-0.0839231</userLen>
               </Stem>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3256,6 +3279,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3266,6 +3290,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3276,6 +3301,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3286,6 +3312,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3300,6 +3327,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3311,6 +3339,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3322,6 +3351,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3335,6 +3365,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3345,6 +3376,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3355,6 +3387,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3369,6 +3402,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3380,6 +3414,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.60799</userLen>
@@ -3394,6 +3429,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>1.5134</userLen>
@@ -3410,6 +3446,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3420,6 +3457,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3430,6 +3468,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3444,6 +3483,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Stem>
               <userLen>2.27011</userLen>
@@ -3458,6 +3498,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3469,6 +3510,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3482,6 +3524,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3492,6 +3535,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3502,6 +3546,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3516,6 +3561,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3528,6 +3574,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -3542,6 +3589,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3551,13 +3599,18 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -3567,7 +3620,15 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag16thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -3577,6 +3638,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3586,13 +3648,18 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3602,7 +3669,15 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag16thUp</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3614,6 +3689,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3624,19 +3700,13 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
-              <NoteDot>
-                <visible>0</visible>
-                </NoteDot>
               <pitch>48</pitch>
               <tpc>14</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -3644,10 +3714,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>48</pitch>
               <tpc>14</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -3655,6 +3725,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3666,14 +3737,11 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
-              <NoteDot>
-                <visible>0</visible>
-                </NoteDot>
               <pitch>55</pitch>
               <tpc>15</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -3681,10 +3749,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>55</pitch>
               <tpc>15</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -3696,6 +3764,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3705,14 +3774,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <Fragment>
-              <y1>5.7439</y1>
-              <y2>5.7439</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -3722,6 +3786,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="-0.187935" y="-2.97429"/>
               <text>Hij</text>
               </Lyrics>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -3732,6 +3800,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -3741,6 +3810,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="-0.187935" y="-2.97429"/>
               <text>ver</text>
               </Lyrics>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -3751,6 +3824,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -3768,17 +3842,19 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.78351</y1>
-              <y2>5.78351</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.81743</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3788,7 +3864,16 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Stem>
+              <userLen>1.40704</userLen>
+              </Stem>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3800,6 +3885,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3810,6 +3896,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -3821,6 +3908,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3831,6 +3919,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3841,6 +3930,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -3852,6 +3942,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3866,6 +3957,22 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.64155</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3877,54 +3984,47 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.08093</y1>
-              <y2>4.08093</y2>
-              </Fragment>
-            </Beam>
-          <Chord>
-            <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>16th</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Beam>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.98634</y1>
-              <y2>3.98634</y2>
-              </Fragment>
-            </Beam>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>16th</durationType>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3934,7 +4034,13 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3946,6 +4052,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3956,6 +4063,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3966,6 +4074,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -3977,6 +4086,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3987,6 +4097,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -3998,6 +4109,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4012,6 +4124,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.57413</userLen>
@@ -4024,15 +4137,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.77791</y1>
-              <y2>5.77791</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -4042,6 +4149,14 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="0.391646" y="-2.79733"/>
               <text>Hij</text>
               </Lyrics>
+            <Stem>
+              <userLen>1.87606</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4051,6 +4166,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -4060,6 +4176,14 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="0.391646" y="-2.79733"/>
               <text>ver</text>
               </Lyrics>
+            <Stem>
+              <userLen>1.7588</userLen>
+              </Stem>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4069,6 +4193,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -4089,11 +4214,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4105,6 +4228,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4117,6 +4241,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4127,6 +4252,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4138,6 +4264,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4148,6 +4275,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4158,6 +4286,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4173,6 +4302,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4188,6 +4318,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4199,6 +4330,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4208,11 +4340,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4224,6 +4354,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4232,11 +4363,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4248,6 +4377,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4260,6 +4390,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4271,6 +4402,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4282,6 +4414,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4297,6 +4430,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4308,6 +4442,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4323,6 +4458,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4338,6 +4474,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4349,6 +4486,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4360,7 +4498,11 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.5243</userLen>
+              </Stem>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -4369,17 +4511,19 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.68892</y1>
-              <y2>5.68892</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.81743</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4389,7 +4533,16 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Stem>
+              <userLen>1.7588</userLen>
+              </Stem>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4401,6 +4554,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4411,6 +4565,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4421,6 +4576,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4431,6 +4587,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4442,6 +4599,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4456,6 +4614,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4467,6 +4626,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4476,18 +4636,16 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.79717</y1>
-              <y2>4.79717</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4497,7 +4655,13 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4505,18 +4669,16 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>6.12139</y1>
-              <y2>5.12139</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4526,7 +4688,16 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Stem>
+              <userLen>1.05528</userLen>
+              </Stem>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -4538,6 +4709,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4548,6 +4720,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4558,6 +4731,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4569,6 +4743,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4579,6 +4754,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4590,6 +4766,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4604,6 +4781,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4615,6 +4793,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4626,6 +4805,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4643,6 +4823,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4653,6 +4834,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4663,6 +4845,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4684,15 +4867,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.77791</y1>
-              <y2>5.77791</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -4702,6 +4879,14 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="0.391646" y="-2.79733"/>
               <text>Hij</text>
               </Lyrics>
+            <Stem>
+              <userLen>1.99331</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4711,6 +4896,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -4720,6 +4906,14 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="0.391646" y="-2.79733"/>
               <text>ver</text>
               </Lyrics>
+            <Stem>
+              <userLen>1.7588</userLen>
+              </Stem>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4729,6 +4923,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -4762,6 +4957,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Rest>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4773,6 +4969,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4783,6 +4980,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4803,15 +5001,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.15508</y1>
-              <y2>4.15508</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -4821,6 +5013,11 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="0.391646" y="-2.79733"/>
               <text>Hij</text>
               </Lyrics>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4830,6 +5027,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -4839,6 +5037,11 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <offset x="0.391646" y="-2.79733"/>
               <text>ver</text>
               </Lyrics>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4848,6 +5051,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -4868,18 +5072,16 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.5134</y1>
-              <y2>4.5134</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4889,7 +5091,13 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
+            <Hook>
+              <name>flag16thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4904,11 +5112,9 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <Beam>
-            <visible>0</visible>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4920,6 +5126,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4930,6 +5137,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4940,6 +5148,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -4951,6 +5160,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4965,6 +5175,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4976,6 +5187,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4987,6 +5199,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -4999,6 +5212,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -5016,6 +5230,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -5027,6 +5242,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -5037,6 +5253,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -5048,6 +5265,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -5062,6 +5280,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -5074,6 +5293,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
@@ -6670,6 +6890,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -8534,15 +8755,13 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
           </Measure>
         <Measure>
           <voice>
-            <Beam>
-              <StemDirection>up</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 <location>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <Slur>
@@ -8576,6 +8795,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -9110,6 +9330,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
               <linked>
                 <indexDiff>1</indexDiff>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>1.27899</userLen>
@@ -9127,6 +9348,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>1.55306</userLen>
@@ -9143,6 +9365,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>1.00492</userLen>
@@ -9163,6 +9386,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>1.09628</userLen>
@@ -9179,6 +9403,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>0.822207</userLen>
@@ -9195,6 +9420,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>1.27899</userLen>
@@ -9215,6 +9441,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>1.73577</userLen>
@@ -9231,6 +9458,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>2.28391</userLen>
@@ -9247,6 +9475,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>2.10119</userLen>
@@ -9267,6 +9496,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>0.822207</userLen>
@@ -9283,6 +9513,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>0.548138</userLen>
@@ -9303,6 +9534,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9316,6 +9548,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9329,6 +9562,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9346,6 +9580,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9359,6 +9594,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Stem>
                 <userLen>1.55306</userLen>
@@ -9375,6 +9611,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>1.4617</userLen>
@@ -9395,6 +9632,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Stem>
                 <userLen>2.19255</userLen>
@@ -9411,6 +9649,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9424,6 +9663,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9441,6 +9681,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -9468,6 +9709,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9478,12 +9720,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9497,6 +9737,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9509,6 +9750,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9519,12 +9761,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9538,6 +9778,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9554,6 +9795,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9567,6 +9809,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -9586,6 +9829,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -9605,6 +9849,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -9621,16 +9866,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>5.58593</y1>
-                <y2>5.58593</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9644,6 +9883,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9660,6 +9900,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9673,6 +9914,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9683,16 +9925,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>3.94151</y1>
-                <y2>3.94151</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9706,6 +9942,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9715,16 +9952,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>3.85016</y1>
-                <y2>3.85016</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9738,6 +9969,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9754,6 +9986,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9765,6 +9998,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -9782,6 +10016,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -9799,6 +10034,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -9813,12 +10049,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <tpc>14</tpc>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9832,6 +10066,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9848,6 +10083,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9861,6 +10097,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9871,12 +10108,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9890,6 +10125,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9899,12 +10135,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9918,6 +10152,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -9934,6 +10169,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9947,6 +10183,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9960,6 +10197,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -9970,16 +10208,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>5.49457</y1>
-                <y2>5.49457</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -9993,6 +10225,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -10009,6 +10242,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10022,6 +10256,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10032,17 +10267,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <visible>0</visible>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>3.66744</y1>
-                <y2>4.63328</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -10056,6 +10284,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -10065,17 +10294,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <visible>0</visible>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>5.91227</y1>
-                <y2>4.94643</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -10089,6 +10311,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -10105,6 +10328,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10118,6 +10342,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10131,6 +10356,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10158,6 +10384,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -10178,6 +10405,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -10198,6 +10426,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -10236,6 +10465,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -10256,6 +10486,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -10276,6 +10507,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -10297,17 +10529,10 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <tpc>14</tpc>
                 </Note>
               </Chord>
-            <Beam>
-              <visible>0</visible>
-              <StemDirection>down</StemDirection>
-              <Fragment>
-                <y1>3.39337</y1>
-                <y2>4.35921</y2>
-                </Fragment>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -10321,6 +10546,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -10337,6 +10563,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10350,6 +10577,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -10363,6 +10591,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
@@ -10377,6 +10606,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Hook>
                 <name>flag8thDown</name>
@@ -10398,6 +10628,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -10578,6 +10809,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10596,6 +10828,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10614,6 +10847,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10636,6 +10870,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10654,6 +10889,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10672,6 +10908,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10690,6 +10927,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10707,6 +10945,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10724,6 +10963,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10745,6 +10985,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10763,6 +11004,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10781,6 +11023,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10803,6 +11046,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10821,6 +11065,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10839,6 +11084,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10856,6 +11102,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10877,6 +11124,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10895,6 +11143,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10913,6 +11162,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10935,6 +11185,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10953,6 +11204,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10971,6 +11223,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10993,6 +11246,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -11011,6 +11265,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11029,6 +11284,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11051,6 +11307,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>
@@ -11085,6 +11342,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -11099,15 +11357,13 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                 <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>down</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 <location>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11131,6 +11387,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11150,6 +11407,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11169,6 +11427,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11192,6 +11451,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11215,6 +11475,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11233,6 +11494,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -11259,6 +11521,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -11285,6 +11548,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -11311,6 +11575,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11330,6 +11595,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11352,6 +11618,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11370,6 +11637,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11388,6 +11656,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11407,6 +11676,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11425,6 +11695,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11444,6 +11715,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11466,6 +11738,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11484,6 +11757,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Lyrics>
@@ -11510,6 +11784,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -11536,6 +11811,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -11562,6 +11838,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11585,6 +11862,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11608,6 +11886,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11627,6 +11906,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11646,6 +11926,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11669,6 +11950,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11688,6 +11970,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11711,6 +11994,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11734,6 +12018,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11752,6 +12037,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11770,6 +12056,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11788,6 +12075,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11807,6 +12095,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11829,6 +12118,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11847,6 +12137,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11865,6 +12156,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11884,6 +12176,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11902,6 +12195,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -11921,6 +12215,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -11943,6 +12238,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11961,6 +12257,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11979,6 +12276,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -12017,6 +12315,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -12036,6 +12335,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -12054,6 +12354,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -12092,6 +12393,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -12110,6 +12412,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -12127,6 +12430,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -12144,6 +12448,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
@@ -12163,6 +12468,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -12185,6 +12491,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -12204,6 +12511,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -12222,6 +12530,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -12241,6 +12550,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -12263,6 +12573,7 @@ en wentelde den steen af van de deur, en zat op denzelven.&quot; Matthëus 28:2
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>whole</durationType>
               <Note>
                 <linked>

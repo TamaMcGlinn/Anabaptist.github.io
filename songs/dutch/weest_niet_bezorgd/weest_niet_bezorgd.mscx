@@ -17,7 +17,7 @@
       <showMeasureNumber>0</showMeasureNumber>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <Spatium>1.58</Spatium>
+      <Spatium>1.54</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -222,6 +222,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Tempo>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -251,6 +252,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -267,6 +269,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -294,6 +297,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -322,6 +326,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -350,6 +355,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -379,6 +385,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -391,6 +398,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -409,6 +417,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -420,6 +429,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -439,6 +449,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -470,6 +481,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -503,6 +515,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -532,6 +545,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -545,6 +559,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -555,6 +570,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -565,6 +581,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -576,6 +593,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -595,6 +613,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -624,6 +643,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -655,6 +675,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -683,6 +704,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -713,6 +735,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -724,6 +747,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -739,6 +763,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -750,6 +775,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -769,6 +795,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -814,6 +841,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -831,6 +859,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -860,6 +889,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -883,6 +913,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -893,6 +924,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -911,6 +943,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -930,6 +963,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -957,6 +991,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -984,6 +1019,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1012,6 +1048,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1044,6 +1081,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1055,6 +1093,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1070,6 +1109,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1081,6 +1121,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1100,6 +1141,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -1130,6 +1172,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1163,6 +1206,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1191,6 +1235,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1222,6 +1267,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1237,6 +1283,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1248,6 +1295,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1259,6 +1307,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1278,6 +1327,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1308,6 +1358,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1341,6 +1392,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1369,6 +1421,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1399,6 +1452,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1410,6 +1464,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1425,6 +1480,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1436,6 +1492,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1458,6 +1515,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1507,6 +1565,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1524,6 +1583,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1553,6 +1613,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -1578,6 +1639,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1596,6 +1658,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1615,6 +1678,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1642,6 +1706,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1670,6 +1735,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1699,6 +1765,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1727,6 +1794,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1758,6 +1826,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1769,6 +1838,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1782,17 +1852,15 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            <Fragment>
-              <y1>0.121411</y1>
-              <y2>0.121411</y2>
-              </Fragment>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -1802,7 +1870,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -1812,7 +1886,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -1826,6 +1906,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1857,6 +1938,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1890,6 +1972,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -1919,6 +2002,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -1938,6 +2022,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1955,6 +2040,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1966,6 +2052,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1985,6 +2072,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2014,6 +2102,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2044,6 +2133,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2073,6 +2163,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2100,6 +2191,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2130,6 +2222,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2140,6 +2233,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2150,7 +2244,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>69</pitch>
@@ -2158,13 +2258,15 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -2174,7 +2276,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -2184,7 +2292,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -2198,6 +2312,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2247,6 +2362,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2264,6 +2380,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2293,6 +2410,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2318,6 +2436,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2336,6 +2455,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2355,6 +2475,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2383,6 +2504,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2412,6 +2534,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2441,6 +2564,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -2474,6 +2598,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2486,6 +2611,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2501,6 +2627,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2515,6 +2642,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2534,6 +2662,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2565,6 +2694,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2598,6 +2728,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2627,6 +2758,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2639,6 +2771,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2650,6 +2783,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2669,6 +2803,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
@@ -2696,6 +2831,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2724,6 +2860,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -2752,6 +2889,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2782,6 +2920,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2793,6 +2932,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2808,7 +2948,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -2818,7 +2964,12 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>0.509791</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -2828,7 +2979,9 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2845,6 +2998,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2883,6 +3037,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2902,6 +3057,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2927,6 +3083,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -2961,6 +3118,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2974,6 +3132,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2989,6 +3148,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3000,6 +3160,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3015,6 +3176,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3025,6 +3187,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3037,6 +3200,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3047,6 +3211,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3057,6 +3222,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3067,6 +3233,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3077,6 +3244,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3091,6 +3259,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3101,6 +3270,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3111,6 +3281,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3121,6 +3292,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3132,6 +3304,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3149,6 +3322,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3160,6 +3334,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3170,6 +3345,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3184,6 +3360,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3195,6 +3372,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3210,6 +3388,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3221,6 +3400,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3238,6 +3418,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3248,6 +3429,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3258,6 +3440,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3268,6 +3451,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3282,6 +3466,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -3308,6 +3493,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -3326,6 +3512,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3343,6 +3530,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -3367,6 +3555,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -3384,6 +3573,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3398,6 +3588,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>0.785737</userLen>
@@ -3412,6 +3603,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3427,6 +3619,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3438,6 +3631,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3455,6 +3649,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3465,6 +3660,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3475,6 +3671,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3485,6 +3682,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3499,6 +3697,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3514,6 +3713,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3525,6 +3725,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3536,6 +3737,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
               <userLen>2.76972</userLen>
@@ -3556,6 +3758,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3566,6 +3769,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3576,6 +3780,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3586,6 +3791,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3600,6 +3806,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3611,6 +3818,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3626,6 +3834,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3636,6 +3845,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3646,7 +3856,16 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.36252</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3658,6 +3877,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3668,6 +3888,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3678,6 +3899,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3688,6 +3910,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3702,6 +3925,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -3726,6 +3950,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3736,6 +3961,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -3754,6 +3980,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3771,6 +3998,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -3796,6 +4024,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -3813,6 +4042,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3827,6 +4057,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3838,6 +4069,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -3851,17 +4083,15 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.10003</y1>
-              <y2>3.85003</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3871,7 +4101,16 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.13543</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3881,7 +4120,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -3893,6 +4138,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3903,6 +4149,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3913,6 +4160,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3923,6 +4171,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3933,6 +4182,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3947,6 +4197,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -3972,6 +4223,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -3997,6 +4249,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4008,6 +4261,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -4025,6 +4279,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -4049,6 +4304,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -4066,6 +4322,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4076,6 +4333,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4090,6 +4348,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4100,6 +4359,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4110,7 +4370,16 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.5896</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -4118,13 +4387,15 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4134,7 +4405,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -4144,7 +4421,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -4156,6 +4439,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4166,6 +4450,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4176,6 +4461,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4186,6 +4472,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4196,6 +4483,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4210,6 +4498,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -4239,6 +4528,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -4257,6 +4547,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Stem>
               <userLen>1.10003</userLen>
@@ -4277,6 +4568,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -4301,6 +4593,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -4318,6 +4611,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4332,6 +4626,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4343,6 +4638,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -4358,6 +4654,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>1.10003</userLen>
@@ -4372,6 +4669,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -4389,6 +4687,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4399,6 +4698,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4409,6 +4709,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4419,6 +4720,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4433,6 +4735,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -4444,6 +4747,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4455,6 +4759,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -4472,6 +4777,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4482,6 +4788,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4492,6 +4799,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4502,6 +4810,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4512,6 +4821,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4526,6 +4836,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -4537,6 +4848,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thDown</name>
@@ -4550,13 +4862,15 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4566,7 +4880,13 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
@@ -4576,7 +4896,16 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -4588,6 +4917,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -4601,6 +4931,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4611,6 +4942,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4621,6 +4953,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -4631,10 +4964,10 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <visible>0</visible>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -4646,6 +4979,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -4672,6 +5006,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -4692,6 +5027,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -4712,6 +5048,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -4869,6 +5206,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4901,6 +5239,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4929,6 +5268,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4958,6 +5298,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4987,6 +5328,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5019,6 +5361,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5051,6 +5394,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5085,6 +5429,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5117,6 +5462,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5147,6 +5493,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5179,6 +5526,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5208,6 +5556,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5241,6 +5590,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5288,6 +5638,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -5306,6 +5657,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5338,6 +5690,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5366,6 +5719,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5394,6 +5748,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5423,6 +5778,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5458,6 +5814,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -5489,6 +5846,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5523,6 +5881,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5552,6 +5911,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5586,6 +5946,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5617,6 +5978,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5651,6 +6013,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5680,6 +6043,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5713,6 +6077,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5760,6 +6125,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -5778,6 +6144,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5810,6 +6177,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5838,6 +6206,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5867,6 +6236,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5897,6 +6267,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5926,6 +6297,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5960,6 +6332,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5992,6 +6365,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6026,6 +6400,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6058,6 +6433,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6088,6 +6464,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6119,6 +6496,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6149,6 +6527,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6177,6 +6556,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6210,6 +6590,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6257,6 +6638,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -6275,6 +6657,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6307,6 +6690,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6336,6 +6720,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6366,6 +6751,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6396,6 +6782,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6432,6 +6819,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6464,6 +6852,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6498,6 +6887,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6530,6 +6920,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6558,6 +6949,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6587,6 +6979,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6616,6 +7009,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6649,6 +7043,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6689,6 +7084,7 @@ zal Hij u niet veel meer kleden, gij kleingelovigen?  &quot; Mattheüs 6:30</tex
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -6837,6 +7233,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6879,6 +7276,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6917,6 +7315,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6959,6 +7358,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6998,6 +7398,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7040,6 +7441,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7084,6 +7486,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7101,6 +7504,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7118,6 +7522,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7162,6 +7567,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7204,6 +7610,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7244,6 +7651,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7286,6 +7694,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7325,6 +7734,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7368,6 +7778,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <ticks>720</ticks>
@@ -7413,6 +7824,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -7430,6 +7842,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -7447,6 +7860,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7489,6 +7903,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7527,6 +7942,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7565,6 +7981,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7604,6 +8021,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7649,6 +8067,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -7690,6 +8109,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7734,6 +8154,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7776,6 +8197,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7820,6 +8242,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7861,6 +8284,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7905,6 +8329,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7944,6 +8369,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7990,6 +8416,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8039,6 +8466,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -8056,6 +8484,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8098,6 +8527,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -8136,6 +8566,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8175,6 +8606,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8215,6 +8647,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8254,6 +8687,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8298,6 +8732,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8339,6 +8774,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8356,6 +8792,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8400,6 +8837,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8442,6 +8880,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8482,6 +8921,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8499,6 +8939,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8540,6 +8981,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8580,6 +9022,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8618,6 +9061,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8661,6 +9105,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8707,6 +9152,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -8724,6 +9170,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8766,6 +9213,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -8805,6 +9253,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8845,6 +9294,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8888,6 +9338,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -8934,6 +9385,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8976,6 +9428,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -9020,6 +9473,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -9062,6 +9516,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -9100,6 +9555,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -9139,6 +9595,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -9178,6 +9635,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -9217,6 +9675,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9241,6 +9700,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -9280,6 +9740,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9421,6 +9882,7 @@ A</longName>
               <linked>
                 <indexDiff>2</indexDiff>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9437,6 +9899,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9448,6 +9911,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9459,6 +9923,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9470,6 +9935,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9485,6 +9951,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9496,6 +9963,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9507,6 +9975,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9518,6 +9987,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9529,6 +9999,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9544,6 +10015,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9555,6 +10027,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9566,6 +10039,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9577,6 +10051,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9592,6 +10067,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -9615,6 +10091,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -9633,6 +10110,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9648,6 +10126,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9659,6 +10138,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9670,6 +10150,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9681,6 +10162,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9696,6 +10178,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9707,6 +10190,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9718,6 +10202,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9729,6 +10214,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9744,6 +10230,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9755,6 +10242,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9766,6 +10254,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9777,6 +10266,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9788,6 +10278,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9803,6 +10294,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <Slur>
@@ -9825,6 +10317,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9836,6 +10329,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -9854,6 +10348,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9869,6 +10364,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9880,6 +10376,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9891,6 +10388,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9902,6 +10400,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9913,6 +10412,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9928,6 +10428,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <Slur>
@@ -9950,6 +10451,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -9971,6 +10473,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9982,6 +10485,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9997,6 +10501,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10008,6 +10513,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10019,6 +10525,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10030,6 +10537,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10041,6 +10549,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10052,6 +10561,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10067,6 +10577,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -10093,6 +10604,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -10111,6 +10623,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10126,6 +10639,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10137,6 +10651,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10148,6 +10663,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10159,6 +10675,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10174,6 +10691,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10186,6 +10704,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10197,6 +10716,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10212,6 +10732,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10223,6 +10744,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10234,6 +10756,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10245,6 +10768,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10256,6 +10780,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10271,6 +10796,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -10294,6 +10820,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
@@ -10434,6 +10961,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10455,6 +10983,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10472,6 +11001,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10489,6 +11019,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10506,6 +11037,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10523,6 +11055,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10547,6 +11080,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10565,6 +11099,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10582,6 +11117,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10603,6 +11139,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10623,6 +11160,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10640,6 +11178,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10657,6 +11196,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10678,6 +11218,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10696,6 +11237,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10713,6 +11255,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10734,6 +11277,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10751,6 +11295,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10768,6 +11313,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10785,6 +11331,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10806,6 +11353,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10823,6 +11371,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10840,6 +11389,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10860,6 +11410,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10881,6 +11432,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10898,6 +11450,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10918,6 +11471,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10935,6 +11489,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10956,6 +11511,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10974,6 +11530,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10991,6 +11548,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11012,6 +11570,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11032,6 +11591,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11049,6 +11609,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11066,6 +11627,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11083,6 +11645,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11104,6 +11667,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11121,6 +11685,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11138,6 +11703,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11155,6 +11721,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11176,6 +11743,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11193,6 +11761,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11210,6 +11779,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11227,6 +11797,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11244,6 +11815,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11268,6 +11840,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -11286,6 +11859,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11303,6 +11877,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11324,6 +11899,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11341,6 +11917,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11361,6 +11938,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11378,6 +11956,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11399,6 +11978,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11416,6 +11996,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11433,6 +12014,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11450,6 +12032,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11467,6 +12050,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11488,6 +12072,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -11508,6 +12093,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11525,6 +12111,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11542,6 +12129,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11559,6 +12147,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -11580,6 +12169,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -11611,6 +12201,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>

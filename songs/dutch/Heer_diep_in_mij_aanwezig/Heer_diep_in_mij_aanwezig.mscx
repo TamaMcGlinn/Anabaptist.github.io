@@ -17,7 +17,7 @@
       <showMeasureNumber>0</showMeasureNumber>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <Spatium>1.6</Spatium>
+      <Spatium>1.65</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -232,28 +232,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Tempo>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Heer</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Waar</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>God</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Geen</text>
               </Lyrics>
             <Note>
@@ -265,28 +266,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>diep</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kan</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>die</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>nacht</text>
               </Lyrics>
             <Note>
@@ -298,28 +300,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>in</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>houdt</text>
               </Lyrics>
             <Note>
@@ -331,28 +334,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>voor</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kan</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Note>
@@ -364,31 +368,32 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>aan</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>door</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ver</text>
               </Lyrics>
             <Note>
@@ -402,6 +407,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -411,13 +417,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -427,21 +435,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Beam>
-            <visible>0</visible>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -451,7 +451,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -465,32 +487,33 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>we</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>vluch</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gron</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>bor</text>
               </Lyrics>
             <Note>
@@ -502,13 +525,14 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zig,</text>
               </Lyrics>
             <Lyrics>
@@ -516,7 +540,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ten?</text>
               </Lyrics>
             <Lyrics>
@@ -524,7 +548,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>den,</text>
               </Lyrics>
             <Lyrics>
@@ -532,7 +556,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gen,</text>
               </Lyrics>
             <Note>
@@ -544,28 +568,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Niet</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dring</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Note>
@@ -579,6 +604,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -593,6 +619,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -605,6 +632,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -624,28 +652,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kent</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>in</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>tot</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kijkt</text>
               </Lyrics>
             <Note>
@@ -657,28 +686,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>een</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mijn</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>er</text>
               </Lyrics>
             <Note>
@@ -690,30 +720,31 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>door</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>don</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>we</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dwars</text>
               </Lyrics>
             <Note>
@@ -725,10 +756,11 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>en</text>
               </Lyrics>
             <Lyrics>
@@ -736,7 +768,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ker</text>
               </Lyrics>
             <Lyrics>
@@ -744,14 +776,14 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zen</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>door</text>
               </Lyrics>
             <Note>
@@ -765,6 +797,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -776,6 +809,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -785,13 +819,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>66</pitch>
@@ -801,7 +837,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>66</pitch>
@@ -815,23 +857,24 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>door.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dal.</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>door,</text>
               </Lyrics>
             <Lyrics>
@@ -839,7 +882,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>heen,</text>
               </Lyrics>
             <Note>
@@ -853,6 +896,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -869,29 +913,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Nooit</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Niet</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zie</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Note>
@@ -903,22 +948,23 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ben</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ver</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>of</text>
               </Lyrics>
             <Lyrics>
@@ -926,7 +972,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>sof</text>
               </Lyrics>
             <Note>
@@ -938,29 +984,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>voor</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>een</text>
               </Lyrics>
             <Note>
@@ -972,10 +1019,11 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>met</text>
               </Lyrics>
             <Lyrics>
@@ -983,21 +1031,21 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>bij</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>on</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>nieu</text>
               </Lyrics>
             <Note>
@@ -1009,23 +1057,24 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>iets</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>om</text>
               </Lyrics>
             <Lyrics>
@@ -1033,7 +1082,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>we</text>
               </Lyrics>
             <Note>
@@ -1047,6 +1096,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1056,13 +1106,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1072,21 +1124,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Beam>
-            <visible>0</visible>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1096,7 +1140,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1110,32 +1176,33 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>luch</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>won</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mor</text>
               </Lyrics>
             <Note>
@@ -1147,12 +1214,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zig</text>
               </Lyrics>
             <Lyrics>
@@ -1160,7 +1228,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ten,</text>
               </Lyrics>
             <Lyrics>
@@ -1168,7 +1236,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>den</text>
               </Lyrics>
             <Lyrics>
@@ -1176,7 +1244,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Note>
@@ -1188,28 +1256,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>of</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>diep</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>het</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>te</text>
               </Lyrics>
             <Note>
@@ -1223,6 +1292,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1234,6 +1304,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1248,6 +1319,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1263,29 +1335,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>in</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>recht</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mid</text>
               </Lyrics>
             <Note>
@@ -1297,29 +1370,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>weet</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>het</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>wel</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>der</text>
               </Lyrics>
             <Note>
@@ -1331,23 +1405,24 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>groot</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>toe</text>
               </Lyrics>
             <Lyrics>
@@ -1355,7 +1430,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>nacht</text>
               </Lyrics>
             <Note>
@@ -1367,32 +1442,33 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>waar</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>heel</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ver</text>
               </Lyrics>
             <Note>
@@ -1404,13 +1480,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           </voice>
         <voice>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1420,7 +1498,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1430,6 +1514,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1441,6 +1526,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1456,12 +1542,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>voor.</text>
               </Lyrics>
             <Lyrics>
@@ -1469,7 +1556,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>al.</text>
               </Lyrics>
             <Lyrics>
@@ -1477,7 +1564,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>hoor.</text>
               </Lyrics>
             <Lyrics>
@@ -1485,7 +1572,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>scheen.</text>
               </Lyrics>
             <Note>
@@ -1497,29 +1584,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Ter</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Al</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>En</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>Nog</text>
               </Lyrics>
             <Note>
@@ -1533,6 +1621,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1544,6 +1633,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1559,31 +1649,32 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>wijl</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ging</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ga</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>voor</text>
               </Lyrics>
             <Note>
@@ -1595,28 +1686,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mijn</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Note>
@@ -1628,31 +1720,32 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>lip</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kron</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>werd</text>
               </Lyrics>
             <Note>
@@ -1664,12 +1757,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>pen</text>
               </Lyrics>
             <Lyrics>
@@ -1677,21 +1771,21 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>le</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kel</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Note>
@@ -1705,6 +1799,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1717,6 +1812,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -1730,13 +1826,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>66</pitch>
@@ -1746,7 +1844,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -1760,32 +1864,33 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>wach</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>we</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>pa</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>bo</text>
               </Lyrics>
             <Note>
@@ -1797,12 +1902,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ten</text>
               </Lyrics>
             <Lyrics>
@@ -1810,7 +1916,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Lyrics>
@@ -1818,7 +1924,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>den</text>
               </Lyrics>
             <Lyrics>
@@ -1826,7 +1932,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ren,</text>
               </Lyrics>
             <Note>
@@ -1838,28 +1944,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>als</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>op</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>of</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>wist</text>
               </Lyrics>
             <Note>
@@ -1873,6 +1980,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1884,6 +1992,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1895,6 +2004,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1910,30 +2020,31 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>vleu</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>houd</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Note>
@@ -1945,10 +2056,11 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>naar</text>
               </Lyrics>
             <Lyrics>
@@ -1956,19 +2068,19 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gels</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>van</text>
               </Lyrics>
             <Note>
@@ -1980,29 +2092,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>woor</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>van</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mijn</text>
               </Lyrics>
             <Note>
@@ -2014,32 +2127,33 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>den</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Note>
@@ -2053,6 +2167,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2065,6 +2180,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2078,13 +2194,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2097,7 +2215,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -2111,16 +2235,17 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zoek,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>wind,</text>
               </Lyrics>
             <Lyrics>
@@ -2128,7 +2253,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>deisd,</text>
               </Lyrics>
             <Lyrics>
@@ -2136,7 +2261,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>staan,</text>
               </Lyrics>
             <Note>
@@ -2148,29 +2273,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>leest</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dan</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>laat</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Note>
@@ -2184,6 +2310,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2195,6 +2322,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2210,23 +2338,24 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>nog</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
@@ -2234,7 +2363,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dacht</text>
               </Lyrics>
             <Note>
@@ -2246,28 +2375,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>kwam</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dan</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Note>
@@ -2279,28 +2409,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mijn</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zijn</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>lang</text>
               </Lyrics>
             <Note>
@@ -2312,31 +2443,32 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>te</text>
               </Lyrics>
             <Note>
@@ -2350,6 +2482,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2362,6 +2495,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Hook>
               <name>flag8thUp</name>
@@ -2375,13 +2509,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -2391,7 +2527,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -2405,32 +2547,33 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dach</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>te</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ra</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>vo</text>
               </Lyrics>
             <Note>
@@ -2442,12 +2585,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ten,</text>
               </Lyrics>
             <Lyrics>
@@ -2455,7 +2599,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gen -</text>
               </Lyrics>
             <Lyrics>
@@ -2463,7 +2607,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>den</text>
               </Lyrics>
             <Lyrics>
@@ -2471,7 +2615,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ren</text>
               </Lyrics>
             <Note>
@@ -2483,28 +2627,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Note>
@@ -2518,6 +2663,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2529,6 +2675,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2540,10 +2687,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
+              <visible>0</visible>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <headScheme>shape-7-aikin</headScheme>
@@ -2555,28 +2704,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ben</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>weet</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>weg</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>weg</text>
               </Lyrics>
             <Note>
@@ -2588,28 +2738,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>een</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>dat</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>die</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>die</text>
               </Lyrics>
             <Note>
@@ -2621,29 +2772,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>U</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>ik</text>
               </Lyrics>
             <Note>
@@ -2655,30 +2807,31 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>pen</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>mij</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>zou</text>
               </Lyrics>
             <Note>
@@ -2692,6 +2845,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2703,6 +2857,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2712,13 +2867,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -2731,7 +2888,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thUp</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -2745,29 +2908,30 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>boek.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>vindt.</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>wijst.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
-              <size>14</size>
+              <size>13</size>
               <text>gaan.</text>
               </Lyrics>
             <Note>
@@ -2781,6 +2945,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Stem>
@@ -2810,6 +2975,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </TimeSig>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2819,13 +2985,15 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <visible>0</visible>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -2835,21 +3003,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              <headScheme>shape-7-aikin</headScheme>
-              </Note>
-            </Chord>
-          <Beam>
-            <visible>0</visible>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -2859,7 +3019,29 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -2871,6 +3053,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2881,6 +3064,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2891,6 +3075,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2901,6 +3086,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2911,6 +3097,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2925,7 +3112,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -2935,8 +3124,10 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -2946,7 +3137,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.97774</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -2958,6 +3158,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -2968,6 +3169,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -2979,6 +3181,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2993,7 +3196,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3003,7 +3208,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3011,11 +3218,18 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.83647</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3025,7 +3239,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>2.40154</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3037,6 +3260,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3047,6 +3271,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3057,6 +3282,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3067,6 +3293,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3081,8 +3308,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Stem>
+              <userLen>3.67294</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3094,6 +3326,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
@@ -3109,7 +3342,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3119,7 +3354,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3129,7 +3370,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3139,7 +3386,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3149,7 +3402,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.55394</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3161,6 +3423,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3171,6 +3434,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3181,6 +3445,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3191,6 +3456,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3201,6 +3467,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3215,7 +3482,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>2.40154</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3225,7 +3497,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>0.847602</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3235,7 +3512,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.13014</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3247,6 +3529,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3257,6 +3540,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3267,6 +3551,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3281,7 +3566,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3291,7 +3582,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3301,7 +3598,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3311,7 +3610,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.97774</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3323,6 +3627,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3333,6 +3638,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3343,6 +3649,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3353,6 +3660,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3367,7 +3675,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3377,7 +3687,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -3389,6 +3701,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3399,6 +3712,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3413,8 +3727,10 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -3424,7 +3740,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3434,7 +3756,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3444,7 +3772,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3456,6 +3790,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3467,6 +3802,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3477,6 +3813,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3487,6 +3824,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3501,7 +3839,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.13014</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3511,7 +3854,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>0.706335</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -3521,7 +3869,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3533,6 +3883,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3543,6 +3894,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3553,6 +3905,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3567,8 +3920,10 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3578,7 +3933,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>2.68407</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3588,7 +3952,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.41267</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3598,7 +3971,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.97774</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3610,6 +3992,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3624,6 +4007,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3634,6 +4018,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3644,6 +4029,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3658,7 +4044,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3668,7 +4056,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3680,6 +4070,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -3690,6 +4081,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3709,8 +4101,10 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -3720,7 +4114,13 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3730,7 +4130,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.83647</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3740,7 +4149,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.41267</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3752,6 +4170,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
@@ -3763,6 +4182,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3773,6 +4193,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3783,6 +4204,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3797,7 +4219,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>2.40154</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3807,7 +4234,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>2.40154</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3817,7 +4249,9 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -3829,6 +4263,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3839,6 +4274,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3849,6 +4285,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3863,7 +4300,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.13014</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3873,7 +4315,12 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>1.55394</userLen>
+              </Stem>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3883,7 +4330,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.6952</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3893,7 +4349,16 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Stem>
+              <userLen>1.13014</userLen>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3905,6 +4370,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3915,6 +4381,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -3925,6 +4392,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3935,6 +4403,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -3949,8 +4418,10 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -3962,6 +4433,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
@@ -4123,6 +4595,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4157,6 +4630,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4191,6 +4665,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4225,6 +4700,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4259,6 +4735,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4300,6 +4777,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4338,6 +4816,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4381,6 +4860,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4419,6 +4899,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4453,6 +4934,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4487,6 +4969,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4523,6 +5006,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4566,6 +5050,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -4607,6 +5092,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4642,6 +5128,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4678,6 +5165,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4713,6 +5201,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4751,6 +5240,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4792,6 +5282,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4830,6 +5321,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4872,6 +5364,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4910,6 +5403,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4945,6 +5439,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4980,6 +5475,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5017,6 +5513,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5059,6 +5556,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5101,6 +5599,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5140,6 +5639,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5177,6 +5677,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5211,6 +5712,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5248,6 +5750,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5292,6 +5795,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5330,6 +5834,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5372,6 +5877,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5410,6 +5916,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5446,6 +5953,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5482,6 +5990,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5517,6 +6026,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5559,6 +6069,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -5597,6 +6108,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5636,6 +6148,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5673,6 +6186,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5707,6 +6221,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -5741,6 +6256,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5782,6 +6298,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -5820,6 +6337,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5862,6 +6380,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5900,6 +6419,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5934,6 +6454,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5968,6 +6489,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6003,6 +6525,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6043,6 +6566,7 @@ beschouwende de kwaden en de goeden.&quot;  Spreuken 15:3</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -6207,6 +6731,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6252,6 +6777,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6297,6 +6823,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6342,6 +6869,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6387,6 +6915,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6439,6 +6968,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6491,6 +7021,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6545,6 +7076,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6594,6 +7126,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6639,6 +7172,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6684,6 +7218,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6734,6 +7269,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6788,6 +7324,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -6840,6 +7377,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6886,6 +7424,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6933,6 +7472,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -6979,6 +7519,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7028,6 +7569,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7080,6 +7622,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7129,6 +7672,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7185,6 +7729,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7234,6 +7779,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7280,6 +7826,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7326,6 +7873,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7374,6 +7922,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7430,6 +7979,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7483,6 +8033,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7533,6 +8084,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -7581,6 +8133,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7626,6 +8179,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7677,6 +8231,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7732,6 +8287,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -7784,6 +8340,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -7837,6 +8394,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -7886,6 +8444,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -7936,6 +8495,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -7983,6 +8543,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8032,6 +8593,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8085,6 +8647,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -8134,6 +8697,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -8184,6 +8748,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -8232,6 +8797,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8277,6 +8843,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -8322,6 +8889,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8374,6 +8942,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -8423,6 +8992,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8476,6 +9046,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -8525,6 +9096,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -8570,6 +9142,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -8615,6 +9188,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -8664,6 +9238,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -8715,6 +9290,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -8885,6 +9461,7 @@ A</longName>
               <linked>
                 <indexDiff>2</indexDiff>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -8897,6 +9474,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8908,6 +9486,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8919,6 +9498,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8930,6 +9510,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8945,6 +9526,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -8956,6 +9538,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -8968,6 +9551,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8983,6 +9567,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -8994,6 +9579,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9005,6 +9591,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9016,6 +9603,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9031,6 +9619,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
@@ -9047,6 +9636,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9058,6 +9648,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9069,6 +9660,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9080,6 +9672,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9091,6 +9684,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9106,6 +9700,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9117,6 +9712,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9128,6 +9724,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9143,6 +9740,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9154,6 +9752,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9165,6 +9764,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9176,6 +9776,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9191,6 +9792,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9202,6 +9804,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9217,6 +9820,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9229,6 +9833,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9240,6 +9845,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9251,6 +9857,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9266,6 +9873,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9277,6 +9885,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9288,6 +9897,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9303,6 +9913,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9315,6 +9926,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9326,6 +9938,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9337,6 +9950,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9352,6 +9966,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -9363,6 +9978,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9378,6 +9994,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9390,6 +10007,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9401,6 +10019,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9412,6 +10031,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9427,6 +10047,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9438,6 +10059,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9449,6 +10071,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9464,6 +10087,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9475,6 +10099,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9486,6 +10111,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9497,6 +10123,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9512,6 +10139,7 @@ A</longName>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
@@ -9646,6 +10274,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9663,6 +10292,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9680,6 +10310,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9697,6 +10328,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9714,6 +10346,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9735,6 +10368,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9752,6 +10386,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -9770,6 +10405,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9791,6 +10427,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9808,6 +10445,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9825,6 +10463,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9842,6 +10481,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9863,6 +10503,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
@@ -9885,6 +10526,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9902,6 +10544,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9919,6 +10562,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9936,6 +10580,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9953,6 +10598,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -9974,6 +10620,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -9991,6 +10638,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10008,6 +10656,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10029,6 +10678,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10046,6 +10696,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10063,6 +10714,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10080,6 +10732,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10101,6 +10754,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10118,6 +10772,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10139,6 +10794,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10157,6 +10813,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10174,6 +10831,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10191,6 +10849,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10212,6 +10871,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10229,6 +10889,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10246,6 +10907,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10267,6 +10929,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10288,6 +10951,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10305,6 +10969,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10322,6 +10987,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10343,6 +11009,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Note>
                 <linked>
@@ -10360,6 +11027,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10385,6 +11053,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
@@ -10403,6 +11072,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10420,6 +11090,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10437,6 +11108,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10458,6 +11130,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10475,6 +11148,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10492,6 +11166,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10513,6 +11188,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10530,6 +11206,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
@@ -10547,6 +11224,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10564,6 +11242,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -10585,6 +11264,7 @@ A</longName>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>

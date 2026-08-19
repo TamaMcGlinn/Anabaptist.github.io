@@ -10,7 +10,7 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
-      <Spatium>1.75</Spatium>
+      <Spatium>1.57</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -201,36 +201,38 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <sigN>6</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>Zo</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>Maak</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>Vlied</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>Hoe</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>De</text>
               </Lyrics>
             <Note>
@@ -242,7 +244,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -255,15 +257,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
             <Stem>
               <visible>0</visible>
               </Stem>
-            <StemDirection>down</StemDirection>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
               <tpc>11</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <Note>
+              <linkedMain/>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
@@ -273,31 +297,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>als</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>nu</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>met</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>ook</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>Geest,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -310,30 +340,36 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>gij</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>uw</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -346,31 +382,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>zijt</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>dienst</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>leed</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>la</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>Bruid</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -412,19 +454,23 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>en</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>van</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>tot</text>
               </Lyrics>
             <Lyrics>
@@ -432,11 +478,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>zij</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -451,6 +499,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -462,6 +511,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -473,6 +523,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -523,6 +574,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -538,32 +590,38 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>niet</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>God</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>Gol</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>en</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>no</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -592,6 +650,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <no>4</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -611,27 +670,32 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>uw</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>go</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>be</text>
               </Lyrics>
             <Lyrics>
@@ -639,6 +703,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>den,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -651,16 +716,19 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>pleit</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>lust,</text>
               </Lyrics>
             <Lyrics>
@@ -668,6 +736,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>tha,</text>
               </Lyrics>
             <Lyrics>
@@ -675,11 +744,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>last,</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -692,29 +763,35 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>op</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>zoek</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>acht</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>of</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>En</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -729,6 +806,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -778,6 +856,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -789,6 +868,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -800,6 +880,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -816,32 +897,38 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ei</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>in</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>al</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ne</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>zij</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -864,11 +951,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>êr</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -888,16 +977,19 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
@@ -905,17 +997,20 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>le</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>die</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -928,21 +1023,25 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>deugd</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>wer</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>din</text>
               </Lyrics>
             <Lyrics>
@@ -950,12 +1049,14 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>drukt</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ho</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -968,9 +1069,11 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>en</text>
               </Lyrics>
             <Lyrics>
@@ -978,11 +1081,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>eld</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>door</text>
               </Lyrics>
             <Lyrics>
@@ -990,12 +1095,14 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>ren</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>gen</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1010,6 +1117,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1021,6 +1129,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1032,6 +1141,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1043,6 +1153,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1058,33 +1169,39 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>hei</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>niet</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>en</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>zon</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>roe</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1097,15 +1214,18 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>lig</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>uw</text>
               </Lyrics>
             <Lyrics>
@@ -1113,12 +1233,14 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>kel</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>den</text>
               </Lyrics>
             <Lyrics>
@@ -1126,6 +1248,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>pen,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1138,21 +1261,25 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>heid.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>rust;</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>schâ,</text>
               </Lyrics>
             <Lyrics>
@@ -1160,11 +1287,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>last,</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1175,35 +1304,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>Zij</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>'t is</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>meer</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>o</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>En</text>
               </Lyrics>
             <Note>
@@ -1215,7 +1346,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -1228,6 +1359,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1239,6 +1371,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1250,6 +1383,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1261,12 +1395,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
               <tpc>11</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag8thDown</name>
+              <visible>0</visible>
+              </Hook>
+            <Note>
+              <linkedMain/>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
@@ -1276,31 +1435,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>Je</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>wint</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>klem</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>gij</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1313,11 +1478,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>ven</text>
               </Lyrics>
             <Lyrics>
@@ -1325,21 +1492,25 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>zus</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>gij</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>u</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>die</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1352,31 +1523,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>u</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>die</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>nu</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>maar</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>dor</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1406,6 +1583,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>st</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1425,29 +1603,35 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>geen</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>door</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>aan 't</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>hebt,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1462,6 +1646,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1473,6 +1658,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1484,6 +1670,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -1533,6 +1720,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1549,32 +1737,38 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>vei</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>droef</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>God's</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>kruis</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1587,10 +1781,12 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>lig</text>
               </Lyrics>
             <Lyrics>
@@ -1598,12 +1794,14 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>heid</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
@@ -1611,11 +1809,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>hout</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>ja</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1628,32 +1828,38 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>heid</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>sust</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>nâ:</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>vast:</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1695,31 +1901,37 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>O,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>Ver</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>Be</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>O,</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>De</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1734,6 +1946,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1745,6 +1958,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1756,6 +1970,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1767,6 +1982,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1782,34 +1998,40 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>schul</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>moei</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>middle</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>hoef</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>sid</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>Hei</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1822,11 +2044,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>dig</text>
               </Lyrics>
             <Lyrics>
@@ -1834,6 +2058,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>de</text>
               </Lyrics>
             <Lyrics>
@@ -1841,6 +2066,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>tig</text>
               </Lyrics>
             <Lyrics>
@@ -1848,6 +2074,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>drend</text>
               </Lyrics>
             <Lyrics>
@@ -1855,6 +2082,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>land</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1867,35 +2095,41 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>zon</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>zon</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>zon</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>zon</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
               <linkedMain/>
+              <size>13</size>
               <text>roe</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1925,6 +2159,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>pt</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1944,11 +2179,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>daar,</text>
               </Lyrics>
             <Lyrics>
@@ -1956,6 +2193,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>daar,</text>
               </Lyrics>
             <Lyrics>
@@ -1963,6 +2201,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>daar,</text>
               </Lyrics>
             <Lyrics>
@@ -1970,11 +2209,13 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <linkedMain/>
+              <size>13</size>
               <text>daar,</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>u:</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1989,6 +2230,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2000,6 +2242,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2011,6 +2254,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2060,6 +2304,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2075,30 +2320,36 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>kom,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom,</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom,</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>&quot;Kom,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -2111,30 +2362,36 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>o,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>o,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>o,</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>o,</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>ja,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -2149,6 +2406,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -2161,6 +2419,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -2177,30 +2436,36 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <linkedMain/>
+              <size>13</size>
               <text>kom!&quot;</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -2215,6 +2480,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -2240,12 +2506,9 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <sigN>6</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2256,7 +2519,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2269,6 +2532,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2284,6 +2548,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2295,6 +2560,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2306,6 +2572,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2317,6 +2584,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2330,6 +2598,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2341,6 +2610,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2352,6 +2622,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2363,6 +2634,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2378,6 +2650,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2389,6 +2662,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2400,6 +2674,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2411,6 +2686,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2424,6 +2700,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2435,6 +2712,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2446,6 +2724,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2457,6 +2736,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2472,6 +2752,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2483,7 +2764,11 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -2494,7 +2779,11 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -2505,7 +2794,11 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Stem>
+              <userLen>2.64654</userLen>
+              </Stem>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -2518,6 +2811,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2529,6 +2823,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2540,6 +2835,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2551,6 +2847,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2566,6 +2863,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2577,6 +2875,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2588,6 +2887,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2597,12 +2897,9 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <headScheme>shape-7-aikin</headScheme>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2613,7 +2910,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -2626,6 +2923,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2637,6 +2935,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2648,6 +2947,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2659,6 +2959,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2674,6 +2975,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2685,6 +2987,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2696,6 +2999,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2707,6 +3011,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2720,6 +3025,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2731,6 +3037,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2742,6 +3049,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2783,6 +3091,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2798,6 +3107,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2809,6 +3119,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2820,6 +3131,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2861,6 +3173,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2874,6 +3187,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2885,6 +3199,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2896,6 +3211,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2907,6 +3223,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2922,6 +3239,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2933,6 +3251,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2944,6 +3263,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2955,6 +3275,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2968,6 +3289,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2979,6 +3301,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2990,6 +3313,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3001,6 +3325,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3016,8 +3341,12 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -3028,6 +3357,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -3042,6 +3372,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -3054,6 +3385,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -3070,6 +3402,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -3084,6 +3417,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -3221,13 +3555,10 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <sigN>6</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Beam>
-              <StemDirection>up</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3269,7 +3600,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -3285,6 +3616,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -3328,6 +3660,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3370,6 +3703,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -3444,6 +3778,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3491,6 +3826,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -3573,6 +3909,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3619,6 +3956,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -3666,6 +4004,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3711,6 +4050,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3766,6 +4106,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <no>3</no>
@@ -3792,6 +4133,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -3838,6 +4180,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -3884,6 +4227,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -3934,6 +4278,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -3979,6 +4324,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4026,6 +4372,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4068,13 +4415,10 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>up</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
@@ -4115,7 +4459,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -4131,6 +4475,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4174,6 +4519,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4219,6 +4565,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4301,6 +4648,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4346,6 +4694,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4390,6 +4739,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -4437,6 +4787,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4512,6 +4863,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -4559,6 +4911,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -4605,6 +4958,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4656,6 +5010,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -4742,6 +5097,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -4795,6 +5151,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -4837,6 +5194,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -4883,6 +5241,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -5057,52 +5416,34 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
-              <durationType>quarter</durationType>
-              <Lyrics>
-                <syllabic>begin</syllabic>
-                <linked>
-                  <indexDiff>6</indexDiff>
-                  </linked>
-                <text>Zo</text>
-                </Lyrics>
-              <Lyrics>
-                <no>1</no>
-                <linked>
-                  <indexDiff>6</indexDiff>
-                  </linked>
-                <text>Maak</text>
-                </Lyrics>
-              <Lyrics>
-                <no>2</no>
-                <linked>
-                  <indexDiff>6</indexDiff>
-                  </linked>
-                <text>Vlied</text>
-                </Lyrics>
-              <Lyrics>
-                <no>3</no>
-                <linked>
-                  <indexDiff>6</indexDiff>
-                  </linked>
-                <text>Hoe</text>
-                </Lyrics>
-              <Lyrics>
-                <no>4</no>
-                <linked>
-                  <indexDiff>6</indexDiff>
-                  </linked>
-                <text>De</text>
-                </Lyrics>
-              <StemDirection>down</StemDirection>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -5115,6 +5456,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5170,6 +5512,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5224,6 +5567,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5320,6 +5664,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5379,6 +5724,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -5485,6 +5831,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5543,6 +5890,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5602,6 +5950,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5659,6 +6008,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5715,6 +6065,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -5773,6 +6124,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <linked>
@@ -5831,6 +6183,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -5893,6 +6246,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -5950,6 +6304,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6009,6 +6364,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6066,51 +6422,34 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
-              <durationType>quarter</durationType>
-              <Lyrics>
-                <linked>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>Zij</text>
-                </Lyrics>
-              <Lyrics>
-                <no>1</no>
-                <linked>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>'t is</text>
-                </Lyrics>
-              <Lyrics>
-                <no>2</no>
-                <linked>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>meer</text>
-                </Lyrics>
-              <Lyrics>
-                <no>3</no>
-                <linked>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>o</text>
-                </Lyrics>
-              <Lyrics>
-                <no>4</no>
-                <linked>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>En</text>
-                </Lyrics>
-              <StemDirection>down</StemDirection>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                <location>
+                  <voices>1</voices>
+                  </location>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  <location>
+                    <voices>1</voices>
+                    </location>
+                  </linked>
+                <pitch>65</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -6123,6 +6462,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6178,6 +6518,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6235,6 +6576,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6341,6 +6683,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6398,6 +6741,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6454,6 +6798,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>middle</syllabic>
@@ -6513,6 +6858,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6568,6 +6914,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
@@ -6627,6 +6974,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <Lyrics>
                 <syllabic>begin</syllabic>
@@ -6685,6 +7033,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6748,6 +7097,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Lyrics>
@@ -6858,6 +7208,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <Lyrics>
                 <syllabic>end</syllabic>
@@ -6923,6 +7274,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -6977,6 +7329,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -7035,6 +7388,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <Lyrics>
@@ -7218,6 +7572,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7240,6 +7595,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7258,6 +7614,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7276,6 +7633,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7294,6 +7652,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7316,6 +7675,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7334,6 +7694,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7352,6 +7713,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7370,6 +7732,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7392,6 +7755,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7410,6 +7774,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7428,6 +7793,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7446,6 +7812,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7468,6 +7835,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7486,6 +7854,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7504,6 +7873,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7522,6 +7892,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7544,6 +7915,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7562,6 +7934,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7580,6 +7953,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -7639,6 +8013,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7661,6 +8036,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7679,6 +8055,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7697,6 +8074,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7715,6 +8093,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7737,6 +8116,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7755,6 +8135,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7773,6 +8154,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7791,6 +8173,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -7813,6 +8196,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
@@ -7832,6 +8216,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
@@ -7855,6 +8240,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                   <voices>1</voices>
                   </location>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
@@ -7997,13 +8383,10 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
               <sigN>6</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Beam>
-              <StemDirection>up</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8015,7 +8398,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8031,6 +8414,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8043,6 +8427,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8055,6 +8440,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8067,6 +8453,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8083,6 +8470,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8095,6 +8483,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8107,6 +8496,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8119,6 +8509,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8135,6 +8526,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8147,6 +8539,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>up</StemDirection>
               <Note>
@@ -8159,6 +8552,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>up</StemDirection>
               <Note>
@@ -8171,6 +8565,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8187,6 +8582,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8199,6 +8595,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8211,6 +8608,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8220,13 +8618,10 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
                 <tpc>12</tpc>
                 </Note>
               </Chord>
-            <Beam>
-              <StemDirection>up</StemDirection>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8238,7 +8633,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -8254,6 +8649,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8266,6 +8662,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8278,6 +8675,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>up</StemDirection>
               <Note>
@@ -8290,6 +8688,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8306,6 +8705,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8318,6 +8718,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8330,6 +8731,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Spanner type="Slur">
@@ -8374,6 +8776,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8390,6 +8793,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8402,6 +8806,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8414,6 +8819,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8426,6 +8832,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <durationType>quarter</durationType>
               <StemDirection>down</StemDirection>
               <Note>
@@ -8442,6 +8849,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>up</StemDirection>
@@ -8455,6 +8863,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
@@ -8472,6 +8881,7 @@ maar door het geloof van Jezus Christus (...)&quot; (Gal. 2:16)</text>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>no</BeamMode>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
