@@ -7,9 +7,15 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.5</pageWidth>
-      <pageHeight>11</pageHeight>
-      <pagePrintableWidth>7.7126</pagePrintableWidth>
+      <pageWidth>8.27008</pageWidth>
+      <pageHeight>11.6902</pageHeight>
+      <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
+      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
+      <pageOddTopMargin>0.393701</pageOddTopMargin>
+      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
       <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
       <lyricsOddFontFace>Edwin</lyricsOddFontFace>
@@ -91,7 +97,7 @@
       <frameFontSize>10</frameFontSize>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.69</Spatium>
+      <Spatium>1.64</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
