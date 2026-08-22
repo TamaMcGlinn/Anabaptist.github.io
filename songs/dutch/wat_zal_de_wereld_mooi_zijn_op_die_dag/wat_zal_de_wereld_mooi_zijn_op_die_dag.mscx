@@ -202,16 +202,19 @@
           <style>Subtitle</style>
           <size>9</size>
           <offset x="2.99272" y="2.1876"/>
-          <text>&quot;(...) de tabernakel Gods is bij de mensen, en Hij zal bij hen wonen, en zij zullen Zijn volk zijn (...)&quot; Openbaringen 21:3</text>
+          <text>&quot;(...) de tabernakel Gods is bij de mensen, en Hij                                    
+zal bij hen wonen, en zij zullen Zijn volk zijn (...)&quot; Openbaringen 21:3</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>Composer</style>
+          <offset x="0" y="2.33217"/>
           <text>T. Pebesma</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>Lyricist</style>
+          <offset x="0.358796" y="2.87037"/>
           <text>E. Yskes-Kooger</text>
           </Text>
         </VBox>
@@ -4228,7 +4231,8 @@ A</longName>
             <linked>
               </linked>
             <style>Subtitle</style>
-            <text>&quot;(...) de tabernakel Gods is bij de mensen, en Hij zal bij hen wonen, en zij zullen Zijn volk zijn (...)&quot; Openbaringen 21:3</text>
+            <text>&quot;(...) de tabernakel Gods is bij de mensen, en Hij                                    
+zal bij hen wonen, en zij zullen Zijn volk zijn (...)&quot; Openbaringen 21:3</text>
             </Text>
           <Text>
             <linked>
