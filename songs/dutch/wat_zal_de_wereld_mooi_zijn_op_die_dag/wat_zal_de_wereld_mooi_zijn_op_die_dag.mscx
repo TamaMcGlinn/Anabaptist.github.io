@@ -113,12 +113,14 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="7" value="96"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="Alto">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="7" value="96"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -2351,7 +2353,7 @@
           </voice>
         </Measure>
       <Measure len="5/8">
-        <endRepeat>2</endRepeat>
+        <endRepeat>5</endRepeat>
         <voice>
           <Chord>
             <linkedMain/>
@@ -4244,9 +4246,6 @@ A</longName>
         <Measure len="3/8">
           <voice>
             <KeySig>
-              <linked>
-                <indexDiff>-5</indexDiff>
-                </linked>
               <accidental>-4</accidental>
               </KeySig>
             <TimeSig>
@@ -4256,55 +4255,51 @@ A</longName>
             <Tempo>
               <tempo>1.5</tempo>
               <followText>1</followText>
-              <linked>
-                <score>same</score>
-                <indexDiff>-6</indexDiff>
-                </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
-                <indexDiff>-1</indexDiff>
+                <indexDiff>1</indexDiff>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
               <Lyrics>
                 <linked>
-                  <indexDiff>-1</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>1. Wat</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
-                  <indexDiff>-1</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>2. Wat</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
-                  <indexDiff>-1</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>3. Wat</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
-                  <indexDiff>-1</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>4. Wat</text>
                 </Lyrics>
               <Lyrics>
                 <no>4</no>
                 <linked>
-                  <indexDiff>-1</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <text>5. Wat</text>
                 </Lyrics>
               <Note>
                 <linked>
-                  <indexDiff>-1</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>63</pitch>
                 <tpc>11</tpc>
@@ -6117,7 +6112,7 @@ A</longName>
             </voice>
           </Measure>
         <Measure len="5/8">
-          <endRepeat>2</endRepeat>
+          <endRepeat>5</endRepeat>
           <voice>
             <Chord>
               <linked>
@@ -6481,10 +6476,6 @@ A</longName>
             <Tempo>
               <tempo>1.5</tempo>
               <followText>1</followText>
-              <linked>
-                <score>same</score>
-                <indexDiff>-1</indexDiff>
-                </linked>
               <visible>0</visible>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
@@ -8846,7 +8837,7 @@ A</longName>
             </voice>
           </Measure>
         <Measure len="5/8">
-          <endRepeat>2</endRepeat>
+          <endRepeat>5</endRepeat>
           <voice>
             <Chord>
               <linked>
@@ -9297,12 +9288,6 @@ A</longName>
             <Tempo>
               <tempo>1.5</tempo>
               <followText>1</followText>
-              <linked>
-                <score>same</score>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                </linked>
               <visible>0</visible>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
@@ -10099,7 +10084,7 @@ A</longName>
             </voice>
           </Measure>
         <Measure len="5/8">
-          <endRepeat>2</endRepeat>
+          <endRepeat>5</endRepeat>
           <voice>
             <Chord>
               <linked>
@@ -10440,11 +10425,6 @@ A</longName>
             <Tempo>
               <tempo>1.5</tempo>
               <followText>1</followText>
-              <linked>
-                <location>
-                  <staves>-1</staves>
-                  </location>
-                </linked>
               <visible>0</visible>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
               </Tempo>
@@ -11241,7 +11221,7 @@ A</longName>
             </voice>
           </Measure>
         <Measure len="5/8">
-          <endRepeat>2</endRepeat>
+          <endRepeat>5</endRepeat>
           <voice>
             <Chord>
               <linked>
