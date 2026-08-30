@@ -195,7 +195,24 @@
           <linkedMain/>
           <style>Subtitle</style>
           <size>9</size>
+          <offset x="0.0799127" y="12.1576"/>
           <text>&quot;(...) yield yourselves unto God (...)&quot; Romans 6:13</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Composer</style>
+          <text>Winfield S. Weeden, 1896</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Lyricist</style>
+          <text>Judson W. VanDeVenter</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Subtitle</style>
+          <offset x="-0.0799127" y="7.20306"/>
+          <text><font size="8"/>Surrender 8. 7. 8. 7.</text>
           </Text>
         </VBox>
       <Measure>
@@ -4140,6 +4157,24 @@ A</longName>
             <style>Subtitle</style>
             <text>&quot;(...) yield yourselves unto God (...)&quot; Romans 6:13</text>
             </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Composer</style>
+            <text>Winfield S. Weeden, 1896</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Lyricist</style>
+            <text>Judson W. VanDeVenter</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Subtitle</style>
+            <text><font size="8"/>Surrender 8. 7. 8. 7.</text>
+            </Text>
           </VBox>
         <Measure>
           <voice>
@@ -5885,7 +5920,7 @@ A</longName>
           <voice>
             <KeySig>
               <linked>
-                <indexDiff>3</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <accidental>-3</accidental>
               </KeySig>
@@ -5910,21 +5945,21 @@ A</longName>
               <Lyrics>
                 <no>1</no>
                 <linked>
-                  <indexDiff>6</indexDiff>
+                  <indexDiff>9</indexDiff>
                   </linked>
                 <text>All</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
-                  <indexDiff>6</indexDiff>
+                  <indexDiff>9</indexDiff>
                   </linked>
                 <text>All</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
-                  <indexDiff>6</indexDiff>
+                  <indexDiff>9</indexDiff>
                   </linked>
                 <text>All</text>
                 </Lyrics>

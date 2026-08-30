@@ -1,0 +1,6089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default" />
+    <currentLayer>0</currentLayer>
+    <Division>480</Division>
+    <Style>
+      <showMeasureNumber>0</showMeasureNumber>
+      <pageWidth>8.26998</pageWidth>
+      <pageHeight>11.69</pageHeight>
+      <pagePrintableWidth>7.08888</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <chordSymbolAFontSize>10</chordSymbolAFontSize>
+      <chordSymbolBFontSize>10</chordSymbolBFontSize>
+      <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
+      <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+      <tupletFontSize>10</tupletFontSize>
+      <fingeringFontSize>10</fingeringFontSize>
+      <lhGuitarFingeringFontSize>10</lhGuitarFingeringFontSize>
+      <rhGuitarFingeringFontSize>10</rhGuitarFingeringFontSize>
+      <stringNumberFontSize>10</stringNumberFontSize>
+      <partInstrumentFontSize>10</partInstrumentFontSize>
+      <dynamicsFontSize>10</dynamicsFontSize>
+      <tempoFontSize>10</tempoFontSize>
+      <metronomeFontSize>10</metronomeFontSize>
+      <measureNumberFontSize>10</measureNumberFontSize>
+      <mmRestRangeFontSize>10</mmRestRangeFontSize>
+      <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
+      <repeatLeftFontSize>10</repeatLeftFontSize>
+      <repeatRightFontSize>10</repeatRightFontSize>
+      <glissandoFontSize>10</glissandoFontSize>
+      <bendFontSize>10</bendFontSize>
+      <headerFontSize>10</headerFontSize>
+      <footerFontSize>10</footerFontSize>
+      <Spatium>1.74978</Spatium>
+    </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger" />
+    <metaTag name="composer">Thomas Tallis, c. 1567</metaTag>
+    <metaTag name="copyright" />
+    <metaTag name="creationDate">2026-08-30</metaTag>
+    <metaTag name="lyricist">Based on Te Deum laudamus. Tate and Brady's Supplement to the New Version . . . , 1700</metaTag>
+    <metaTag name="movementNumber" />
+    <metaTag name="movementTitle" />
+    <metaTag name="originalFormat">musicxml</metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="poet" />
+    <metaTag name="source" />
+    <metaTag name="translator" />
+    <metaTag name="workNumber" />
+    <metaTag name="workTitle">O God, We Praise Thee</metaTag>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          <noteheadScheme>shape-7-aikin</noteheadScheme>
+        </StaffType>
+        <barLineSpan>2</barLineSpan>
+      </Staff>
+      <trackName>Women</trackName>
+      <Instrument id="women">
+        <trackName>Women</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>81</maxPitchA>
+        <instrumentId>voice.female</instrumentId>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel name="Soprano">
+          <program value="52" />
+          <controller ctrl="10" value="63" />
+          <synti>Fluid</synti>
+        </Channel>
+        <Channel name="Alto">
+          <program value="52" />
+          <synti>Fluid</synti>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Part>
+      <Staff id="2">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          <noteheadScheme>shape-7-aikin</noteheadScheme>
+        </StaffType>
+      </Staff>
+      <trackName>Men</trackName>
+      <Instrument id="men">
+        <trackName>Men</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>69</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>67</maxPitchA>
+        <instrumentId>voice.male</instrumentId>
+        <clef>F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel name="Tenor">
+          <program value="52" />
+          <controller ctrl="10" value="63" />
+          <synti>Fluid</synti>
+        </Channel>
+        <Channel name="Bass">
+          <program value="52" />
+          <synti>Fluid</synti>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Staff id="1">
+      <VBox>
+        <height>13.4</height>
+        <Text>
+          <style>Title</style>
+          <offset x="0" y="-0.0367454" />
+          <text>
+            <font size="22" />
+            <font face="Felix Titling" />O God, We Praise Thee</text>
+        </Text>
+        <Text>
+          <style>Subtitle</style>
+          <offset x="0" y="6.7349" />
+          <text>
+            <font size="8" />
+            <font face="Perpetua Titling MT" />Tallis' Ordinal C. M.</text>
+        </Text>
+        <Text>
+          <style>Composer</style>
+          <align>right,top</align>
+          <offset x="0" y="19.0394" />
+          <text>
+            <font face="Cambria Math" />Thomas Tallis, c. 1567</text>
+        </Text>
+        <Text>
+          <style>Lyricist</style>
+          <align>left,top</align>
+          <offset x="0" y="19.0394" />
+          <text>
+            <font face="Cambria Math" />Based on 
+<i>Te Deum laudamus.
+</i>Tate and Brady's 
+<i>Supplement to the New Version . . . ,</i> 1700</text>
+        </Text>
+      </VBox>
+      <Measure len="1/4">
+        <irregular>1</irregular>
+        <voice>
+          <Clef>
+            <linkedMain />
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+          </Clef>
+          <KeySig>
+            <linkedMain />
+            <accidental>4</accidental>
+          </KeySig>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />1.O</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />2.To</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />3.O</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />4.Th'a</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />5.The</text>
+            </Lyrics>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />God,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thee</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ho</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />pos</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ho</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />we</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />all</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />tles,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />praise</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />an</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ho</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />glo</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />church</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              <head>ti</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thee,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />gels</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />rious</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />through</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />and</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />cry</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ho</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />com</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />out</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />con</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />a</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />pan</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />the</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />fess</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />loud;</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Lord,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />y,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />world,</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />That</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />To</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Whom</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />And</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />O</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>75</pitch>
+              <tpc>23</tpc>
+              <head>ti</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thou</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thee</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />heav'n</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />proph</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Lord,</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />the</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />the</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ets</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />con</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />on</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />powers</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />hosts</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />crowned</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />fess</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />on</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />o</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />with</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />es</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure len="3/4">
+        <LayoutBreak>
+          <subtype>line</subtype>
+        </LayoutBreak>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="11" />
+                <font face="Cambria Math" />Lord</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="11" />
+                <font face="Cambria Math" />high,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="11" />
+                <font face="Cambria Math" />bey,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="11" />
+                <font face="Cambria Math" />light,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="11" />
+                <font face="Cambria Math" />Thee,</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              <head>ti</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure len="1/4">
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />And</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Both</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />The</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />With</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />That</text>
+            </Lyrics>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ev</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />cher</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />world</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />all</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thou</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />er</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />u</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />is</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />the</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />e</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />last</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />bim</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />with</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />mar</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ter</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              <head>ti</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ing</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />and</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />the</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />tyrs,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />nal</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />By</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Con</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Of</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thy</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Of</text>
+            </Lyrics>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Fa</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ser</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />glo</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />no</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Fa</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ther</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />a</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ry</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ble</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ther</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />art,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />phim,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />filled</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />host,</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />art,</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />earth</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ly</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />jes</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />praise</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />maj</text>
+            </Lyrics>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />all</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />tin</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />Thy</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />con</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />bound</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />the</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ual</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ma</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />stant</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />less</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />a</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />do</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />tic</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />re</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />es</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              <head>ti</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain />
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />dored.</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>1</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />cry:</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>2</no>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ray.</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>3</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />cite.</text>
+            </Lyrics>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />ty.</text>
+            </Lyrics>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <BarLine>
+            <linkedMain />
+            <subtype>double</subtype>
+            <span>0</span>
+          </BarLine>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <BarLine>
+            <linkedMain />
+            <subtype>end</subtype>
+            <span>0</span>
+          </BarLine>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />A</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <Lyrics>
+              <linkedMain />
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>
+                <font size="12" />
+                <font face="Cambria Math" />men.</text>
+            </Lyrics>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+    </Staff>
+    <Staff id="2">
+      <Measure len="1/4">
+        <voice>
+          <Clef>
+            <linkedMain />
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+          </Clef>
+          <KeySig>
+            <linkedMain />
+            <accidental>4</accidental>
+          </KeySig>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <Accidental>
+                <linkedMain />
+                <subtype>accidentalSharp</subtype>
+              </Accidental>
+              <pitch>58</pitch>
+              <tpc>24</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure len="3/4">
+        <voice>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure len="1/4">
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <head>re</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              <head>la</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <head>sol</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <BarLine>
+            <linkedMain />
+            <subtype>double</subtype>
+          </BarLine>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              <head>mi</head>
+            </Note>
+          </Chord>
+          <BarLine>
+            <linkedMain />
+            <subtype>end</subtype>
+          </BarLine>
+        </voice>
+        <voice>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <head>fa</head>
+            </Note>
+          </Chord>
+          <Chord>
+            <linkedMain />
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain />
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <head>do</head>
+            </Note>
+          </Chord>
+        </voice>
+      </Measure>
+    </Staff>
+    <Score>
+      <Tracklist sTrack="0" dstTrack="0" />
+      <LayerTag id="0" tag="default" />
+      <currentLayer>0</currentLayer>
+      <Division>480</Division>
+      <Style>
+        <showMeasureNumber>0</showMeasureNumber>
+        <pageWidth>8.26998</pageWidth>
+        <pageHeight>11.69</pageHeight>
+        <pagePrintableWidth>7.08888</pagePrintableWidth>
+        <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+        <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+        <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+        <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+        <pageOddTopMargin>0.590551</pageOddTopMargin>
+        <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+        <chordSymbolAFontSize>10</chordSymbolAFontSize>
+        <chordSymbolBFontSize>10</chordSymbolBFontSize>
+        <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
+        <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+        <tupletFontSize>10</tupletFontSize>
+        <fingeringFontSize>10</fingeringFontSize>
+        <lhGuitarFingeringFontSize>10</lhGuitarFingeringFontSize>
+        <rhGuitarFingeringFontSize>10</rhGuitarFingeringFontSize>
+        <stringNumberFontSize>10</stringNumberFontSize>
+        <partInstrumentFontSize>10</partInstrumentFontSize>
+        <dynamicsFontSize>10</dynamicsFontSize>
+        <tempoFontSize>10</tempoFontSize>
+        <metronomeFontSize>10</metronomeFontSize>
+        <measureNumberFontSize>10</measureNumberFontSize>
+        <mmRestRangeFontSize>10</mmRestRangeFontSize>
+        <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
+        <repeatLeftFontSize>10</repeatLeftFontSize>
+        <repeatRightFontSize>10</repeatRightFontSize>
+        <glissandoFontSize>10</glissandoFontSize>
+        <bendFontSize>10</bendFontSize>
+        <headerFontSize>10</headerFontSize>
+        <footerFontSize>10</footerFontSize>
+        <Spatium>1.74978</Spatium>
+      </Style>
+      <showInvisible>1</showInvisible>
+      <showUnprintable>1</showUnprintable>
+      <showFrames>1</showFrames>
+      <showMargins>0</showMargins>
+      <metaTag name="arranger" />
+      <metaTag name="composer">Thomas Tallis, c. 1567</metaTag>
+      <metaTag name="copyright" />
+      <metaTag name="creationDate">2026-08-30</metaTag>
+      <metaTag name="lyricist">Based on Te Deum laudamus. Tate and Brady's Supplement to the New Version . . . , 1700</metaTag>
+      <metaTag name="movementNumber" />
+      <metaTag name="movementTitle" />
+      <metaTag name="originalFormat">musicxml</metaTag>
+      <metaTag name="platform">Linux</metaTag>
+      <metaTag name="poet" />
+      <metaTag name="source" />
+      <metaTag name="translator" />
+      <metaTag name="workNumber" />
+      <metaTag name="workTitle">O God, We Praise Thee</metaTag>
+      <metaTag name="partName">Soprano</metaTag>
+      <Part>
+        <Staff id="1">
+          <linkedTo>1</linkedTo>
+          <StaffType group="pitched">
+            <name>stdNormal</name>
+            <noteheadScheme>shape-7-aikin</noteheadScheme>
+          </StaffType>
+          <barLineSpan>2</barLineSpan>
+        </Staff>
+        <trackName>Women</trackName>
+        <Instrument id="women">
+          <trackName>Women</trackName>
+          <minPitchP>55</minPitchP>
+          <maxPitchP>84</maxPitchP>
+          <minPitchA>55</minPitchA>
+          <maxPitchA>81</maxPitchA>
+          <instrumentId>voice.female</instrumentId>
+          <Articulation>
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="staccatissimo">
+            <velocity>100</velocity>
+            <gateTime>33</gateTime>
+          </Articulation>
+          <Articulation name="staccato">
+            <velocity>100</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="portato">
+            <velocity>100</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="tenuto">
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="marcato">
+            <velocity>120</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoTenuto">
+            <velocity>120</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Channel name="Soprano">
+            <program value="52" />
+            <controller ctrl="10" value="63" />
+            <synti>Fluid</synti>
+          </Channel>
+          <Channel name="Alto">
+            <program value="52" />
+            <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+      <Staff id="1">
+        <VBox>
+          <height>13.4</height>
+          <Text>
+            <style>Title</style>
+            <offset x="0" y="-0.0367454" />
+            <text>
+              <font size="22" />
+              <font face="Felix Titling" />O God, We Praise Thee</text>
+          </Text>
+          <Text>
+            <style>Subtitle</style>
+            <offset x="0" y="6.7349" />
+            <text>
+              <font size="8" />
+              <font face="Perpetua Titling MT" />Tallis' Ordinal C. M.</text>
+          </Text>
+          <Text>
+            <style>Composer</style>
+            <align>right,top</align>
+            <offset x="0" y="19.0394" />
+            <text>
+              <font face="Cambria Math" />Thomas Tallis, c. 1567</text>
+          </Text>
+          <Text>
+            <style>Lyricist</style>
+            <align>left,top</align>
+            <offset x="0" y="19.0394" />
+            <text>
+              <font face="Cambria Math" />Based on 
+<i>Te Deum laudamus.
+</i>Tate and Brady's 
+<i>Supplement to the New Version . . . ,</i> 1700</text>
+          </Text>
+        </VBox>
+        <Measure len="1/4">
+          <irregular>1</irregular>
+          <voice>
+            <Clef>
+              <linkedMain />
+              <concertClefType>G</concertClefType>
+              <transposingClefType>G</transposingClefType>
+            </Clef>
+            <KeySig>
+              <linkedMain />
+              <accidental>4</accidental>
+            </KeySig>
+            <TimeSig>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />1.O</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />2.To</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />3.O</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />4.Th'a</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />5.The</text>
+              </Lyrics>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>68</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>73</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>73</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>76</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>75</pitch>
+                <tpc>23</tpc>
+                <head>ti</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>73</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>73</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="3/4">
+          <LayoutBreak>
+            <subtype>line</subtype>
+          </LayoutBreak>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="1/4">
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />And</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Both</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />The</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />With</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />That</text>
+              </Lyrics>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>68</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>73</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>73</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />By</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Con</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Of</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thy</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Of</text>
+              </Lyrics>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>68</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />earth</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />jes</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />praise</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />maj</text>
+              </Lyrics>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>3</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />dored.</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />cry:</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ray.</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />cite.</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ty.</text>
+              </Lyrics>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <BarLine>
+              <linkedMain />
+              <subtype>double</subtype>
+              <span>0</span>
+            </BarLine>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <BarLine>
+              <linkedMain />
+              <subtype>end</subtype>
+              <span>0</span>
+            </BarLine>
+          </voice>
+        </Measure>
+      </Staff>
+      <name>Soprano</name>
+    </Score>
+    <Score>
+      <Tracklist sTrack="1" dstTrack="0" />
+      <LayerTag id="0" tag="default" />
+      <currentLayer>0</currentLayer>
+      <Division>480</Division>
+      <Style>
+        <showMeasureNumber>0</showMeasureNumber>
+        <pageWidth>8.26998</pageWidth>
+        <pageHeight>11.69</pageHeight>
+        <pagePrintableWidth>7.08888</pagePrintableWidth>
+        <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+        <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+        <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+        <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+        <pageOddTopMargin>0.590551</pageOddTopMargin>
+        <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+        <chordSymbolAFontSize>10</chordSymbolAFontSize>
+        <chordSymbolBFontSize>10</chordSymbolBFontSize>
+        <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
+        <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+        <tupletFontSize>10</tupletFontSize>
+        <fingeringFontSize>10</fingeringFontSize>
+        <lhGuitarFingeringFontSize>10</lhGuitarFingeringFontSize>
+        <rhGuitarFingeringFontSize>10</rhGuitarFingeringFontSize>
+        <stringNumberFontSize>10</stringNumberFontSize>
+        <partInstrumentFontSize>10</partInstrumentFontSize>
+        <dynamicsFontSize>10</dynamicsFontSize>
+        <tempoFontSize>10</tempoFontSize>
+        <metronomeFontSize>10</metronomeFontSize>
+        <measureNumberFontSize>10</measureNumberFontSize>
+        <mmRestRangeFontSize>10</mmRestRangeFontSize>
+        <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
+        <repeatLeftFontSize>10</repeatLeftFontSize>
+        <repeatRightFontSize>10</repeatRightFontSize>
+        <glissandoFontSize>10</glissandoFontSize>
+        <bendFontSize>10</bendFontSize>
+        <headerFontSize>10</headerFontSize>
+        <footerFontSize>10</footerFontSize>
+        <Spatium>1.74978</Spatium>
+      </Style>
+      <showInvisible>1</showInvisible>
+      <showUnprintable>1</showUnprintable>
+      <showFrames>1</showFrames>
+      <showMargins>0</showMargins>
+      <metaTag name="arranger" />
+      <metaTag name="composer">Thomas Tallis, c. 1567</metaTag>
+      <metaTag name="copyright" />
+      <metaTag name="creationDate">2026-08-30</metaTag>
+      <metaTag name="lyricist">Based on Te Deum laudamus. Tate and Brady's Supplement to the New Version . . . , 1700</metaTag>
+      <metaTag name="movementNumber" />
+      <metaTag name="movementTitle" />
+      <metaTag name="originalFormat">musicxml</metaTag>
+      <metaTag name="platform">Linux</metaTag>
+      <metaTag name="poet" />
+      <metaTag name="source" />
+      <metaTag name="translator" />
+      <metaTag name="workNumber" />
+      <metaTag name="workTitle">O God, We Praise Thee</metaTag>
+      <metaTag name="partName">Alto</metaTag>
+      <Part>
+        <Staff id="1">
+          <linkedTo>1</linkedTo>
+          <StaffType group="pitched">
+            <name>stdNormal</name>
+            <noteheadScheme>shape-7-aikin</noteheadScheme>
+          </StaffType>
+          <barLineSpan>2</barLineSpan>
+        </Staff>
+        <trackName>Women</trackName>
+        <Instrument id="women">
+          <trackName>Women</trackName>
+          <minPitchP>55</minPitchP>
+          <maxPitchP>84</maxPitchP>
+          <minPitchA>55</minPitchA>
+          <maxPitchA>81</maxPitchA>
+          <instrumentId>voice.female</instrumentId>
+          <Articulation>
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="staccatissimo">
+            <velocity>100</velocity>
+            <gateTime>33</gateTime>
+          </Articulation>
+          <Articulation name="staccato">
+            <velocity>100</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="portato">
+            <velocity>100</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="tenuto">
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="marcato">
+            <velocity>120</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoTenuto">
+            <velocity>120</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Channel name="Soprano">
+            <program value="52" />
+            <controller ctrl="10" value="63" />
+            <synti>Fluid</synti>
+          </Channel>
+          <Channel name="Alto">
+            <program value="52" />
+            <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+      <Staff id="1">
+        <VBox>
+          <height>13.4</height>
+          <Text>
+            <style>Title</style>
+            <offset x="0" y="-0.0367454" />
+            <text>
+              <font size="22" />
+              <font face="Felix Titling" />O God, We Praise Thee</text>
+          </Text>
+          <Text>
+            <style>Subtitle</style>
+            <offset x="0" y="6.7349" />
+            <text>
+              <font size="8" />
+              <font face="Perpetua Titling MT" />Tallis' Ordinal C. M.</text>
+          </Text>
+          <Text>
+            <style>Composer</style>
+            <align>right,top</align>
+            <offset x="0" y="19.0394" />
+            <text>
+              <font face="Cambria Math" />Thomas Tallis, c. 1567</text>
+          </Text>
+          <Text>
+            <style>Lyricist</style>
+            <align>left,top</align>
+            <offset x="0" y="19.0394" />
+            <text>
+              <font face="Cambria Math" />Based on 
+<i>Te Deum laudamus.
+</i>Tate and Brady's 
+<i>Supplement to the New Version . . . ,</i> 1700</text>
+          </Text>
+        </VBox>
+        <Measure len="1/4">
+          <irregular>1</irregular>
+          <voice>
+            <Clef>
+              <linkedMain />
+              <concertClefType>G</concertClefType>
+              <transposingClefType>G</transposingClefType>
+            </Clef>
+            <KeySig>
+              <linkedMain />
+              <accidental>4</accidental>
+            </KeySig>
+            <TimeSig>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />God,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thee</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ho</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />pos</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ho</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />we</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />all</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />tles,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />praise</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />an</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ho</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />glo</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />church</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>63</pitch>
+                <tpc>23</tpc>
+                <head>ti</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thee,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />gels</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />rious</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />through</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />and</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />cry</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ho</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />com</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />out</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />con</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />a</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />pan</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />the</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />fess</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />loud;</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Lord,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />y,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />world,</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />That</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />To</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Whom</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />And</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />O</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thou</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thee</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />heav'n</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />proph</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Lord,</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>68</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />the</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />the</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ets</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />con</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />on</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />powers</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />hosts</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />crowned</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />fess</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ly</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />on</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />o</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />with</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />es</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="3/4">
+          <LayoutBreak>
+            <subtype>line</subtype>
+          </LayoutBreak>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="11" />
+                  <font face="Cambria Math" />Lord</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="11" />
+                  <font face="Cambria Math" />high,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="11" />
+                  <font face="Cambria Math" />bey,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="11" />
+                  <font face="Cambria Math" />light,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="11" />
+                  <font face="Cambria Math" />Thee,</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>63</pitch>
+                <tpc>23</tpc>
+                <head>ti</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="1/4">
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ev</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />cher</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />world</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />all</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thou</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />er</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />u</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />is</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />the</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />e</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />last</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />bim</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />with</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />mar</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ter</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>63</pitch>
+                <tpc>23</tpc>
+                <head>ti</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ing</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />and</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />the</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />tyrs,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />nal</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Fa</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ser</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />glo</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />no</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Fa</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ther</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />a</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ry</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ble</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ther</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />art,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />phim,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />filled</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />host,</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />art,</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />all</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />tin</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />Thy</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />con</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />bound</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />the</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ual</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />ma</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />stant</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />less</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <Lyrics>
+                <linkedMain />
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />a</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>1</no>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />do</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>2</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />tic</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>3</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />re</text>
+              </Lyrics>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>middle</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />es</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>63</pitch>
+                <tpc>23</tpc>
+                <head>ti</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>3</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <BarLine>
+              <linkedMain />
+              <subtype>double</subtype>
+              <span>0</span>
+            </BarLine>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <BarLine>
+              <linkedMain />
+              <subtype>end</subtype>
+              <span>0</span>
+            </BarLine>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>begin</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />A</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>61</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <Lyrics>
+                <linkedMain />
+                <no>4</no>
+                <syllabic>end</syllabic>
+                <text>
+                  <font size="12" />
+                  <font face="Cambria Math" />men.</text>
+              </Lyrics>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      </Staff>
+      <name>Alto</name>
+    </Score>
+    <Score>
+      <Tracklist sTrack="4" dstTrack="0" />
+      <LayerTag id="0" tag="default" />
+      <currentLayer>0</currentLayer>
+      <Division>480</Division>
+      <Style>
+        <showMeasureNumber>0</showMeasureNumber>
+        <pageWidth>8.26998</pageWidth>
+        <pageHeight>11.69</pageHeight>
+        <pagePrintableWidth>7.08888</pagePrintableWidth>
+        <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+        <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+        <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+        <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+        <pageOddTopMargin>0.590551</pageOddTopMargin>
+        <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+        <chordSymbolAFontSize>10</chordSymbolAFontSize>
+        <chordSymbolBFontSize>10</chordSymbolBFontSize>
+        <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
+        <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+        <tupletFontSize>10</tupletFontSize>
+        <fingeringFontSize>10</fingeringFontSize>
+        <lhGuitarFingeringFontSize>10</lhGuitarFingeringFontSize>
+        <rhGuitarFingeringFontSize>10</rhGuitarFingeringFontSize>
+        <stringNumberFontSize>10</stringNumberFontSize>
+        <partInstrumentFontSize>10</partInstrumentFontSize>
+        <dynamicsFontSize>10</dynamicsFontSize>
+        <tempoFontSize>10</tempoFontSize>
+        <metronomeFontSize>10</metronomeFontSize>
+        <measureNumberFontSize>10</measureNumberFontSize>
+        <mmRestRangeFontSize>10</mmRestRangeFontSize>
+        <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
+        <repeatLeftFontSize>10</repeatLeftFontSize>
+        <repeatRightFontSize>10</repeatRightFontSize>
+        <glissandoFontSize>10</glissandoFontSize>
+        <bendFontSize>10</bendFontSize>
+        <headerFontSize>10</headerFontSize>
+        <footerFontSize>10</footerFontSize>
+        <Spatium>1.74978</Spatium>
+      </Style>
+      <showInvisible>1</showInvisible>
+      <showUnprintable>1</showUnprintable>
+      <showFrames>1</showFrames>
+      <showMargins>0</showMargins>
+      <metaTag name="arranger" />
+      <metaTag name="composer">Thomas Tallis, c. 1567</metaTag>
+      <metaTag name="copyright" />
+      <metaTag name="creationDate">2026-08-30</metaTag>
+      <metaTag name="lyricist">Based on Te Deum laudamus. Tate and Brady's Supplement to the New Version . . . , 1700</metaTag>
+      <metaTag name="movementNumber" />
+      <metaTag name="movementTitle" />
+      <metaTag name="originalFormat">musicxml</metaTag>
+      <metaTag name="platform">Linux</metaTag>
+      <metaTag name="poet" />
+      <metaTag name="source" />
+      <metaTag name="translator" />
+      <metaTag name="workNumber" />
+      <metaTag name="workTitle">O God, We Praise Thee</metaTag>
+      <metaTag name="partName">Tenor</metaTag>
+      <Part>
+        <Staff id="1">
+          <linkedTo>2</linkedTo>
+          <StaffType group="pitched">
+            <name>stdNormal</name>
+            <noteheadScheme>shape-7-aikin</noteheadScheme>
+          </StaffType>
+        </Staff>
+        <trackName>Men</trackName>
+        <Instrument id="men">
+          <trackName>Men</trackName>
+          <minPitchP>38</minPitchP>
+          <maxPitchP>69</maxPitchP>
+          <minPitchA>41</minPitchA>
+          <maxPitchA>67</maxPitchA>
+          <instrumentId>voice.male</instrumentId>
+          <clef>F</clef>
+          <Articulation>
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="staccatissimo">
+            <velocity>100</velocity>
+            <gateTime>33</gateTime>
+          </Articulation>
+          <Articulation name="staccato">
+            <velocity>100</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="portato">
+            <velocity>100</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="tenuto">
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="marcato">
+            <velocity>120</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoTenuto">
+            <velocity>120</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Channel name="Tenor">
+            <program value="52" />
+            <controller ctrl="10" value="63" />
+            <synti>Fluid</synti>
+          </Channel>
+          <Channel name="Bass">
+            <program value="52" />
+            <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+      <Staff id="1">
+        <Measure len="1/4">
+          <voice>
+            <Clef>
+              <linkedMain />
+              <concertClefType>F</concertClefType>
+              <transposingClefType>F</transposingClefType>
+            </Clef>
+            <KeySig>
+              <linkedMain />
+              <accidental>4</accidental>
+            </KeySig>
+            <TimeSig>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>54</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <Accidental>
+                  <linkedMain />
+                  <subtype>accidentalSharp</subtype>
+                </Accidental>
+                <pitch>58</pitch>
+                <tpc>24</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="3/4">
+          <voice>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="1/4">
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>54</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>61</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>3</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <BarLine>
+              <linkedMain />
+              <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>56</pitch>
+                <tpc>22</tpc>
+                <head>mi</head>
+              </Note>
+            </Chord>
+            <BarLine>
+              <linkedMain />
+              <subtype>end</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      </Staff>
+      <name>Tenor</name>
+    </Score>
+    <Score>
+      <Tracklist sTrack="5" dstTrack="0" />
+      <LayerTag id="0" tag="default" />
+      <currentLayer>0</currentLayer>
+      <Division>480</Division>
+      <Style>
+        <showMeasureNumber>0</showMeasureNumber>
+        <pageWidth>8.26998</pageWidth>
+        <pageHeight>11.69</pageHeight>
+        <pagePrintableWidth>7.08888</pagePrintableWidth>
+        <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+        <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+        <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+        <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+        <pageOddTopMargin>0.590551</pageOddTopMargin>
+        <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+        <chordSymbolAFontSize>10</chordSymbolAFontSize>
+        <chordSymbolBFontSize>10</chordSymbolBFontSize>
+        <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
+        <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+        <tupletFontSize>10</tupletFontSize>
+        <fingeringFontSize>10</fingeringFontSize>
+        <lhGuitarFingeringFontSize>10</lhGuitarFingeringFontSize>
+        <rhGuitarFingeringFontSize>10</rhGuitarFingeringFontSize>
+        <stringNumberFontSize>10</stringNumberFontSize>
+        <partInstrumentFontSize>10</partInstrumentFontSize>
+        <dynamicsFontSize>10</dynamicsFontSize>
+        <tempoFontSize>10</tempoFontSize>
+        <metronomeFontSize>10</metronomeFontSize>
+        <measureNumberFontSize>10</measureNumberFontSize>
+        <mmRestRangeFontSize>10</mmRestRangeFontSize>
+        <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
+        <repeatLeftFontSize>10</repeatLeftFontSize>
+        <repeatRightFontSize>10</repeatRightFontSize>
+        <glissandoFontSize>10</glissandoFontSize>
+        <bendFontSize>10</bendFontSize>
+        <headerFontSize>10</headerFontSize>
+        <footerFontSize>10</footerFontSize>
+        <Spatium>1.74978</Spatium>
+      </Style>
+      <showInvisible>1</showInvisible>
+      <showUnprintable>1</showUnprintable>
+      <showFrames>1</showFrames>
+      <showMargins>0</showMargins>
+      <metaTag name="arranger" />
+      <metaTag name="composer">Thomas Tallis, c. 1567</metaTag>
+      <metaTag name="copyright" />
+      <metaTag name="creationDate">2026-08-30</metaTag>
+      <metaTag name="lyricist">Based on Te Deum laudamus. Tate and Brady's Supplement to the New Version . . . , 1700</metaTag>
+      <metaTag name="movementNumber" />
+      <metaTag name="movementTitle" />
+      <metaTag name="originalFormat">musicxml</metaTag>
+      <metaTag name="platform">Linux</metaTag>
+      <metaTag name="poet" />
+      <metaTag name="source" />
+      <metaTag name="translator" />
+      <metaTag name="workNumber" />
+      <metaTag name="workTitle">O God, We Praise Thee</metaTag>
+      <metaTag name="partName">Bass</metaTag>
+      <Part>
+        <Staff id="1">
+          <linkedTo>2</linkedTo>
+          <StaffType group="pitched">
+            <name>stdNormal</name>
+            <noteheadScheme>shape-7-aikin</noteheadScheme>
+          </StaffType>
+        </Staff>
+        <trackName>Men</trackName>
+        <Instrument id="men">
+          <trackName>Men</trackName>
+          <minPitchP>38</minPitchP>
+          <maxPitchP>69</maxPitchP>
+          <minPitchA>41</minPitchA>
+          <maxPitchA>67</maxPitchA>
+          <instrumentId>voice.male</instrumentId>
+          <clef>F</clef>
+          <Articulation>
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="staccatissimo">
+            <velocity>100</velocity>
+            <gateTime>33</gateTime>
+          </Articulation>
+          <Articulation name="staccato">
+            <velocity>100</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="portato">
+            <velocity>100</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="tenuto">
+            <velocity>100</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="marcato">
+            <velocity>120</velocity>
+            <gateTime>67</gateTime>
+          </Articulation>
+          <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+          </Articulation>
+          <Articulation name="marcatoTenuto">
+            <velocity>120</velocity>
+            <gateTime>100</gateTime>
+          </Articulation>
+          <Channel name="Tenor">
+            <program value="52" />
+            <controller ctrl="10" value="63" />
+            <synti>Fluid</synti>
+          </Channel>
+          <Channel name="Bass">
+            <program value="52" />
+            <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+      <Staff id="1">
+        <Measure len="1/4">
+          <voice>
+            <Clef>
+              <linkedMain />
+              <concertClefType>F</concertClefType>
+              <transposingClefType>F</transposingClefType>
+            </Clef>
+            <KeySig>
+              <linkedMain />
+              <accidental>4</accidental>
+            </KeySig>
+            <TimeSig>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>49</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>47</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>45</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>49</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>47</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>54</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>54</pitch>
+                <tpc>20</tpc>
+                <head>re</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="3/4">
+          <voice>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>47</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure len="1/4">
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>49</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>47</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>45</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>49</pitch>
+                <tpc>21</tpc>
+                <head>la</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>45</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>47</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>47</pitch>
+                <tpc>19</tpc>
+                <head>sol</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>3</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <BarLine>
+              <linkedMain />
+              <subtype>double</subtype>
+            </BarLine>
+            <Chord>
+              <linkedMain />
+              <dots>1</dots>
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+        <Measure>
+          <voice>
+            <TimeSig>
+              <visible>0</visible>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+            </TimeSig>
+            <BarLine>
+              <linkedMain />
+              <subtype>end</subtype>
+            </BarLine>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>45</pitch>
+                <tpc>17</tpc>
+                <head>fa</head>
+              </Note>
+            </Chord>
+            <Chord>
+              <linkedMain />
+              <durationType>half</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linkedMain />
+                <pitch>52</pitch>
+                <tpc>18</tpc>
+                <head>do</head>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      </Staff>
+      <name>Bass</name>
+    </Score>
+  </Score>
+</museScore>

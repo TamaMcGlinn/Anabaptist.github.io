@@ -8,5 +8,6 @@ english/come_thou_fount ukrainian/Спасе_джерело_утіхи
 dutch/hoe_groot_zijt_Gij english/how_great_Thou_art
 dutch/deep_harmony dutch/hoe_goed_is_het_mijn_God_en_Heer
 dutch/spirit_of_the_living_God english/spirit_of_the_living_God
-english/all_to_Jesus_i_surrender ukrainian/все_віддам_я_для_Ісуса
+english/all_to_Jesus_i_surrender ukrainian/все_віддам_я_для_Ісуса english/all_to_jesus_i_surrender_2
 dutch/Vader_ik_aanbid_U danish/Fader_du_har_skabt_mig
+english/just_as_i_am english/just_as_i_am_2

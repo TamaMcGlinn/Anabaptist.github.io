@@ -187,8 +187,25 @@
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
+          <offset x="0.19028" y="12.2834"/>
           <text><font size="8"></font>&quot;(...) man is not justified by the works of the law, 
 but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Composer</style>
+          <text>William B. Bradbury, 1849</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Lyricist</style>
+          <text>Charlotte Elliott, 1834</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Subtitle</style>
+          <offset x="-0.126853" y="7.08237"/>
+          <text><font size="8"/>Woodworth L. M.</text>
           </Text>
         </VBox>
       <Measure len="1/4">
@@ -2062,7 +2079,7 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/4">
+      <Measure>
         <voice>
           <Chord>
             <linkedMain/>
@@ -2091,6 +2108,35 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
               <size>12</size>
               <text>come.</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
@@ -2101,6 +2147,18 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             </Chord>
           </voice>
         <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -2978,8 +3036,20 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/4">
+      <Measure>
         <voice>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -2998,6 +3068,35 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             <linkedMain/>
             <dots>1</dots>
             <durationType>half</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              <headScheme>shape-7-aikin</headScheme>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
@@ -3118,6 +3217,24 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
           <Text>
             <style>Instrument Name (Part)</style>
             <text>Soprano</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Composer</style>
+            <text>William B. Bradbury, 1849</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Lyricist</style>
+            <text>Charlotte Elliott, 1834</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Subtitle</style>
+            <text><font size="8"/>Woodworth L. M.</text>
             </Text>
           </VBox>
         <Measure len="1/4">
@@ -4721,56 +4838,24 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
               </Chord>
             <Chord>
               <linked>
-                <location>
-                  <fractions>-3/2</fractions>
-                  </location>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
-              <Lyrics>
-                <linked>
+              <Spanner type="Slur">
+                <prev>
                   <location>
-                    <fractions>-3/2</fractions>
+                    <measures>1</measures>
+                    <fractions>-3/4</fractions>
                     </location>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
-              <Lyrics>
-                <no>1</no>
-                <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
-              <Lyrics>
-                <no>2</no>
-                <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
-              <Lyrics>
-                <no>3</no>
-                <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
+                  </prev>
+                </Spanner>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
                   </linked>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
+                <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
             </voice>
@@ -4826,6 +4911,7 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
                   <location>
                     <fractions>-3/2</fractions>
                     </location>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>67</pitch>
                 <tpc>15</tpc>
@@ -4946,6 +5032,24 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             <style>Instrument Name (Part)</style>
             <text>Alto</text>
             </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Composer</style>
+            <text>William B. Bradbury, 1849</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Lyricist</style>
+            <text>Charlotte Elliott, 1834</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Subtitle</style>
+            <text><font size="8"/>Woodworth L. M.</text>
+            </Text>
           </VBox>
         <Measure len="1/4">
           <voice>
@@ -4976,28 +5080,28 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
               <durationType>quarter</durationType>
               <Lyrics>
                 <linked>
-                  <indexDiff>7</indexDiff>
+                  <indexDiff>10</indexDiff>
                   </linked>
                 <text>Just</text>
                 </Lyrics>
               <Lyrics>
                 <no>1</no>
                 <linked>
-                  <indexDiff>7</indexDiff>
+                  <indexDiff>10</indexDiff>
                   </linked>
                 <text>Just</text>
                 </Lyrics>
               <Lyrics>
                 <no>2</no>
                 <linked>
-                  <indexDiff>7</indexDiff>
+                  <indexDiff>10</indexDiff>
                   </linked>
                 <text>Just</text>
                 </Lyrics>
               <Lyrics>
                 <no>3</no>
                 <linked>
-                  <indexDiff>7</indexDiff>
+                  <indexDiff>10</indexDiff>
                   </linked>
                 <text>Just</text>
                 </Lyrics>
@@ -6638,6 +6742,18 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
                   </linked>
                 <text>come,</text>
                 </Lyrics>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    <indexDiff>5</indexDiff>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
@@ -6655,61 +6771,27 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
               <linked>
                 <location>
                   <voices>1</voices>
-                  <fractions>-3/2</fractions>
                   </location>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
-              <Lyrics>
-                <linked>
+              <Spanner type="Slur">
+                <prev>
                   <location>
-                    <fractions>-3/2</fractions>
+                    <fractions>-3/4</fractions>
                     </location>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
-              <Lyrics>
-                <no>1</no>
-                <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
-              <Lyrics>
-                <no>2</no>
-                <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
-              <Lyrics>
-                <no>3</no>
-                <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
-                  <indexDiff>1</indexDiff>
-                  </linked>
-                <text>I</text>
-                </Lyrics>
+                  </prev>
+                </Spanner>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   <location>
                     <voices>1</voices>
-                    <fractions>-3/2</fractions>
                     </location>
-                  <indexDiff>1</indexDiff>
                   </linked>
-                <pitch>62</pitch>
-                <tpc>16</tpc>
+                <pitch>63</pitch>
+                <tpc>11</tpc>
+                <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
             </voice>
@@ -6892,6 +6974,33 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             <style>Instrument Name (Part)</style>
             <text>Tenor</text>
             </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Composer</style>
+            <text>William B. Bradbury, 1849</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Lyricist</style>
+            <text>Charlotte Elliott, 1834</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Subtitle</style>
+            <text><font size="8"/>Woodworth L. M.</text>
+            </Text>
           </VBox>
         <Measure len="1/4">
           <voice>
@@ -6913,7 +7022,7 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>8</indexDiff>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 80</text>
               </Tempo>
@@ -7613,7 +7722,6 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
               <linked>
                 <location>
                   <voices>1</voices>
-                  <fractions>-3/2</fractions>
                   </location>
                 </linked>
               <dots>1</dots>
@@ -7623,11 +7731,11 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
                 <linked>
                   <location>
                     <voices>1</voices>
-                    <fractions>-3/2</fractions>
                     </location>
                   </linked>
-                <pitch>46</pitch>
-                <tpc>12</tpc>
+                <pitch>51</pitch>
+                <tpc>11</tpc>
+                <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
             </voice>
@@ -7650,6 +7758,7 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
                     <voices>1</voices>
                     <fractions>-3/2</fractions>
                     </location>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>51</pitch>
                 <tpc>11</tpc>
@@ -7770,6 +7879,33 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
             <style>Instrument Name (Part)</style>
             <text>Bass</text>
             </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Composer</style>
+            <text>William B. Bradbury, 1849</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Lyricist</style>
+            <text>Charlotte Elliott, 1834</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Subtitle</style>
+            <text><font size="8"/>Woodworth L. M.</text>
+            </Text>
           </VBox>
         <Measure len="1/4">
           <voice>
@@ -7791,7 +7927,7 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>8</indexDiff>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 80</text>
               </Tempo>
@@ -8364,21 +8500,16 @@ but by the faith of Jesus Christ (...)&quot; (Gal. 2:16)</text>
               </Chord>
             <Chord>
               <linked>
-                <location>
-                  <fractions>-3/2</fractions>
-                  </location>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
                 <linked>
-                  <location>
-                    <fractions>-3/2</fractions>
-                    </location>
                   </linked>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
+                <headScheme>shape-7-aikin</headScheme>
                 </Note>
               </Chord>
             </voice>
